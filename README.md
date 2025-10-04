@@ -1,5 +1,7 @@
 # 2026 CS new Grad/Junior Jobs
 
+See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
+
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
 | Junior data engineer <!--id:566144539--> | Carbonsoft | Mississauga, Ontario | Hybrid | 2025-10-04 | [Apply](https://ca.linkedin.com/jobs/view/junior-data-engineer-at-carbonsoft-4309135742) |
