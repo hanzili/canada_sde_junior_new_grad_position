@@ -5,6 +5,8 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
 | Associate Full Stack .NET Developer <!--id:566540740--> | Euna Solutions | Oakville, ON | Hybrid | 2025-10-06 | [Apply](<https://euna.bamboohr.com/careers/458?postedDate=2025-10-06&source=indeed&src=indeed>) |
+| Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) <!--id:566557594--> | DoorDash Canada | Toronto, ON | Onsite | 2025-10-06 | [Apply](<https://grnh.se/c7kiu9ez1us>) |
+| Junior Software Developer <!--id:566573104--> | Jetstream Hospitality Solutions | Victoria, BC | Remote | 2025-10-06 | [Apply](<http://ca.indeed.com/job/junior-software-developer-c7426c9dd3062b75>) |
 | Junior data engineer <!--id:566144539--> | Carbonsoft | Mississauga, Ontario | Hybrid | 2025-10-04 | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-at-carbonsoft-4309135742>) |
 | Junior DevOps Engineer <!--id:565939213--> | Aerialytic | Toronto, ON M5H 2T7 | Remote | 2025-10-03 | [Apply](<http://ca.indeed.com/job/junior-devops-engineer-d89e3631f827b757>) |
 | Embedded Software Engineer – New Grad (Real-Time Systems) <!--id:565953454--> | Ciena | Ottawa, ON | Onsite | 2025-10-03 | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145>) |
