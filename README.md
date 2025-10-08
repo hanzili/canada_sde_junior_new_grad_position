@@ -4,9 +4,20 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| Junior Software Engineer <!--id:566871787--> | Lockheed Martin | Halifax, NS | Onsite | 2025-10-07 | [Apply](<https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=2260966&partnerid=30122&siteid=6598>) |
+| Software Engineer, New Grad <!--id:566967759--> | Okta | Toronto, ON | Onsite | 2025-10-07 | [Apply](<https://www.okta.com/company/careers/engineering/software-engineer-new-grad-2025-6268356/>) |
+| Jr. Java Developer <!--id:566771279--> | Expedite Technology Solutions LLC | Toronto, Ontario | Onsite | 2025-10-07 | [Apply](<https://www2.jobdiva.com/candidates/myjobs/openjob_outside.jsp?SearchString=&StatesString=&a=p9jdnwkqidcv6v7kl3s2jz2ipcslzc03cdv6u87hp8h64yiv0s2m7ylo90bxdjp7&compid=-1&id=26462648&source=LinkedIn.com&source=linkedin.com&src=LinkedIn>) |
+| Associate QA Engineer <!--id:566717309--> | Veeva Systems | Toronto, Ontario | Onsite | 2025-10-07 | [Apply](<https://veevasystems.contacthr.com/149059318>) |
+| Junior Developer <!--id:566761336--> | Truck Parts Solutions Inc. | Sherwood Park, AB T8A 6J7 | Hybrid | 2025-10-07 | [Apply](<http://ca.indeed.com/job/junior-developer-b2b2efed8e56e969>) |
+| New career opportunity with Spordle - Junior web integrator / developer <!--id:566701926--> | Spordle | Boisbriand, Quebec | Onsite | 2025-10-07 | [Apply](<https://erp.spordle.com/news//new_career_opportunity_with_spordle_-_junior_web_integrator_developer>) |
+| Junior Software Developer <!--id:567039371--> | Skyvault Technical Solutions | Halifax, NS B3L 1A3 | Hybrid | 2025-10-07 | [Apply](<http://ca.indeed.com/job/junior-software-developer-51c7b8f7f90a2081>) |
+| Jr. Software Developer NSP Automation <!--id:566860555--> | Nokia | Kanata, Ontario | Onsite | 2025-10-07 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/25331/?src=SNS-102&utm_medium=jobshare>) |
+| QA – Data Reviewer, Associate <!--id:566826728--> | AtomVie Global Radiopharma Inc. | Hamilton, Ontario | Onsite | 2025-10-07 | [Apply](<https://ca.linkedin.com/jobs/view/qa-%E2%80%93-data-reviewer-associate-at-atomvie-global-radiopharma-inc-4311557829>) |
+| Junior Backend Developer <!--id:566972664--> | samdesk Canada Inc. | Edmonton, AB | Hybrid | 2025-10-07 | [Apply](<https://samsters.bamboohr.com/careers/100?postedDate=2025-10-07&source=indeed&src=indeed>) |
 | Associate Full Stack .NET Developer <!--id:566540740--> | Euna Solutions | Oakville, ON | Hybrid | 2025-10-06 | [Apply](<https://euna.bamboohr.com/careers/458?postedDate=2025-10-06&source=indeed&src=indeed>) |
 | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) <!--id:566557594--> | DoorDash Canada | Toronto, ON | Onsite | 2025-10-06 | [Apply](<https://grnh.se/c7kiu9ez1us>) |
 | Junior Software Developer <!--id:566573104--> | Jetstream Hospitality Solutions | Victoria, BC | Remote | 2025-10-06 | [Apply](<http://ca.indeed.com/job/junior-software-developer-c7426c9dd3062b75>) |
+| Software Engineer, New Grad (2025) <!--id:566865444--> | Okta | Toronto, ON | Onsite | 2025-10-06 | [Apply](<https://grnh.se/b55ca2a31us>) |
 | Junior data engineer <!--id:566144539--> | Carbonsoft | Mississauga, Ontario | Hybrid | 2025-10-04 | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-at-carbonsoft-4309135742>) |
 | Junior DevOps Engineer <!--id:565939213--> | Aerialytic | Toronto, ON M5H 2T7 | Remote | 2025-10-03 | [Apply](<http://ca.indeed.com/job/junior-devops-engineer-d89e3631f827b757>) |
 | Embedded Software Engineer – New Grad (Real-Time Systems) <!--id:565953454--> | Ciena | Ottawa, ON | Onsite | 2025-10-03 | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145>) |
