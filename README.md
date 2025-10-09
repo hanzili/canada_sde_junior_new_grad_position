@@ -4,6 +4,12 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| Associate Data Engineer <!--id:567356103--> | Infoblox | Burnaby, British Columbia | Hybrid | 2025-10-09 | [Apply](<https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/job/6809/?utm_medium=jobboard&utm_source=linkedin>) |
+| Associate Software Engineer <!--id:567350463--> | Infoblox | Burnaby, British Columbia | Hybrid | 2025-10-09 | [Apply](<https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/job/6808/?utm_medium=jobboard&utm_source=linkedin>) |
+| Jr. Web Developer <!--id:567140712--> | PaintScout | Calgary, AB T2E 3H6 | Hybrid | 2025-10-08 | [Apply](<http://ca.indeed.com/job/jr-web-developer-cad43d1af8c4ab60>) |
+| Junior Database Developer <!--id:567143079--> | Scotlynn | Norfolk County, Ontario | Onsite | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/junior-database-developer-at-scotlynn-4309549993>) |
+| QA Associate II (Batch Reviewer) <!--id:567419480--> | Thermo Fisher Scientific | Mississauga, ON | Onsite | 2025-10-08 | [Apply](<https://jsv3.recruitics.com/redirect?rx_cid=3436&rx_jobId=R-01330575&rx_url=https%3A%2F%2Fjobs.thermofisher.com%2Fglobal%2Fen%2Fjob%2FR-01330575%2FQA-Associate-II-Batch-Reviewer%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D123525%26rx_id%3De9eab68e-a4b3-11f0-a577-d3cd5a31b153%26rx_job%3DR-01330575%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251009T080452Z%26rx_vp%3Dcpc%26utm_medium%3Dppc%26utm_source%3Drecruitics_indeedorganic>) |
+| Junior Software Quality Engineer <!--id:567207113--> | Helic & Co. |  | Remote | 2025-10-08 | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-quality-engineer-at-helic-co-4312310548>) |
 | Junior Software Engineer <!--id:566871787--> | Lockheed Martin | Halifax, NS | Onsite | 2025-10-07 | [Apply](<https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=2260966&partnerid=30122&siteid=6598>) |
 | Software Engineer, New Grad <!--id:566967759--> | Okta | Toronto, ON | Onsite | 2025-10-07 | [Apply](<https://www.okta.com/company/careers/engineering/software-engineer-new-grad-2025-6268356/>) |
 | Jr. Java Developer <!--id:566771279--> | Expedite Technology Solutions LLC | Toronto, Ontario | Onsite | 2025-10-07 | [Apply](<https://www2.jobdiva.com/candidates/myjobs/openjob_outside.jsp?SearchString=&StatesString=&a=p9jdnwkqidcv6v7kl3s2jz2ipcslzc03cdv6u87hp8h64yiv0s2m7ylo90bxdjp7&compid=-1&id=26462648&source=LinkedIn.com&source=linkedin.com&src=LinkedIn>) |
@@ -18,6 +24,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) <!--id:566557594--> | DoorDash Canada | Toronto, ON | Onsite | 2025-10-06 | [Apply](<https://grnh.se/c7kiu9ez1us>) |
 | Junior Software Developer <!--id:566573104--> | Jetstream Hospitality Solutions | Victoria, BC | Remote | 2025-10-06 | [Apply](<http://ca.indeed.com/job/junior-software-developer-c7426c9dd3062b75>) |
 | Software Engineer, New Grad (2025) <!--id:566865444--> | Okta | Toronto, ON | Onsite | 2025-10-06 | [Apply](<https://grnh.se/b55ca2a31us>) |
+| Software Engineer I (entry) <!--id:567314638--> | Jerry | Greater Toronto Area, ON | Remote | 2025-10-06 | [Apply](<https://jobs.ashbyhq.com/Jerry.ai/3bcc7471-9625-409b-b8ec-05fe1f28c66f>) |
 | Junior data engineer <!--id:566144539--> | Carbonsoft | Mississauga, Ontario | Hybrid | 2025-10-04 | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-at-carbonsoft-4309135742>) |
 | Junior DevOps Engineer <!--id:565939213--> | Aerialytic | Toronto, ON M5H 2T7 | Remote | 2025-10-03 | [Apply](<http://ca.indeed.com/job/junior-devops-engineer-d89e3631f827b757>) |
 | Embedded Software Engineer – New Grad (Real-Time Systems) <!--id:565953454--> | Ciena | Ottawa, ON | Onsite | 2025-10-03 | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145>) |
