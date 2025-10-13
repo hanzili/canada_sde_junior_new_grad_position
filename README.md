@@ -4,13 +4,13 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior React Developer <!--id:568247982--> | Aura Marketing Group | Greater Toronto Area | Remote | 2025-10-12 | [Apply](<https://ca.linkedin.com/jobs/view/junior-react-developer-at-aura-marketing-group-4294276814>) |
+| Junior React Developer <!--id:568247982--> | Aura Marketing Group | Greater Toronto Area | Remote | 2025-10-12 | [Apply](<https://ca.linkedin.com/jobs/view/junior-react-developer-at-aura-marketing-group-4294276814>) |
 | Software Engineer I <!--id:567695310--> | Fortra |  | Remote | 2025-10-10 | [Apply](<https://job-boards.greenhouse.io/fortra/jobs/4608700006?gh_src=61ca785e6us>) |
 | Jr Data Developer <!--id:568008830--> | Citylitics | Toronto | Onsite | 2025-10-10 | [Apply](<https://jobs.workable.com/view/fFn4UqBn7RYC8Wy3nZq6Za/jr-data-developer-in-toronto-at-citylitics>) |
 | Junior PHP Developer (Full-Time, On-Site) <!--id:567955188--> | Visual Defence Inc | Richmond Hill, ON L4B 1L5 | Onsite | 2025-10-10 | [Apply](<http://ca.indeed.com/job/junior-php-developer-full-time-site-fb65029955495f69>) |
 | Jr Data Developer <!--id:567998467--> | Citylitics Inc. | Toronto, Ontario | Onsite | 2025-10-10 | [Apply](<https://ca.linkedin.com/jobs/view/jr-data-developer-at-citylitics-inc-4313278517>) |
 | Junior Full-Stack Software Developer <!--id:568110256--> | Effortless Admin Inc. | Edmonton, AB T6E 5W3 | Onsite | 2025-10-10 | [Apply](<https://effortlessadmin.bamboohr.com/careers/74?postedDate=2025-10-10&source=indeed&src=indeed>) |
-| 🆕 Associate, Software Engineer, New Grad <!--id:568194315--> | Capital One | Toronto, ON | Hybrid | 2025-10-10 | [Apply](<https://www.capitalonecareers.ca/job/-/-/1733/87113331552>) |
+| Associate, Software Engineer, New Grad <!--id:568194315--> | Capital One | Toronto, ON | Hybrid | 2025-10-10 | [Apply](<https://www.capitalonecareers.ca/job/-/-/1733/87113331552>) |
 | Associate Data Engineer <!--id:567356103--> | Infoblox | Burnaby, British Columbia | Hybrid | 2025-10-09 | [Apply](<https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/job/6809/?utm_medium=jobboard&utm_source=linkedin>) |
 | Associate Software Engineer <!--id:567350463--> | Infoblox | Burnaby, British Columbia | Hybrid | 2025-10-09 | [Apply](<https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/job/6808/?utm_medium=jobboard&utm_source=linkedin>) |
 | Junior/ Intermediate Software Developer <!--id:567632927--> | JSI | Ottawa, ON K2M 1X3 | Hybrid | 2025-10-09 | [Apply](<https://recruiting.ultipro.ca/JAT5000JAT/JobBoard/df50e66e-c710-4410-afdb-88066904e063/OpportunityDetail?opportunityId=899ad4d6-74aa-49ab-9d52-86a6de10f9a7&postingId=c16ed7cb-ef8d-4987-b6d6-4dd69c6d66d8>) |
