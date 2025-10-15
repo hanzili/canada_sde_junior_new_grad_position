@@ -4,7 +4,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Associate, Software Engineer, New Grad <!--id:568555331--> | SoTalent | Toronto, Ontario | Hybrid | 2025-10-13 | [Apply](<https://ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-at-sotalent-4311475480>) |
+| 🆕 Associate Full-Stack Engineer <!--id:569030980--> | Jobgether | Americas | Remote | 2025-10-14 | [Apply](<https://apply.workable.com/j/9E9157C3C2>) |
+| 🆕 Junior Dynamics 365/Power Platform Developer <!--id:569014203--> | Charter Telecom | Langford, BC V9B 1Y2 | Hybrid | 2025-10-14 | [Apply](<https://charter.bamboohr.com/careers/164?postedDate=2025-10-14&source=indeed&src=indeed>) |
+| Associate, Software Engineer, New Grad <!--id:568555331--> | SoTalent | Toronto, Ontario | Hybrid | 2025-10-13 | [Apply](<https://ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-at-sotalent-4311475480>) |
 | Junior React Developer <!--id:568247982--> | Aura Marketing Group | Greater Toronto Area | Remote | 2025-10-12 | [Apply](<https://ca.linkedin.com/jobs/view/junior-react-developer-at-aura-marketing-group-4294276814>) |
 | Software Engineer I <!--id:567695310--> | Fortra |  | Remote | 2025-10-10 | [Apply](<https://job-boards.greenhouse.io/fortra/jobs/4608700006?gh_src=61ca785e6us>) |
 | Jr Data Developer <!--id:568008830--> | Citylitics | Toronto | Onsite | 2025-10-10 | [Apply](<https://jobs.workable.com/view/fFn4UqBn7RYC8Wy3nZq6Za/jr-data-developer-in-toronto-at-citylitics>) |
