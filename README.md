@@ -4,13 +4,13 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior Web Developer - Cheil Canada <!--id:569745090--> | Cheil Saudi Arabia | Mississauga, ON | Onsite | 2025-10-17 | [Apply](<https://www.jobs.ca/job/941951bd-6a47-465c-a649-7576c69d1fe4>) |
-| 🆕 Junior Web Developer - Cheil Canada <!--id:569709689--> | Cheil KSA | Mississauga, Ontario | Onsite | 2025-10-16 | [Apply](<https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0766d99fc0176fdc995f53d45&id=8a7883a89157fe0b01917610f348288e&lang=en&source=>) |
-| 🆕 Junior Software Development Environment (DevOps) Engineer Hybrid <!--id:569686417--> | Ribbon Communications | Ottawa, ON | Onsite | 2025-10-16 | [Apply](<https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Canada-Ontario-Ottawa/Junior-Software-Development-Environment--DevOps--Engineer-Hybrid_REQ-2025-2725>) |
-| 🆕 Software Engineering Associate <!--id:569609348--> | Innodata Inc. |  | Remote | 2025-10-16 | [Apply](<https://innodatainc.recruitee.com/o/software-engineering-associate/c/new?source=LinkedIn+Basic+Jobs>) |
-| 🆕 Junior Software Developer <!--id:569581091--> | Belfass Technologies | Toronto, ON M5T 1X5 | Onsite | 2025-10-16 | [Apply](<http://ca.indeed.com/job/junior-software-developer-763f49d3965220e6>) |
-| 🆕 Back-End Warehouse Associate (General Labour) <!--id:569628059--> | TecDale | Pickering, ON L1W 3R9 | Onsite | 2025-10-16 | [Apply](<http://ca.indeed.com/job/back-end-warehouse-associate-general-labour-7f1bfa52a5b6beb6>) |
-| 🆕 Junior Software Engineer <!--id:569732004--> | Rose Rocket Inc. | Toronto, ON | Hybrid | 2025-10-16 | [Apply](<https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447?utm_source=zLlNxYPbrO>) |
+| Junior Web Developer - Cheil Canada <!--id:569745090--> | Cheil Saudi Arabia | Mississauga, ON | Onsite | 2025-10-17 | [Apply](<https://www.jobs.ca/job/941951bd-6a47-465c-a649-7576c69d1fe4>) |
+| Junior Web Developer - Cheil Canada <!--id:569709689--> | Cheil KSA | Mississauga, Ontario | Onsite | 2025-10-16 | [Apply](<https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0766d99fc0176fdc995f53d45&id=8a7883a89157fe0b01917610f348288e&lang=en&source=>) |
+| Junior Software Development Environment (DevOps) Engineer Hybrid <!--id:569686417--> | Ribbon Communications | Ottawa, ON | Onsite | 2025-10-16 | [Apply](<https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Canada-Ontario-Ottawa/Junior-Software-Development-Environment--DevOps--Engineer-Hybrid_REQ-2025-2725>) |
+| Software Engineering Associate <!--id:569609348--> | Innodata Inc. |  | Remote | 2025-10-16 | [Apply](<https://innodatainc.recruitee.com/o/software-engineering-associate/c/new?source=LinkedIn+Basic+Jobs>) |
+| Junior Software Developer <!--id:569581091--> | Belfass Technologies | Toronto, ON M5T 1X5 | Onsite | 2025-10-16 | [Apply](<http://ca.indeed.com/job/junior-software-developer-763f49d3965220e6>) |
+| Back-End Warehouse Associate (General Labour) <!--id:569628059--> | TecDale | Pickering, ON L1W 3R9 | Onsite | 2025-10-16 | [Apply](<http://ca.indeed.com/job/back-end-warehouse-associate-general-labour-7f1bfa52a5b6beb6>) |
+| Junior Software Engineer <!--id:569732004--> | Rose Rocket Inc. | Toronto, ON | Hybrid | 2025-10-16 | [Apply](<https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447?utm_source=zLlNxYPbrO>) |
 | Associate Full-Stack Engineer <!--id:569030980--> | Jobgether | Americas | Remote | 2025-10-14 | [Apply](<https://apply.workable.com/j/9E9157C3C2>) |
 | Junior Dynamics 365/Power Platform Developer <!--id:569014203--> | Charter Telecom | Langford, BC V9B 1Y2 | Hybrid | 2025-10-14 | [Apply](<https://charter.bamboohr.com/careers/164?postedDate=2025-10-14&source=indeed&src=indeed>) |
 | Associate, Software Engineer, New Grad <!--id:568555331--> | SoTalent | Toronto, Ontario | Hybrid | 2025-10-13 | [Apply](<https://ca.linkedin.com/jobs/view/associate-software-engineer-new-grad-at-sotalent-4311475480>) |
