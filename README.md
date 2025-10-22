@@ -4,8 +4,14 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior Software Engineer <!--id:570497679--> | OnTraccr Technologies | Burnaby, BC V5C 4G3 | Remote | 2025-10-20 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-839511f9bf091e2a>) |
-| 🆕 Junior Software Developer - ISS Team - 100% onsite <!--id:570513721--> | Lockheed Martin | Halifax, NS | Onsite | 2025-10-20 | [Apply](<https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=2262357&partnerid=30122&siteid=6598>) |
+| 🆕 Junior Web Developer <!--id:570930135--> | City of Guelph, ON | Guelph, ON N1H 3A1 | Onsite | 2025-10-21 | [Apply](<https://careers-guelph.icims.com/jobs/4060/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
+| 🆕 Junior Web Developer <!--id:570900561--> | City Of Guelph | Guelph, Ontario | Hybrid | 2025-10-21 | [Apply](<https://careers-guelph.icims.com/jobs/4060/junior-web-developer/job>) |
+| 🆕 Développeur(euse) Full Stack junior <!--id:570808743--> | Dynacom Technologies | Laval, QC | Onsite | 2025-10-21 | [Apply](<http://ca.indeed.com/job/d%C3%A9veloppeureuse-full-stack-junior-72029cf1db7f89ed>) |
+| 🆕 Junior Tech Developer <!--id:570834318--> | Open Source Integrators | Mississauga, Ontario | Onsite | 2025-10-21 | [Apply](<https://opensourceintegrators.bamboohr.com/careers/57>) |
+| 🆕 Software Developer Rotation Program - Spring 2026 New Graduate <!--id:570889828--> | D2L | Winnipeg, Manitoba | Hybrid | 2025-10-21 | [Apply](<https://www.d2l.com/careers/jobs/?gh_jid=7336031&gh_src=LinkedIn&job_id=7336031>) |
+| 🆕 Jr. Mobile Developer <!--id:570736306--> | Tech Consulting | Ottawa, Ontario | Onsite | 2025-10-21 | [Apply](<https://ca.linkedin.com/jobs/view/jr-mobile-developer-at-tech-consulting-4316936796>) |
+| Junior Software Engineer <!--id:570497679--> | OnTraccr Technologies | Burnaby, BC V5C 4G3 | Remote | 2025-10-20 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-839511f9bf091e2a>) |
+| Junior Software Developer - ISS Team - 100% onsite <!--id:570513721--> | Lockheed Martin | Halifax, NS | Onsite | 2025-10-20 | [Apply](<https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=2262357&partnerid=30122&siteid=6598>) |
 | Junior Web Developer - Cheil Canada <!--id:569745090--> | Cheil Saudi Arabia | Mississauga, ON | Onsite | 2025-10-17 | [Apply](<https://www.jobs.ca/job/941951bd-6a47-465c-a649-7576c69d1fe4>) |
 | Junior Web Developer - Cheil Canada <!--id:569709689--> | Cheil KSA | Mississauga, Ontario | Onsite | 2025-10-16 | [Apply](<https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0766d99fc0176fdc995f53d45&id=8a7883a89157fe0b01917610f348288e&lang=en&source=>) |
 | Junior Software Development Environment (DevOps) Engineer Hybrid <!--id:569686417--> | Ribbon Communications | Ottawa, ON | Onsite | 2025-10-16 | [Apply](<https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Canada-Ontario-Ottawa/Junior-Software-Development-Environment--DevOps--Engineer-Hybrid_REQ-2025-2725>) |
