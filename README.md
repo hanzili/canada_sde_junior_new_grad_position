@@ -4,9 +4,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior Full Stack Developer <!--id:571810522--> | Greenworks Tools Canada | East Gwillimbury, ON L9N 1H2 | Onsite | 2025-10-24 | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000003&cid=fe68cae9-d9f7-4431-80d5-46f3664779c6&jobId=461052&jwId=SYS%3AJW%3A001&lang=fr_CA&source=IN>) |
+| Junior Full Stack Developer <!--id:571810522--> | Greenworks Tools Canada | East Gwillimbury, ON L9N 1H2 | Onsite | 2025-10-24 | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000003&cid=fe68cae9-d9f7-4431-80d5-46f3664779c6&jobId=461052&jwId=SYS%3AJW%3A001&lang=fr_CA&source=IN>) |
 | Junior Software Developer (3 positions) <!--id:571388363--> | NAV CANADA | Ottawa, ON | Hybrid | 2025-10-23 | [Apply](<https://navcanada.wd10.myworkdayjobs.com/en-US/NAV_Careers/job/Ottawa/Junior-Software-Developer--3-positions-_JR-7450>) |
-| 🆕 Associate Java Full-Stack Developer <!--id:571683841--> | Priceline.com | Toronto, ON | Hybrid | 2025-10-23 | [Apply](<https://priceline.wd1.myworkdayjobs.com/en-US/Priceline/job/Toronto/Associate-Java-Full-Stack-Developer_R5280>) |
+| Associate Java Full-Stack Developer <!--id:571683841--> | Priceline.com | Toronto, ON | Hybrid | 2025-10-23 | [Apply](<https://priceline.wd1.myworkdayjobs.com/en-US/Priceline/job/Toronto/Associate-Java-Full-Stack-Developer_R5280>) |
 | Software Developer Rotation Program – Spring 2026 New Graduate <!--id:571040190--> | Course Merchant | Greater Winnipeg Metropolitan Area | Hybrid | 2025-10-22 | [Apply](<https://www.d2l.com/careers/jobs/software-developer-rotation-program-spring-2026-new-graduate/7336031/>) |
 | Software Engineer I, Transportation <!--id:571218147--> | ACV Auctions | Toronto, Ontario | Onsite | 2025-10-22 | [Apply](<https://jobs.dayforcehcm.com/en-US/acv/CANDIDATEPORTAL/jobs/27922?gh_src=42927e942us>) |
 | Junior Web Developer <!--id:570930135--> | City of Guelph, ON | Guelph, ON N1H 3A1 | Onsite | 2025-10-21 | [Apply](<https://careers-guelph.icims.com/jobs/4060/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
