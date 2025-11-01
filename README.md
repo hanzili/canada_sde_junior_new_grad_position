@@ -4,16 +4,16 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Junior QA Developer <!--id:573699375--> | CadMakers | Burnaby, British Columbia | Onsite | 2025-10-31 | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-developer-at-cadmakers-4333242210>) |
+| Junior QA Developer <!--id:573699375--> | CadMakers | Burnaby, British Columbia | Onsite | 2025-10-31 | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-developer-at-cadmakers-4333242210>) |
 | Junior Web Developer <!--id:573332785--> | Kijona | Vancouver, British Columbia | Remote | 2025-10-30 | [Apply](<https://ca.linkedin.com/jobs/view/junior-web-developer-at-kijona-4319548941>) |
 | Associate Software Developer – Anyware Endpoints C++ Developer <!--id:573384202--> | HP | Vancouver, British Columbia | Hybrid | 2025-10-30 | [Apply](<https://hpinc.contacthr.com/149637766?src=Linkedin+Full+Feed>) |
 | DL Performance Software Engineer, LLM Inference - New College Graduate 2025 <!--id:573420255--> | NVIDIA | Toronto, ON M5G 1P5 | Onsite | 2025-10-30 | [Apply](<https://click.appcast.io/t/2Msl38CyVrVkhKom_ay5zhDkA7BM6uWs4uzfNSdHyfM=>) |
-| 🆕 Junior Developer <!--id:573617519--> | Sinn Studio Inc. | Toronto, Ontario | Onsite | 2025-10-30 | [Apply](<https://sinnstudio.applytojobs.ca/programming/41846?source=LinkedIn>) |
-| 🆕 Junior Full Stack Developer <!--id:573621352--> | eGames Coaching | Kamloops, BC V2C 3J4 | Onsite | 2025-10-30 | [Apply](<http://ca.indeed.com/job/junior-full-stack-developer-9b36ee9e5efb2aab>) |
-| 🆕 Full Stack Developer Junior <!--id:573543662--> | Ides Canada Inc. | Stouffville, ON | Onsite | 2025-10-30 | [Apply](<http://ca.indeed.com/job/full-stack-developer-junior-f0e620b82c756eb2>) |
-| 🆕 Security Engineer (Junior) <!--id:573555722--> | Aiven | Toronto, Ontario | Onsite | 2025-10-30 | [Apply](<https://aiven.io/careers/job/4700718101?gh_jid=4700718101&gh_src=09810bf2teu>) |
-| 🆕 Engineer I - AI Security <!--id:573725128--> | TD | Toronto, ON | Onsite | 2025-10-30 | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I---AI-Security_R_1454031-1>) |
-| 🆕 Junior Software Engineer <!--id:573537896--> | MDLand Digital Health Inc. | Remote | Remote | 2025-10-30 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-dba779871d871ced>) |
+| Junior Developer <!--id:573617519--> | Sinn Studio Inc. | Toronto, Ontario | Onsite | 2025-10-30 | [Apply](<https://sinnstudio.applytojobs.ca/programming/41846?source=LinkedIn>) |
+| Junior Full Stack Developer <!--id:573621352--> | eGames Coaching | Kamloops, BC V2C 3J4 | Onsite | 2025-10-30 | [Apply](<http://ca.indeed.com/job/junior-full-stack-developer-9b36ee9e5efb2aab>) |
+| Full Stack Developer Junior <!--id:573543662--> | Ides Canada Inc. | Stouffville, ON | Onsite | 2025-10-30 | [Apply](<http://ca.indeed.com/job/full-stack-developer-junior-f0e620b82c756eb2>) |
+| Security Engineer (Junior) <!--id:573555722--> | Aiven | Toronto, Ontario | Onsite | 2025-10-30 | [Apply](<https://aiven.io/careers/job/4700718101?gh_jid=4700718101&gh_src=09810bf2teu>) |
+| Engineer I - AI Security <!--id:573725128--> | TD | Toronto, ON | Onsite | 2025-10-30 | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I---AI-Security_R_1454031-1>) |
+| Junior Software Engineer <!--id:573537896--> | MDLand Digital Health Inc. | Remote | Remote | 2025-10-30 | [Apply](<http://ca.indeed.com/job/junior-software-engineer-dba779871d871ced>) |
 | Software Engineer I <!--id:573235354--> | TD | Toronto, ON | Onsite | 2025-10-29 | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1451759>) |
 | Associate Site Reliability Specialist <!--id:573296231--> | Co-operators | Mississauga, ON | Onsite | 2025-10-29 | [Apply](<https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=eaa51d27-ea9b-4354-ba42-eec2b6e0062e&postingId=502b50af-b192-481c-ae0f-1eca57a1decd>) |
 | Junior Software Engineer <!--id:573262806--> | Zaui | Remote | Remote | 2025-10-29 | [Apply](<https://zaui.humi.ca/job-board/engineering/42513?source=Indeed>) |
