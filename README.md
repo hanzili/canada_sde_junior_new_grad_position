@@ -4,6 +4,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| Associate Software Engineer - Seeking 2025 & 2026 Grads <!--id:577372893--> | Veeva Systems | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://veevasystems.contacthr.com/148821730>) |
+| Junior Java Developer <!--id:577396626--> | Tata Consultancy Services | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://ca.linkedin.com/jobs/view/junior-java-developer-at-tata-consultancy-services-4322209630>) |
+| Associate IT Developer <!--id:579942117--> | RhythmQ | Mississauga, ON | Hybrid | 2025-11-01 | [Apply](<https://rhythmq.breezy.hr/p/e2d0cb121d92-associate-it-developer?source=indeed>) |
 | Junior QA Developer <!--id:573699375--> | CadMakers | Burnaby, British Columbia | Onsite | 2025-10-31 | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-developer-at-cadmakers-4333242210>) |
 | Junior Web Developer <!--id:573332785--> | Kijona | Vancouver, British Columbia | Remote | 2025-10-30 | [Apply](<https://ca.linkedin.com/jobs/view/junior-web-developer-at-kijona-4319548941>) |
 | Associate Software Developer – Anyware Endpoints C++ Developer <!--id:573384202--> | HP | Vancouver, British Columbia | Hybrid | 2025-10-30 | [Apply](<https://hpinc.contacthr.com/149637766?src=Linkedin+Full+Feed>) |
@@ -77,7 +80,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 | Junior Software Engineer <!--id:567743114--> | Quadient | Vancouver, BC | Hybrid | 2025-10-09 | [Apply](<https://careers.quadient.com/en/jobs/junior-software-engineer>) |
 | Développeur(se) Backend - Data & Cloud Junior <!--id:567562374--> | Mageska Capital Inc. | Laval, Quebec | Onsite | 2025-10-09 | [Apply](<https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-se-backend-data-cloud-junior-at-mageska-capital-inc-4312719831>) |
 | Software Test Automation Engineer – New Grad <!--id:567642490--> | Ciena | Ottawa, ON | Onsite | 2025-10-09 | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Test-Automation-Engineer---New-Grad_R029196>) |
-| Associate Software Engineer - Seeking 2025 & 2026 Grads <!--id:567479999--> | Veeva Systems | Toronto, Ontario | Onsite | 2025-10-09 | [Apply](<https://veevasystems.contacthr.com/148821730>) |
 | Junior Software Engineer <!--id:567550195--> | FDM Group | Toronto, Ontario | Onsite | 2025-10-09 | [Apply](<https://careers.fdmgroup.com/vacancies/834/software-engineering-practice.html>) |
 | Junior Software Developer - Montreal or Ottawa <!--id:567726510--> | Lockheed Martin | Montréal, QC | Onsite | 2025-10-09 | [Apply](<https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=2261275&partnerid=30122&siteid=6598>) |
 | Jr. Web Developer <!--id:567140712--> | PaintScout | Calgary, AB T2E 3H6 | Hybrid | 2025-10-08 | [Apply](<http://ca.indeed.com/job/jr-web-developer-cad43d1af8c4ab60>) |
