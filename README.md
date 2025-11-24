@@ -4,6 +4,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
+| 🆕 Senior Software Engineer I - Python <!--id:580174758--> | Emburse | Toronto, Ontario | Hybrid | 2025-11-23 | [Apply](<https://jobs.lever.co/emburse/260ef46c-94a7-4913-bf08-d05376043dfe/apply?source=LinkedIn>) |
 | Associate Software Engineer - Seeking 2025 & 2026 Grads <!--id:577372893--> | Veeva Systems | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://veevasystems.contacthr.com/148821730>) |
 | Junior Java Developer <!--id:577396626--> | Tata Consultancy Services | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://ca.linkedin.com/jobs/view/junior-java-developer-at-tata-consultancy-services-4322209630>) |
 | Associate IT Developer <!--id:579942117--> | RhythmQ | Mississauga, ON | Hybrid | 2025-11-01 | [Apply](<https://rhythmq.breezy.hr/p/e2d0cb121d92-associate-it-developer?source=indeed>) |
