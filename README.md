@@ -4,7 +4,16 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 
 | Title | Company | Location | Remote | Posted | Apply |
 |---|---|---|:--:|:--:|:---:|
-| 🆕 Senior Software Engineer I - Python <!--id:580174758--> | Emburse | Toronto, Ontario | Hybrid | 2025-11-23 | [Apply](<https://jobs.lever.co/emburse/260ef46c-94a7-4913-bf08-d05376043dfe/apply?source=LinkedIn>) |
+| 🆕 Junior Full Stack Software Developer <!--id:580537423--> | Rewind |  | Remote | 2025-11-25 | [Apply](<https://jobs.ashbyhq.com/rewind/5f0b92cd-868c-42c7-af3d-f00b7b1726a8/application?src=Linkedin&utm_source=O92D03AkWj>) |
+| 🆕 Junior Java Developer <!--id:580560208--> | Skip | Ontario | Onsite | 2025-11-25 | [Apply](<https://tnl2.jometer.com/v2/job?jx=54owa1e79dbffa1bf6205b98ba1e12ffde9e3DEAL2AYAAABQ&jz=5sc64af0b2c4a3c8adfccb14869a8e244cd32DMAFCBYKAAAQAAAAAAFA&utm_campaign=Indeedorganic&utm_medium=CPL&utm_source=Joveo>) |
+| 🆕 Junior DevOps Engineer <!--id:580396478--> | RI-2 LLC | London, ON | Hybrid | 2025-11-24 | [Apply](<http://ca.indeed.com/job/junior-devops-engineer-6db220452c2ec80e>) |
+| 🆕 AI Engineer Associate <!--id:580502562--> | Bayview Asset Management, LLC | Toronto, Ontario | Onsite | 2025-11-24 | [Apply](<https://careers.bayview.com/bam/jobs/8305?iis=LinkedIn&lang=en-usAI+Engineer+Associate&mode=apply>) |
+| 🆕 Jr Client Data Engineer <!--id:580469306--> | Mosaic North America | Toronto, ON | Onsite | 2025-11-24 | [Apply](<https://eczy.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/17190>) |
+| 🆕 Associate Full-Stack Software Engineer <!--id:580572534--> | Manulife | Waterloo, ON | Onsite | 2025-11-24 | [Apply](<https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25110777-1>) |
+| 🆕 Software Engineer I (Java, Spring Boot, Spring, Junit, Maven) <!--id:580602567--> | TD | Toronto, ON | Onsite | 2025-11-24 | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java--Spring-Boot--Spring--Junit--Maven-_R_1446333-1>) |
+| 🆕 AI Engineer Associate <!--id:580548539--> | Bayview Asset Management | Toronto, ON | Onsite | 2025-11-24 | [Apply](<https://careers.bayview.com/bam/jobs/8305/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
+| 🆕 Jr. Platform Test Automation Engineer <!--id:580472417--> | Nokia | Kanata, Ontario | Onsite | 2025-11-24 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/27238/?src=SNS-102&utm_medium=jobshare>) |
+| Senior Software Engineer I - Python <!--id:580174758--> | Emburse | Toronto, Ontario | Hybrid | 2025-11-23 | [Apply](<https://jobs.lever.co/emburse/260ef46c-94a7-4913-bf08-d05376043dfe/apply?source=LinkedIn>) |
 | Associate Software Engineer - Seeking 2025 & 2026 Grads <!--id:577372893--> | Veeva Systems | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://veevasystems.contacthr.com/148821730>) |
 | Junior Java Developer <!--id:577396626--> | Tata Consultancy Services | Toronto, Ontario | Onsite | 2025-11-13 | [Apply](<https://ca.linkedin.com/jobs/view/junior-java-developer-at-tata-consultancy-services-4322209630>) |
 | Associate IT Developer <!--id:579942117--> | RhythmQ | Mississauga, ON | Hybrid | 2025-11-01 | [Apply](<https://rhythmq.breezy.hr/p/e2d0cb121d92-associate-it-developer?source=indeed>) |
