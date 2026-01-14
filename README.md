@@ -33,6 +33,14 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Software Engineer <!--id:603321702--> | FDM Group | Learn, build, test software on client projects | Global IT consulting and graduate training leader. | Full-time · $50,000/yr | Toronto, Ontario (Onsite) | [Apply](<https://careers.fdmgroup.com/vacancies/834/software-engineering-practice.html>) |
+| 🆕 Junior Software Developer <!--id:603093100--> | James Evans and Associates | Develop, test, and document software modules | Canada-based pension administration software provider | Full-time · $65k-$75k/yr | Remote (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-developer-d1cb308bf07bca98>) |
+| 🆕 Junior Software Developer (Laravel/Vue.js) <!--id:602692330--> | EventConnect | Build features, APIs, and UI in PHP/JS | Sports-tourism tech platform connecting events worldwide | Full-time | London, ON N6A 2R4 (Hybrid) | [Apply](<https://eventconnect.bamboohr.com/careers/74?postedDate=2026-01-13&source=indeed&src=indeed>) |
+| 🆕 Junior Application Developer <!--id:602559658--> | Serco | Develop, test, and deploy full-stack apps | Global contractor serving government and commercial clients | Full-time | Toronto, ON (Onsite) | [Apply](<https://careers.serco-na.com/us/en/job/12757/Junior-Application-Developer>) |
+| 🆕 Junior Software Engineer <!--id:602354472--> | MGIS Inc | Design, develop, and maintain connector integrations. | Cybersecurity risk platform serving Fortune 500 customers. | Full-time · $45k-$55k/yr | Ottawa, ON (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-49e244e3f2dba998>) |
+| 🆕 💤 Jr FullStack Developer (.Net/ Azure) <!--id:602320978--> | BeachHead | Develop full-stack applications with .NET, Angular/React, Azure securely. | Tech-focused staffing agency, financial services clients. | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/jr-fullstack-developer-net-azure-at-beachhead-4361543248>) |
+| 🆕 Junior Backend Developer – Ribbon Analytics <!--id:601736537--> | Ribbon Communications | Build backend services, APIs, and improve performance | Global real-time communications vendor and solutions provider. | Full-time | Ottawa, Ontario (Hybrid) | [Apply](<https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Angular-Developer---Hybrid_REQ-2025-2719?source=LinkedIn>) |
+| 🆕 🔥 Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits <!--id:601132492--> | Hunter Bond | Build real-time frontend UIs for trading | Elite buy-side fund with tech-driven trading | Full-time · $130K CAD/yr | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-front-end-engineer-montreal-up-to-$130-000-cad-starting-base-+-exceptional-bonuses-benefits-at-hunter-bond-4352711161>) |
 | Junior Software Engineer <!--id:595861285--> | PheedLoop | Develop full-stack features, build REST APIs | Toronto-based software company delivering events tech. | Full-time | North York, Ontario (Onsite) | [Apply](<https://secure.collage.co/jobs/pheedloop/49014>) |
 | Développeur génie logiciel / Junior Software Developer  – Canada (Montreal) <!--id:595195325--> | mthree | Develop Java full-stack features in teams | Staffing partner connecting grads with top banks | Full-time | Montreal, Quebec (Hybrid) | [Apply](<https://grnh.se/3fyanquw6us>) |
 | Junior Software Engineer <!--id:594482070--> | Dilinx | Develop full-stack features; integrate ML/LLMs | Ontario startup shaping local service marketplace | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-at-dilinx-4329750381>) |
@@ -42,7 +50,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 | 💤 Junior Full-Stack Software Developer <!--id:592458100--> | Apex Systems | Develop features, fix bugs, collaborate with team | Global IT staffing and solutions firm | Contract | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-full-stack-software-developer-at-apex-systems-4329171031>) |
 | Junior Software Engineer (ID#5229) <!--id:592414880--> | New Value Solutions | Build AI-enabled software, prototype features, test and deploy | National IT consulting firm | Full-time | Richmond, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-id%235229-at-new-value-solutions-4328954128>) |
 | Junior Full Stack Developer <!--id:592344533--> | Method CRM | Build UI and backend services for CRM product. | Toronto-based scaling CRM platform for SMBs. | Full-time · $50K-$70K/yr | Toronto, Ontario (Hybrid) | [Apply](<https://jobs.ashbyhq.com/method-crm/14411469-9b3c-42cd-bce9-bc0f6cd60e21?source=LinkedIn>) |
-| 🆕 Développeur Full Stack Junior <!--id:592058707--> | Ultreia Technologies | Build full-stack features, write tests, collaborate | Mentorship-driven, small team with growth opportunities | Full-time · 70 000 CAD/yr | Quebec (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-full-stack-junior-at-ultreia-technologies-4345990606>) |
 | Développeur Full Stack Junior <!--id:592042499--> | Ultreia Technologies | Contribuer au développement full-stack et à la qualité | Small team, strong mentorship, ambitious Canadian startup | Full-time · $70,000 CAD/yr | Quebec (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-full-stack-junior-at-ultreia-technologies-4345779181>) |
 | Jr. Software Application Engineer – Wind River Conductor <!--id:591784889--> | Wind River | Develop and maintain orchestration features for Conductor | Embedded software leader, cloud orchestration for edge | Full-time | Kanata, Ontario (Onsite) | [Apply](<https://jobs.jobvite.com/windriver/job/oYXKxfwW?__jvsd=LinkedIn&__jvst=Job+Board>) |
 | Junior Full-Stack Software Developer <!--id:592000838--> | Effortless Admin Inc. | Develop full-stack features with React and .NET | Canada-based benefits administration software company | Full-time | Edmonton, AB T6G 2C8 (Onsite) | [Apply](<https://effortlessadmin.bamboohr.com/careers/81?postedDate=2025-12-22&source=indeed&src=indeed>) |
@@ -64,6 +71,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Business Analyst, Credit Analytics Group (CAG) Operations - Toronto, ON <!--id:602608316--> | Scotiabank | Analyze data, monitor reporting, support operations. | Major Canadian bank with global operations. | Full-time | Toronto, ON (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-Junior-Business-Analyst,-Credit-Analytics-Group-(CAG)-Operations-Toronto,-ON-ON-M5W2X6/598856617/?feedId=352460&utm_campaign=TheBankofNovaScotia_Indeed&utm_source=Indeed>) |
+| 🆕 Junior Estimator & Data Analyst <!--id:602183681--> | Mammoet | Analyze data, prepare estimates, build dashboards | Global heavy lifting and logistics company | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://jobs.mammoet.com/jobs/5601?iis=LinkedIn&iisn=linkedin&lang=en-us&mode=apply>) |
+| 🆕 Junior Digital Marketing Coordinator (AI, Email & Webinars) <!--id:601651423--> | roomvu | Coordinate webinars, execute email campaigns, analyze results | Vancouver-based, AI-powered marketing platform | Full-time | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-digital-marketing-coordinator-ai-email-webinars-at-roomvu-4354410273>) |
 | Junior Data Analyst <!--id:595916887--> | Global Applications Solutions LLC | Analyze data, validate results, generate insights. | Global Applications Solutions LLC | Contract · 6mo · $20.05-$37.00 per hour | Toronto, ON (Hybrid) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-0686d5c5f6b02505>) |
 | Software Engineer I <!--id:594418175--> | Planview | Write code, build features, learn data pipelines | Enterprise software leader with global customers. | Full-time | Vancouver, British Columbia (Hybrid) | [Apply](<https://careers.planview.com/jobs/4749?iis=Job+Board&iisn=Linkedin&lang=en-us>) |
 | Junior Data Analyst <!--id:593899915--> | Soryt Analytics Inc. | Analyze data, build dashboards, support analytics initiatives | Calgary-based analytics firm | Full-time · $65k-$75k/yr | Calgary, AB T2P 3R7 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-0cbf681818595e01>) |
@@ -74,6 +84,8 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position)
 ## DevOps / SRE / Platform
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior DevOps Engineer <!--id:603023778--> | Ciena | Design and maintain CI/CD pipelines, automate infrastructure | Global networking leader with diverse platform tech | Full-time · $71,100-$114,900 CAD | Ottawa, Ontario (Onsite) | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Junior-DevOps-Engineer_R029494-1?source=LinkedIn+Job+Advertisement>) |
+| 🆕 Junior DevOps / Platform Engineer <!--id:601331559--> | Fastrak AI | Deploy and scale Python/TypeScript apps on AWS | Canada-based AI startup scaling cloud infrastructure | Full-time | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-devops-platform-engineer-at-fastrak-ai-4360780137>) |
 | Site Reliability Developer (Junior to Intermediate) <!--id:592524100--> | ECAD Labs Inc. | Operate, automate, and monitor production infrastructure | Blockchain infrastructure startup focused on reliability and growth | Full-time | Vancouver, BC (Hybrid) | [Apply](<https://myecadcareer.humi.ca/job-board/technology+systems/43793?source=Indeed>) |
 | Junior DevOps <!--id:590857669--> | AutoVerify | Maintain CI/CD, deploy infra, troubleshoot systems | Remote Canada-based tech company for automotive | Full-time · $55K-$75K/yr | Remote (Remote) | [Apply](<https://secure.collage.co/jobs/autoverify/58488?origin=indeed>) |
 
@@ -88,13 +100,19 @@ _No roles currently_
 ## QA / Test / Automation
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Jr. Optical Test Automation Engineer <!--id:601719538--> | Nokia | Develop and automate optical test plans | Global telecom hardware leader with Bell Labs heritage | Full-time | Kanata, Ontario (Onsite) | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/28709/?src=SNS-102&utm_medium=jobshare>) |
 | Junior Quality Assurance Engineer <!--id:590270765--> | Trulioo | Build and maintain test automation, validate releases | Canadian identity verification provider | Full-time · CA$60K-CA$65K | Vancouver, BC (Hybrid) | [Apply](<https://jobs.ashbyhq.com/trulioo/151a439c-1410-40f2-9542-e2c8e88846d9?utm_source=RzxOdjbe5J>) |
 
 ## Hardware / Firmware
-_No roles currently_
+| Title | Company | Role | Company Info | Details | Location | Apply |
+|-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Jr/Intermediate Software Developer <!--id:603395684--> | Spyder Controls Corp | Develop embedded software for RV/marine controls | Embedded hardware and software for control systems | Full-time · $45K-$70K/yr | Lacombe, AB T4L 1Y9 (Onsite) | [Apply](<http://ca.indeed.com/job/jrintermediate-software-developer-235dac12e3a2c324>) |
+| 🆕 Junior Robotics Software Developer <!--id:602505609--> | Trajekt Sports | Develop Python robotics software, test hardware integration | Robotics-focused startup developing hardware-integrated software | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-robotics-software-developer-at-trajekt-sports-4354891207>) |
 
 ## Product / TPM
-_No roles currently_
+| Title | Company | Role | Company Info | Details | Location | Apply |
+|-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 PM Coordinator/Junior Business Analyst <!--id:601812659--> | ruby | Coordinate delivery, gather requirements, support QA | Dating platform with scale and privacy focus | Full-time · $50k-$55k CAD | Greater Toronto Area (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/pm-coordinator-junior-business-analyst-at-ruby-4354712272>) |
 
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
