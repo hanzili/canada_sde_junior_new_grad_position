@@ -1,0 +1,49 @@
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
+
+See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position)
+
+## 📌 How to Use This List
+
+| Emoji | Meaning |
+|:-----:|---------|
+| 🔥 | **Hot Opportunity** - Big Tech, well-funded startup, high compensation, or elite engineering culture. Great for your resume! |
+| 💤 | **Likely Boring** - Body shop, staffing agency, legacy maintenance, or low pay. Consider carefully - good for experience but may not be exciting. |
+| 🆕 | **Newly Added** - Recently discovered and added to the list. |
+
+> **Tip:** 🔥 roles are competitive but excellent career launchers. 💤 roles can still be valuable for gaining experience, especially as a first job. Most jobs have no emoji - they're solid opportunities that fall in between.
+
+📧 Want different types of jobs or have feedback? Contact me at **hanzili0217@gmail.com**
+
+---
+
+## 📂 Categories
+- [Investment Banking / Capital Markets](#investment-banking-capital-markets)
+- [Accounting / Financial Analysis](#accounting-financial-analysis)
+
+## Investment Banking / Capital Markets
+_No roles currently_
+
+## Accounting / Financial Analysis
+| Title | Company | Role | Company Info | Details | Location | Apply |
+|-------|---------|------|--------------|---------|----------|:-----:|
+| Junior Bookkeeper <!--id:619721227--> | Canwest Concrete Cutting | Reconcile accounts, manage A/P/A/R, reporting | Construction firm; stable local projects, growth potential | Full-time · Permanent · $65,000/year · | Calgary, AB T3J 5J9 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-82d27c69691d1b27>) |
+| CPA Student <!--id:619703364--> | Baker Tilly Canada | Contribute to tax engagements; prepare returns. | CPA-focused advisory firm with strong CPA support | Permanent · Full-Time · Competitive salary · Fall 2025 | Banff, Alberta (Hybrid) | [Apply](<https://www.bakertilly.ca/opportunities/cpa-student>) |
+| Junior Accountant <!--id:619677210--> | BluMetric | Process journals, close books, prepare financial reports | BluMetric: environmental firm with stable growth | Full-time | Ottawa, Ontario (Hybrid) | [Apply](<https://blumetric.bamboohr.com/careers/156?source=LinkedIn>) |
+| Junior Financial Analyst <!--id:619652007--> | ATS Industrial Automation | Assist month-end close, financial statements, cost analysis | Publicly traded global automation company | Full-time · N/A · $48,000 - $66,000 · Permanent | Cambridge, Ontario (Onsite) | [Apply](<https://jobs.atsautomation.com/job/Cambridge-Junior-Financial-Analyst-ON-N3H-4R7/1291524901/?feedId=363501&utm_campaign=ATS_LinkedIn&utm_source=LinkedInJobPostings>) |
+| Junior Accountant <!--id:619608963--> | Accencis Group | Assist AP/AR, GL, reconciliations; support close | Fast-growing Canadian franchisor; multiple brands. | Full-time · Permanent · Competitive pay | Markham, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-accencis-group-4369819381>) |
+| Junior Accountant <!--id:619528969--> | Lumerate | Manage AR, invoicing, and billing processes daily | Toronto-based SaaS company with fintech focus | Full-time · Permanent · CAD $60,000/year · Ongoing | Remote | [Apply](<https://lumerate.breezy.hr/p/e724883a9c1e-junior-accountant?state=published%3Fsource%3Dlinkedin>) |
+| Junior Forensic Accountant <!--id:619527884--> | Robertson & Company Ltd. | Support forensic engagements; prepare schedules and analyses | Public accounting firm; forensic and valuation services | Full-time · Permanent · $80,000–$95,000 · Hybrid | Markham, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-forensic-accountant-at-robertson-company-ltd-4330862271>) |
+| Junior Bookkeeper / Tax Professional <!--id:619082843--> | Click2Biz | Perform bookkeeping, payroll, tax filings for clients | Small business services firm with mentorship | Full-time · N/A · $16.50-$20.00 per hour · N/A | Bedford, NS (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-tax-professional-f38630021c9da61e>) |
+| 🔥 Junior Accountant, Assurance (May 2026) <!--id:618845307--> | BDO Canada | Prepare audit workpapers; financial statements; engagements | Big 4 accounting firm with CPA support | Full-time · Permanent · $55,000-$59,000 · May 2026 | Embrun, Ontario (Hybrid) | [Apply](<https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Ottawa---Kent-St/Junior-Accountant--Assurance--May-2026-_JR5615?source=LinkedIn>) |
+| Junior Accountant <!--id:618622006--> | Pattison Food Group | Process reconciliations, AR, journals; support month-end | Large Canadian retailer; strong development opportunities | Full-time · Permanent · $53,832.00 - $67,290.00 · Permanent | Langley, British Columbia (Onsite) | [Apply](<https://pfg.wd3.myworkdayjobs.com/PFGCareers/job/Langley-Office---Langley-BC/Junior-Accountant_R-00037086?source=HCM-REC-RECRUITINGSOURCES-LinkedIn>) |
+| Junior Accountant <!--id:618811111--> | E.B. Box Company | Record/post transactions; reconcile ledgers | Small growing manufacturer in Ontario | Full-time · 12 months · $45,000-$50,000 · Contract | Richmond Hill, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-d55ccde423b43e57>) |
+| Junior Accounting Administrator <!--id:618794945--> | Lakeridge Auto Gallery | Process AP/AR, reconcile accounts, vendor payments | Local auto dealership; growing finance team | Full-time · Permanent · $40,000/year · Permanent | Ajax, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accounting-administrator-2611c943d531ad7e>) |
+| Junior Accountant <!--id:618595030--> | ComputerTalk Technology Inc. | Maintain AR/AP subledgers, reconcile accounts, reports | Growing tech firm in cloud communications | Full-time · Permanent · $50,000-$70,000 | Thornhill, ON L3T 7Z3 (Remote) | [Apply](<http://ca.indeed.com/job/junior-accountant-2303ae4b4f66de33>) |
+| Junior Accountant <!--id:617998403--> | Great Little Box Company | Process vendor invoices; close month; reconcile accounts | Regional packaging company; CPA pursuit supported | Full-time · Permanent · $50,000-$58,000/year · TBD | Richmond, British Columbia (Onsite) | [Apply](<https://recruiting.ultipro.ca/GRE5002GLTB/JobBoard/161a5068-e6ac-413e-bbb7-026100cfb0ce/OpportunityDetail?opportunityId=5d4319d1-bf1a-4266-8b0a-5cc4ca157a85>) |
+| Junior Accountant / Admin (Three months contract) <!--id:617958545--> | Awerix CPA | Assist audits, compilations, and tax returns | Public CPA firm with audit and tax services | Contract · Three months · $40k-$45k per year · Temporary | Toronto, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-admin-three-months-contract-84ba6334c0dce15c>) |
+| Junior Accountant & Administrative Assistant <!--id:617884251--> | Northern Roads Auto Group | Process AP, reconciliations; support month-end, admin tasks | Local automotive group with CPA-friendly growth | Full-time · Permanent · $20-25 per hour · Ongoing | Belleville, ON (Onsite) | [Apply](<https://northernroadsautogroup.bamboohr.com/careers/130?postedDate=2026-02-04&source=indeed&src=indeed>) |
+| Junior Accountant <!--id:617873993--> | Altea Healthcare | Process AP/AR, reconciliations, month-end close support | Healthcare tech company with stable accounting team | Onsite · Permanent · CAD 50k-70k · Full-time | Burnaby, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-altea-healthcare-4368775798>) |
+| Junior Accountant <!--id:617844669--> | TALESMA INC | Process AR/AP, payroll, bank recs, statements | Local firm; hands-on accounting exposure | Full-time · 60,000 CAD/year | Woodbridge, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-147454ce4e0a1edf>) |
+| Junior Accountant <!--id:617735150--> | Great Little Box Co. | Process invoices, support month-end close, reconciliations | Canadian packaging manufacturer; CPA-friendly development path | Full-time · Permanent · $50,000-$58,000/year · N/A | Richmond, BC V6V 3C1 (Onsite) | [Apply](<https://recruiting.ultipro.ca/GRE5002GLTB/JobBoard/161a5068-e6ac-413e-bbb7-026100cfb0ce/OpportunityDetail?opportunityId=5d4319d1-bf1a-4266-8b0a-5cc4ca157a85&postingId=dc35c68c-e573-4505-85e2-c19f95dcf9ec>) |
+| Junior Treasury Analyst <!--id:616826739--> | LeverageTek Staffing Solutions | Assist treasury system setup and cash flow analysis | Contract staffing firm providing cross-border finance roles | Contract · 6 months · Hourly rate negotiable · Contract | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-treasury-analyst-at-leveragetek-staffing-solutions-4368653998>) |
+
