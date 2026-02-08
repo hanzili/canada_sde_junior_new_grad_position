@@ -1,6 +1,6 @@
 # 2026 Canadian CS new Grad/Junior Jobs (Updated Daily)
 
-See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) | [Finance Jobs](FINANCE.md)
+See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) | [Finance Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
 ## 📌 How to Use This List
 
