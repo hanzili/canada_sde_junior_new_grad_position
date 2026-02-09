@@ -1,6 +1,6 @@
 # 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
-See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position)
+See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
 ## 📌 How to Use This List
 
