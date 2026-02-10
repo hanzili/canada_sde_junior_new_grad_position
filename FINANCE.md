@@ -26,6 +26,7 @@ _No roles currently_
 ## Accounting / Financial Analysis
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| Junior Treasury Analyst <!--id:621237263--> | Rohit Group | Build models, analyze cash flows, support treasury | Regional group; treasury across divisions | Full-time · Permanent · Not disclosed · N/A | Edmonton, AB T5K 2K4 (Onsite) | [Apply](<https://recruiting.ultipro.ca/ROH5100ROHG/JobBoard/659ce77d-2ac7-4604-8899-80c27552eb4e/OpportunityDetail?opportunityId=36e7ee36-36c2-49fb-af90-10568b086029&postingId=464129f2-46ef-4962-a46c-383eacad83de>) |
 | Junior Bookkeeper <!--id:619721227--> | Canwest Concrete Cutting | Reconcile accounts, manage A/P/A/R, reporting | Construction firm; stable local projects, growth potential | Full-time · Permanent · $65,000/year · | Calgary, AB T3J 5J9 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-82d27c69691d1b27>) |
 | CPA Student <!--id:619703364--> | Baker Tilly Canada | Contribute to tax engagements; prepare returns. | CPA-focused advisory firm with strong CPA support | Permanent · Full-Time · Competitive salary · Fall 2025 | Banff, Alberta (Hybrid) | [Apply](<https://www.bakertilly.ca/opportunities/cpa-student>) |
 | Junior Accountant <!--id:619677210--> | BluMetric | Process journals, close books, prepare financial reports | BluMetric: environmental firm with stable growth | Full-time | Ottawa, Ontario (Hybrid) | [Apply](<https://blumetric.bamboohr.com/careers/156?source=LinkedIn>) |
