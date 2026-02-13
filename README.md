@@ -77,8 +77,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Front End UI Developer <!--id:603911824--> | HighPath | Build React UI components from designs. | Funding platform for SMBs. | Full-time | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-front-end-ui-developer-at-highpath-4362762820>) |
 | Junior Software Engineer <!--id:603321702--> | FDM Group | Learn, build, test software on client projects | Global IT consulting and graduate training leader. | Full-time · $50,000/yr | Toronto, Ontario (Onsite) | [Apply](<https://careers.fdmgroup.com/vacancies/834/software-engineering-practice.html>) |
 | Junior Software Developer <!--id:603093100--> | James Evans and Associates | Develop, test, and document software modules | Canada-based pension administration software provider | Full-time · $65k-$75k/yr | Remote (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-developer-d1cb308bf07bca98>) |
-| Junior Software Developer (Laravel/Vue.js) <!--id:602692330--> | EventConnect | Build features, APIs, and UI in PHP/JS | Sports-tourism tech platform connecting events worldwide | Full-time | London, ON N6A 2R4 (Hybrid) | [Apply](<https://eventconnect.bamboohr.com/careers/74?postedDate=2026-01-13&source=indeed&src=indeed>) |
-| Junior Software Engineer <!--id:602354472--> | MGIS Inc | Design, develop, and maintain connector integrations. | Cybersecurity risk platform serving Fortune 500 customers. | Full-time · $45k-$55k/yr | Ottawa, ON (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-49e244e3f2dba998>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -97,7 +95,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Data Engineer / Jr. DBA <!--id:606555195--> | GHY International | Build and maintain data pipelines using PySpark | Winnipeg-based global trade company | Full-time | Winnipeg, Manitoba (Onsite) | [Apply](<https://ghy.bamboohr.com/careers/156?source=aWQ9MjI%3D>) |
 | Junior Data Engineer - Databricks <!--id:605670017--> | The Citco Group Limited | Build Databricks data pipelines and ETL/ELT. | Global financial services firm. | Full-time · CAD $70,000 - CAD $94,000 | Toronto, Ontario (Hybrid) | [Apply](<https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/13152/?utm_medium=jobboard&utm_source=linkedin>) |
 | Junior AI Engineer (Canada) <!--id:604385044--> | micro1 | Build GenAI features and production APIs | Canada-based GenAI startup | Full-time | Remote | [Apply](<https://jobs.micro1.ai/post/a126b389-9110-4cb1-bfbe-410b7a33c37a?utm_source=linkedin>) |
-| Junior Estimator & Data Analyst <!--id:602183681--> | Mammoet | Analyze data, prepare estimates, build dashboards | Global heavy lifting and logistics company | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://jobs.mammoet.com/jobs/5601?iis=LinkedIn&iisn=linkedin&lang=en-us&mode=apply>) |
 
 ## DevOps / SRE / Platform
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -146,6 +143,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 💤 Desktop Support Technician <!--id:623754341--> | SANDFORD CENTER | Provide on-site IT support and hardware repairs | Calgary IT services provider with field support | Full-time · $17.87-$31.91 CAD/hr | Calgary, AB (Onsite) | [Apply](<http://ca.indeed.com/job/desktop-support-technician-8ef4f3556f302c73>) |
 | Service Desk Analyst - Junior <!--id:607286030--> | CGI | Provide Level 1 IT support via tickets | Global IT services firm with diverse clients | Full-time · $40K-$75K/yr | Victoria, British Columbia (Onsite) | [Apply](<https://cgi.njoyn.com/corp/xweb/xweb.asp?BRID=1262942&SBDID=943&clid=21001&jobid=J0126-1298&lang=1&page=jobdetails>) |
 | Junior Systems Engineer <!--id:604746061--> | Thales | Support system design, integration, and testing tasks | Global defense and security technology company. | Full-time · $76k-$96k CAD/yr | Ottawa, Ontario (Hybrid) | [Apply](<https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0311303EXTERNALENGLOBAL/Junior-Systems-Engineer?utm_medium=phenom-feeds&utm_source=linkedin>) |
 
