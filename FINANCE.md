@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
+# 2026 Canadian Finance New Grad Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -108,7 +108,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior Underwriter <!--id:624666765--> | HUB International | Assess builder risk; review financials and credit | Global insurance broker; underwriting-focused, risk-driven. | Temporary · maternity leave coverage · $45,000-$50,000 · duration of leave | City of Langley, British Columbia (Onsite) | [Apply](<https://careers.hubinternational.com/us/en/job/HULHICUSR0034608EXTERNALENUS/Junior-Underwriter?utm_medium=phenom-feeds&utm_source=linkedin>) |
-| 🆕 Junior KYC Analyst <!--id:625039141--> | Crédit Agricole CIB | Perform KYC analyses and client due diligence | Global investment bank with strong compliance culture | Hybrid · Full-time · Market-rate pay · Permanent | Montreal, Quebec (Hybrid) | [Apply](<https://groupecreditagricole.jobs/en/our-jobs-offer/577-170479-4-junior-kyc-analyst-reference--2026-107848--/>) |
+| Junior KYC Analyst <!--id:625039141--> | Crédit Agricole CIB | Perform KYC analyses and client due diligence | Global investment bank with strong compliance culture | Hybrid · Full-time · Market-rate pay · Permanent | Montreal, Quebec (Hybrid) | [Apply](<https://groupecreditagricole.jobs/en/our-jobs-offer/577-170479-4-junior-kyc-analyst-reference--2026-107848--/>) |
 | 🔥 Market Risk Analyst (4421) <!--id:624026875--> | TD Securities | Analyze market risk metrics; VaR & stress reports | Top Canadian bank; global market risk team | Full-time · N/A · 69,700-98,400 CAD · Permanent | Toronto, Ontario (Hybrid) | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Market-Risk-Analyst--4421-_R_1472306?source=LinkedIn>) |
 | 🔥 Junior AML Analyst - Big 5 Bank <!--id:624417059--> | Collabera | Execute AML reporting, data analysis, risk oversight | Big 5 bank client; AML exposure | Contract · N/A · $19-21/hr · N/A | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-aml-analyst-big-5-bank-at-collabera-4372018459>) |
 | Buyer and Risk Analyst <!--id:623755424--> | Sunshine Coast Regional District | Coordinate procurement; analyze spend; manage supplier risk | Regional government procurement and risk oversight | Full-Time, Temporary · 35h/wk · $43.06/hr · Temporary | Sechelt, BC V0N 3A1 (Hybrid) | [Apply](<https://www.civicjobs.ca/jobs?id=111101&linktype=ind>) |
