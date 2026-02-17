@@ -28,11 +28,13 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 - [IT / Support / Systems](#it-support-systems)
 - [Solutions / Customer Engineering](#solutions-customer-engineering)
 - [Startup / VC / Ops](#startup-vc-ops)
-- [Other Roles](#other-roles)
 
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Python Developer – AI Agent Setup for Freight Brokerage (Full-Time) <!--id:626206812--> | Bungee Supply Chain | Build and deploy AI automation workflows | Markham-based freight tech startup | Full-time · $55k-$85k CAD/yr | North York, ON M2H 3P8 (Hybrid) | [Apply](<http://ca.indeed.com/job/junior-python-developer-ai-agent-setup-freight-brokerage-full-time-5051b8974ecfbed1>) |
+| 🆕 Junior Full Stack Developer <!--id:626065796--> | MingXuan Cloud Operations | Build full-stack features, APIs, tests, deploy | Cloud operations firm; growing, hands-on development culture. | Full-time · $82,022.68-$86,582.01/yr | Ajax, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-full-stack-developer-1a2c699887cdf35a>) |
+| 🆕 Junior Software Engineer <!--id:626047591--> | Carmel Vision Inc | Build AI-driven workflows, customize platform, test features | North York-based software firm building AI-powered solutions | Contract · $41,570.96-$60,275.68 per year | North York, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-b9158952f3d67835>) |
 | 🔥 Junior Software Developer, Backend <!--id:624696801--> | Hootsuite | Develop backend services, test, and deploy features | Canada-based, global SaaS platform | Full-time · $67,700–$94,700 CAD | Ontario (Remote) | [Apply](<https://boards.greenhouse.io/hootsuite/jobs/7607217&gh_src=8tmbhj1?gh_src=8tmbhj1>) |
 | 🔥 Junior Software Engineer (Java/Spring Boot) <!--id:624664235--> | Scotiabank | Develop and maintain Java/Spring APIs for credit | Canadian bank with global financial services footprint | Full-time | Scarborough, Ontario (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Scarborough-Junior-Software-Engineer-(JavaSpring-Boot)-ON-M1L4S2/599850317/?feedId=354060&utm_campaign=ScotiaBank_Linkedin&utm_source=LinkedInJobPostings>) |
 | Développeur(euse) Full Stack junior- Junior Full-stack Developer <!--id:624533038--> | Dynacom Technologies | Develop full-stack web apps with .NET/React | Canadian tech group with long-standing software solutions | Full-time · $60K-$70K CAD/yr | Laval, QC (Onsite) | [Apply](<http://ca.indeed.com/job/d%C3%A9veloppeureuse-full-stack-junior-junior-full-stack-developer-416804f6035ceca3>) |
@@ -64,6 +66,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Data Analyst <!--id:625938229--> | Network Operations Center | Analyze data, build dashboards, report insights | Network operations team; data-driven decision support | Full-time · $35.42-$46.87/hr | Vancouver, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-07440c061dead2fa>) |
+| 🆕 Junior Data Analyst <!--id:625923004--> | Pixelon Media | Analyze data, build dashboards, automate reporting | Media analytics company leveraging data insights | Part-time · $31.85-$38.84 per hour | Mississauga, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-d74b0c6735e69777>) |
+| 🆕 Junior Data Analyst <!--id:625895998--> | LUXE LIVING | Analyze data, build dashboards, provide insights | Boutique lifestyle brand leveraging data analytics | Full-time · $30.47-$43.33/hr | Oakville, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-258459509eab2368>) |
 | Junior BI & Data Analyst - Contractor <!--id:623519593--> | Andersen | Build Power BI reports and automate data flows | BC-based global tax services firm with cross-border practice | Contract · 6mo · $35-$45/hr · Summer 2026 | Vancouver, BC (Hybrid) | [Apply](<https://secure.collage.co/jobs/andersen/59664?origin=indeed>) |
 | Junior Data Engineer/Developer (Trainee) <!--id:621878012--> | Jarvis Consulting Group | Develop software and data systems for clients | Toronto-based talent incubator for data/AI consulting | Co-op | Greater Toronto Area (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-developer-trainee-at-jarvis-consulting-group-4371054978>) |
 | Junior Data Analyst <!--id:620997983--> | KINESSO | Analyze audiences, build dashboards, deliver insights | KINESSO, IPG Mediabrands data analytics arm | Full-time | Toronto, Ontario (Hybrid) | [Apply](<https://job-boards.greenhouse.io/mediabrands/jobs/5042474007>) |
@@ -82,6 +87,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Security
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Cyber Security Engineer <!--id:626086562--> | TÜV SÜD | Perform penetration tests and security assessments | Global security testing and risk assessment firm. | Full-time | Gormley, ON (Onsite) | [Apply](<https://jobs.tuvsud.com/job/Junior-Cyber-Security-Engineer/3949-en_US>) |
 | Junior Integrity Assurance Auditor <!--id:621728340--> | Canadian Bank Note Company, Limited | Perform daily integrity checks and custody reconciliation. | Security-focused manufacturing firm with government contracts. | Full-time | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-integrity-assurance-auditor-at-canadian-bank-note-company-limited-4361888935>) |
 
 ## Mobile
@@ -121,19 +127,4 @@ _No roles currently_
 
 ## Startup / VC / Ops
 _No roles currently_
-
-## Other Roles
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Bookkeeper & General Administrative Assistant <!--id:622577491--> | Symphony Homes Limited | Record financials, reconcile accounts, support admin tasks | Family-run construction company, expanding bookkeeping team | Full-time · $45,000-$55,000/yr | Burnaby, BC V5J 1E9 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-general-administrative-assistant-81c8172835b82a4a>) |
-| Junior Accountant <!--id:622120992--> | CLV Group Inc. | Prepare monthly financials, journal entries for properties | Canadian real estate group, growth-focused and community-minded | Full-time · $45K–$60K/yr | Ottawa, ON (Onsite) | [Apply](<https://clvgroup.bamboohr.com/careers/147?postedDate=2026-02-10&source=indeed&src=indeed>) |
-| Junior Financial Analyst <!--id:621867057--> | TransForm Shared Service Organization | Journalize, reconcile, analyze financial data | Not-for-profit health system shared services | Full-time · 14mo · $32-$37/hr · May 2027 | Windsor, ON N8T 3R9 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-financial-analyst-dc375bc6aca42dd9>) |
-| Junior Accounting Clerk <!--id:621843865--> | Intouch Insight | Process invoices, support reconciliations, maintain financial records | Intouch Insight: data-driven customer experience company | Full-time · $40K-$50K/yr | Kanata, Ontario (Hybrid) | [Apply](<https://intouchinsight.bamboohr.com/careers/127?source=aWQ9NA%3D%3D>) |
-| Junior Financial Analyst <!--id:621770678--> | The Forest Hill Group | Analyze financial data, build models, reports | Property services provider for high-end residences | Full-time · $50,000–$55,000/yr | Toronto, ON M4M 3L4 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-financial-analyst-6046e242c97b90db>) |
-| Junior Accounts Payable Associates <!--id:621766846--> | Aplin | Process invoices, verify POs, reconcile accounts | Top employer; finance transformation projects in Halifax | Contract · 4mo · $25-$29/hr | Halifax, Nova Scotia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accounts-payable-associates-at-aplin-4371012870>) |
-| Analyste M&A Junior <!--id:621754232--> | UAP Inc. | Update financial models; support acquisition due diligence. | Canadian auto parts distributor; long-standing industry leader. | Full-time | Montréal, QC H1N 3E2 (Hybrid) | [Apply](<https://jobs.smartrecruiters.com/UAPInc/744000108566025-analyste-m-a-junior>) |
-| 💤 Junior Accounts Receivable Clerk <!--id:621209525--> | The Aurum Group | Process invoices, apply payments, reconcile accounts | Customer-focused finance group, committed to excellence. | Full-time · $18.00-$21.00 per hour | Calgary, AB T2S 0A1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accounts-receivable-clerk-2bcaa7f42c8a8fdd>) |
-| Accounting Administrator (Junior Level) <!--id:621338619--> | ESSENTIAL HR | Maintain property accounts, process AR/AP, reconcile ledgers | Established property management firm, diverse property portfolio | Full-time · $45K-$55K CAD/yr | Hamilton, ON L8R 3E7 (Onsite) | [Apply](<https://recruiterflow.com/essentialhr/jobs/452?location=4&source=indeed&utm_channel=recruiterflow-posting>) |
-| Junior Accountant <!--id:617396670--> | Parkland Corporation | Process AP, journal entries, reconciliations, monthly close. | Canadian energy company, diversified fuels and retail. | Full-time | Edmonton, AB T5S 1V8 (Onsite) | [Apply](<https://auriniacareers.ttcportals.com/jobs/17298350-junior-accountant?tm_company=47657&tm_event=view&tm_job=AR1512>) |
-| Junior Production Controller <!--id:617025470--> | ProAll International Manufacturing Inc. – A Terex Brand | Assist production planning, scheduling, and data analysis | Terex-brand manufacturer with global operations | Full-time | Olds, AB (Onsite) | [Apply](<http://ca.indeed.com/job/junior-production-controller-94b4c8aa2f7f4738>) |
 
