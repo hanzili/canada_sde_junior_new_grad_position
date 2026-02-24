@@ -32,6 +32,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Software Developer <!--id:630730223--> | Canadian Nuclear Laboratories | Develop distributed software; deploy updates and fix issues | Canada's national nuclear science and research lab | Full-time | Chalk River, Ontario (Remote) | [Apply](<https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?LinkedIn=&cws=37&org=CNLLTD&rid=8596>) |
 | 🔥 Junior Software Developer <!--id:630036820--> | E&M GLOBAL TRAVEL SERVICES CANADA INC. | Develop web and mobile apps, implement features | Canadian travel services company, remote-friendly | Full-time · $100K/yr | Remote (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-developer-e29373e434ef12b0>) |
 | Jr Front End UI Developer <!--id:629646795--> | HighPath | Build React UI components from designs | Toronto startup building funding software | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ats.rippling.com/highpath-careers/jobs/71f47b47-9b26-4000-83b9-571606a607e1?jobSite=LinkedIn>) |
 | Junior Software Engineer <!--id:628826447--> | LawDroid - AI-Empowered Access to Justice | Develop backend services, write code, fix issues. | LawDroid AI-driven justice tech company for everyone | Full-time | Vancouver, British Columbia (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-at-lawdroid-ai-empowered-access-to-justice-4374350702>) |
@@ -65,6 +66,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Data Analyst – Power BI & SQL <!--id:630724123--> | Digivance Solutions | Build dashboards, transform data, deliver insights | Toronto-based data analytics and BI services firm | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-power-bi-sql-at-digivance-solutions-4377002562>) |
 | Junior Data Analyst <!--id:629354095--> | Hays | Analyze data, perform data entry, generate reports | Global recruitment firm connecting talent | Contract · Mar-May 2026 | Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-at-hays-4375884738>) |
 | Junior Data Analyst <!--id:629175064--> | Codevista Solution | Analyze data, build dashboards, generate actionable insights | Remote-friendly data analytics team for entry-level growth | Full-time | Remote | [Apply](<https://jobs.codevista.letsntax.com/jobs/software_it/d6c9a882-e1cb-4ec8-99e9-d9f20d40d15c>) |
 | 💤 Junior Data Engineer <!--id:629102557--> | Collabera | Build data pipelines, manage data lakes | Global staffing firm supplying contract tech talent | Contract · 6mo · $45-50/hr | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-at-collabera-4374605097>) |
@@ -109,6 +111,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Embedded & IoT Edge Developer <!--id:630833463--> | DV8 Energy | Develop firmware for embedded devices and IoT edges | Calgary-based energy tech, embedded hardware and software | Full-time | Calgary, AB (Onsite) | [Apply](<https://www.dv8energy.com/careers/d8ec65a7-02ee-44c1-8dcd-cce57e5c2431?position=Junior+Embedded+%26+IoT+Edge+Developer>) |
 | Jr Hardware Engineer <!--id:629329707--> | Aversan Inc. | Design hardware circuits, analyze, draft schematics | Aerospace defense electronics, safety-critical systems | Full-time | Mississauga, Ontario (Onsite) | [Apply](<https://aversan.catsone.com/careers/53979-General/jobs/16697333-Jr-Hardware-Engineer>) |
 | Junior Hardware Engineer <!--id:629248430--> | Aversan Inc. | Design hardware schematics and analyze circuits | Aerospace/defense electronics systems company | Full-time | Mississauga, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-hardware-engineer-at-aversan-inc-4374626513>) |
 | Junior Hardware Designer (Embedded) – Onsite Position <!--id:626816553--> | Curtiss-Wright Corporation | Design, test, and debug embedded hardware | Defense-focused manufacturer of rugged embedded systems | Full-time · $67,900-$90,500/yr | Ottawa, Ontario (Onsite) | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Junior-Hardware-Designer--Embedded----Onsite-Position_JR11213?source=LinkedIn>) |
@@ -120,6 +123,7 @@ _No roles currently_
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior IT Helpdesk Technician (Term Position) <!--id:630764018--> | Municipal District of Bonnyville | Provide first-level IT support and troubleshooting | Local government IT department in Bonnyville | Full-time · $35.53/hr | Bonnyville, AB (Onsite) | [Apply](<http://ca.indeed.com/job/junior-it-helpdesk-technician-term-position-7542a88a71b0a4e5>) |
 | Junior Desktop Support Technician <!--id:629393107--> | Enterprise 1 Advisory Services | Provide on-site desktop support and basic troubleshooting | Edmonton-based IT advisory services firm | Contract · 2wk · $17.60-$34.62/hr · February 2026 | Edmonton, AB T5M 4A1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-desktop-support-technician-a956af3cf64d2608>) |
 | Jr. IT Support Technician <!--id:626629554--> | Amico Affiliates | Provide Level 1 IT support and onboarding | Ontario-based construction company; hands-on IT exposure | Full-time | Mississauga, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/jr-it-support-technician-at-amico-affiliates-4364789492>) |
 
