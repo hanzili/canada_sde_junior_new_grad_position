@@ -32,6 +32,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 🔥 Junior Full Stack Engineer <!--id:633244749--> | OpusClip | Build full-stack features, ship production-ready code. | AI video startup with rapid growth and funding. | Full-time · CAD$120K- CAD$160K/yr | Burnaby, BC (Onsite) | [Apply](<https://jobs.ashbyhq.com/opusclip/b4fe8c5d-ef27-4e56-b5bb-b8df3b47301f?utm_source=A7e9Ye9JLj>) |
+| 🆕 Junior Full-Stack Developper <!--id:633194389--> | Explorance | Build frontend and backend features with React/TypeScript | Education software, enterprise customers | Full-time | Montréal, QC H3A 1T1 (Onsite) | [Apply](<https://explorance.bamboohr.com/careers/318?postedDate=2026-02-26&source=indeed&src=indeed>) |
+| 🆕 Junior Software Engineer (C#) <!--id:632968508--> | Broadsign | Build features in C#/.NET, test and deploy fast | Montreal-based ad tech software company, global reach | Full-time | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-c%23-at-broadsign-4378630371>) |
 | Software Developer - Junior to Intermediate <!--id:632220841--> | Penner Farm Services | Develop, test, and deploy software for barn systems | Agritech firm building barn-control software | Full-time · $55k-$65k/yr | Chilliwack, BC (Onsite) | [Apply](<http://ca.indeed.com/job/software-developer-junior-intermediate-5ce8b0420b8f783c>) |
 | Junior/Intermediate Software Developer - Technical Support <!--id:631513740--> | Manufacturing Systems Corp. | Develop software enhancements, provide technical support | Canadian software firm serving manufacturing industry | Full-time · 12mo · $55k-$60k/yr | Toronto, ON (Remote) | [Apply](<http://ca.indeed.com/job/juniorintermediate-software-developer-technical-support-e2adf29a625a0ec7>) |
 | Junior Software Developer (AI & Video Systems) <!--id:631331226--> | roomvu | Build backend features, integrate AI tools, debug | Vancouver-based startup building AI video systems | Full-time | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-developer-ai-video-systems-at-roomvu-4376403789>) |
@@ -66,6 +69,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 🔥 Junior Data Scientist <!--id:633171514--> | ATB Financial | Design, build, and deploy ML models for finance. | Canadian bank focused on risk analytics. | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://careers.atb.com/careers/job/1125899907694233?src=LinkedIn>) |
 | Junior Estimator & Data Analyst <!--id:631239093--> | Mammoet | Prepare estimates, analyze data, build dashboards | Global heavy-lift logistics leader | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://jobs.mammoet.com/jobs/5601?iis=LinkedIn&iisn=linkedin&lang=en-us&mode=apply>) |
 | Junior Data Analyst – Power BI & SQL <!--id:630724123--> | Digivance Solutions | Build dashboards, transform data, deliver insights | Toronto-based data analytics and BI services firm | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-power-bi-sql-at-digivance-solutions-4377002562>) |
 | Junior Data Analyst <!--id:629354095--> | Hays | Analyze data, perform data entry, generate reports | Global recruitment firm connecting talent | Contract · Mar-May 2026 | Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-at-hays-4375884738>) |
@@ -96,6 +100,8 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Mobile
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Mobile Developer <!--id:633170817--> | AMA - Alberta Motor Association | Develop cross-platform mobile apps with Flutter | Alberta-based member services organization | Full-time | Edmonton, Alberta (Hybrid) | [Apply](<https://albertamotorassociation.wd3.myworkdayjobs.com/AMA/job/CA-AB-Edmonton-South/Junior-Mobile-Developer_JR102235-1?source=LinkedIn>) |
+| 🆕 Junior Mobile Developer <!--id:633065043--> | Alberta Motor Association | Develop cross-platform mobile apps with Flutter | Alberta-based member-focused auto association | Full-time | Edmonton, AB (Hybrid) | [Apply](<https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/AMA/job/CA-AB-Edmonton-South/Junior-Mobile-Developer_JR102235-1>) |
 | Mobile Developer (Android, Junior/Intermediate) <!--id:612885706--> | Deep Breathe | Develop Android apps, integrate with hardware SDKs | Medtech startup, AI-enabled ultrasound platform. | Full-time | London, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/mobile-developer-android-junior-intermediate-at-deep-breathe-4203254140>) |
 
 ## QA / Test / Automation
@@ -123,6 +129,8 @@ _No roles currently_
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Technicien(ne) junior – Service TI / Junior Helpdesk Technician <!--id:632785544--> | Energy Transportation Group | Provide first-line IT support and ticket resolution. | LaSalle-based energy transportation group. | Full-time | Lasalle, QC H8N 3A9 (Onsite) | [Apply](<https://shipenergy.bamboohr.com/careers/294?postedDate=2026-02-26&source=indeed&src=indeed>) |
+| 🆕 Technicien(ne) junior – Service TI / Junior Helpdesk Technician <!--id:632644169--> | ENERGY TRANSPORTATION GROUP | Provide first-line IT support and troubleshoot basics | Energy Transportation Group, growing logistics leader in Canada | Full-time | Montreal, Quebec (Onsite) | [Apply](<https://shipenergy.bamboohr.com/careers/294?source=LinkedIn>) |
 | Junior IT Support Technician (Field Role) <!--id:631484590--> | PCTECH Computer Services Inc. | Provide onsite IT support, troubleshoot client PCs | Long-established IT services provider for SMBs | Full-time · $20-22/hr | Lower Mainland, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-it-support-technician-field-role-4afb54efcba52bd8>) |
 | Junior IT Helpdesk Technician (Term Position) <!--id:630764018--> | Municipal District of Bonnyville | Provide first-level IT support and troubleshooting | Local government IT department in Bonnyville | Full-time · $35.53/hr | Bonnyville, AB (Onsite) | [Apply](<http://ca.indeed.com/job/junior-it-helpdesk-technician-term-position-7542a88a71b0a4e5>) |
 | Junior Desktop Support Technician <!--id:629393107--> | Enterprise 1 Advisory Services | Provide on-site desktop support and basic troubleshooting | Edmonton-based IT advisory services firm | Contract · 2wk · $17.60-$34.62/hr · February 2026 | Edmonton, AB T5M 4A1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-desktop-support-technician-a956af3cf64d2608>) |
