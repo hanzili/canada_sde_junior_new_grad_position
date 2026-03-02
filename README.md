@@ -32,7 +32,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| 🆕 Junior Software Engineer <!--id:634741790--> | MM Global Solutions Consulting | Develop features, fix bugs, maintain software systems. | FinTech/ATM industry consulting, servicing FI clients. | Full-time · $45,000-$50,000/yr | Kitchener, ON N2G 1H6 (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-0a71fcf2bb88be23>) |
+| Junior Software Engineer <!--id:634741790--> | MM Global Solutions Consulting | Develop features, fix bugs, maintain software systems. | FinTech/ATM industry consulting, servicing FI clients. | Full-time · $45,000-$50,000/yr | Kitchener, ON N2G 1H6 (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-0a71fcf2bb88be23>) |
 | Junior Software Developer – Frontend <!--id:634055703--> | MDA Space | Develop frontend features, write tests, collaborate with team | Space tech leader with defense program expertise | Full-time | Brampton, Ontario (Hybrid) | [Apply](<https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=40332a53-683a-47d5-ab75-d364b906a11f&s=LinkedIn&source=LinkedIn&sourceId=7aa1ba8b-9eaf-4265-9936-402a84fee03f>) |
 | Junior Software Developer – Frontend <!--id:633840557--> | MDA | Develop features, write tests, review code, collaborate | Space and defense software contractor | Full-time | Brampton, ON (Hybrid) | [Apply](<https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=40332a53-683a-47d5-ab75-d364b906a11f&postingId=5aebfdb7-88e0-41cd-bfbd-d6e284f82596>) |
 | Junior Web Developer <!--id:634425216--> | PassiveCreator Systems | Build web features, fix bugs, test, deploy | Canadian software company with growing web team | Full-time · $72,000/yr | Halifax, NS B3J 3N2 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-web-developer-6eaf3f88685bdd72>) |
@@ -63,12 +63,11 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Software Developer <!--id:622118922--> | Ellement Consulting Group | Maintain and modernize .NET apps; build UI | Actuarial consulting firm delivering pension software solutions | Full-time | Winnipeg, MB R3M 3Y9 (Hybrid) | [Apply](<https://ellement.bamboohr.com/careers/24?postedDate=2026-02-10&source=indeed&src=indeed>) |
 | Software Engineer I <!--id:621561069--> | Planview | Build data pipelines, ship features, fix bugs | Global leader in work management software | Full-time · $80K-97K CAD/yr | Vancouver, British Columbia (Hybrid) | [Apply](<https://careers.planview.com/jobs/4749?iis=Job+Board&iisn=Linkedin&lang=en-us>) |
 | Junior Software Developer <!--id:621366744--> | Naryant | Develop and optimize ASP.NET MVC applications | Digital transformation partner delivering data-enabled solutions | Full-time | Oakville, ON (Hybrid) | [Apply](<https://naryant.bamboohr.com/careers/29?postedDate=2026-02-09&source=indeed&src=indeed>) |
-| Junior Dynamics 365/Power Platform Developer <!--id:620662488--> | Charter | Develop software, APIs, and web front-ends | Canadian software firm focusing on enterprise apps | Full-time | Lawnhill, British Columbia (Hybrid) | [Apply](<https://charter.bamboohr.com/careers/164?source=LinkedIn>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| 🆕 Junior Data Scientist (Remote) <!--id:634922978--> | Why Hiring | Collect data, build models, visualize insights | Canada-based, mentorship-focused data science team | Full-time | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-scientist-remote-at-why-hiring-4376696794>) |
+| Junior Data Scientist (Remote) <!--id:634922978--> | Why Hiring | Collect data, build models, visualize insights | Canada-based, mentorship-focused data science team | Full-time | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-scientist-remote-at-why-hiring-4376696794>) |
 | 🔥 Junior Data Scientist <!--id:633171514--> | ATB Financial | Design, build, and deploy ML models for finance. | Canadian bank focused on risk analytics. | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://careers.atb.com/careers/job/1125899907694233?src=LinkedIn>) |
 | Junior Software Engineer <!--id:633973736--> | Northland Properties | Build data integrations and reliable pipelines. | Canadian hospitality group with diverse brands. | Full-time | Vancouver, BC V6J 4S6 (Onsite) | [Apply](<https://jobs.dayforcehcm.com/en-US/northlandproperties/NORTHLANDPROPERTIES/jobs/32936>) |
 | Junior Data Analyst <!--id:633874712--> | Tripledot | Maintain dashboards, write SQL queries, surface insights | Mobile games studio, data-driven decision making | Full-time · $50K-$65K CAD/yr | Toronto, ON (Hybrid) | [Apply](<https://tripledotstudios.pinpointhq.com/postings/095799b6-7a2d-4afb-a229-29595040ac14?utm_medium=job_board&utm_source=indeed>) |
@@ -136,7 +135,6 @@ _No roles currently_
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior Applications & Inside Sales Engineer / Technologist <!--id:633806953--> | KGO Group Ltd. | Size pumps and tanks; prepare system proposals | Industrial engineering solutions provider with growth potential | Full-time · $65k-$75k/yr | Oakville, ON L6L 6R1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-applications-inside-sales-engineer-technologist-3afae7789e9f2018>) |
-| Junior AI Implementation Consultant <!--id:627024449--> | Pearl Recruitment | Assist AI deployment through research, analysis, documentation | Well-established EPCM firm expanding into AI consulting | Full-time | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-ai-implementation-consultant-at-pearl-recruitment-4373093323>) |
 
 ## Startup / VC / Ops
 _No roles currently_
