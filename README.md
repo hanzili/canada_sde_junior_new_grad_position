@@ -32,6 +32,8 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Web Application Developer (LAMP) <!--id:636028494--> | Registry Connection Inc. | Develop PHP web apps, fix bugs, implement features | Alberta-based registry software company. | Full-time · $50k-$70k/yr | Calgary, AB (Onsite) | [Apply](<http://ca.indeed.com/job/junior-web-application-developer-lamp-bb9d9f73610303e7>) |
+| 🆕 Junior Software Developer <!--id:635966960--> | CIVIL SERVICE SUPERANNUATION BOARD | Develop, test, and maintain software applications | Manitoba public sector pension administrator | Full-time · $60,000-$70,000/yr | Winnipeg, MB R3C 3T1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-software-developer-948583c6d393613e>) |
 | Junior Software Engineer <!--id:634741790--> | MM Global Solutions Consulting | Develop features, fix bugs, maintain software systems. | FinTech/ATM industry consulting, servicing FI clients. | Full-time · $45,000-$50,000/yr | Kitchener, ON N2G 1H6 (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-0a71fcf2bb88be23>) |
 | Junior Software Developer – Frontend <!--id:634055703--> | MDA Space | Develop frontend features, write tests, collaborate with team | Space tech leader with defense program expertise | Full-time | Brampton, Ontario (Hybrid) | [Apply](<https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=40332a53-683a-47d5-ab75-d364b906a11f&s=LinkedIn&source=LinkedIn&sourceId=7aa1ba8b-9eaf-4265-9936-402a84fee03f>) |
 | Junior Software Developer – Frontend <!--id:633840557--> | MDA | Develop features, write tests, review code, collaborate | Space and defense software contractor | Full-time | Brampton, ON (Hybrid) | [Apply](<https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=40332a53-683a-47d5-ab75-d364b906a11f&postingId=5aebfdb7-88e0-41cd-bfbd-d6e284f82596>) |
@@ -86,6 +88,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## DevOps / SRE / Platform
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Jr. DevOps Engineer <!--id:636112192--> | SPECTRAFORCE | Maintain CI system, build features, fix bugs | Staffing firm providing tech talent placements | Full-time | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/jr-devops-engineer-at-spectraforce-4380705647>) |
 | Junior DevOps Engineer <!--id:628901588--> | Ciena | Design, implement, and maintain CI/CD pipelines | Global networking leader; strong engineering culture. | Full-time · $71,100–$114,900 CAD/yr | Ottawa, Ontario (Onsite) | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Junior-DevOps-Engineer_R029494-1?source=LinkedIn+Job+Advertisement>) |
 
 ## Security
@@ -128,6 +131,7 @@ _No roles currently_
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Service Desk Analyst - Call Centre <!--id:636326102--> | The Hospital for Sick Children | Provide first-level IT support and troubleshoot incidents | Leading paediatric hospital in Canada | Full-time · 12mo | Toronto, ON M5G 1X8 (Onsite) | [Apply](<https://career.sickkids.ca:8001/psc/CRPRD/CAREER/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=23774&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1>) |
 | Technicien(ne) junior – Service TI / Junior Helpdesk Technician <!--id:632785544--> | Energy Transportation Group | Provide first-line IT support and ticket resolution. | LaSalle-based energy transportation group. | Full-time | Lasalle, QC H8N 3A9 (Onsite) | [Apply](<https://shipenergy.bamboohr.com/careers/294?postedDate=2026-02-26&source=indeed&src=indeed>) |
 | Technicien(ne) junior – Service TI / Junior Helpdesk Technician <!--id:632644169--> | ENERGY TRANSPORTATION GROUP | Provide first-line IT support and troubleshoot basics | Energy Transportation Group, growing logistics leader in Canada | Full-time | Montreal, Quebec (Onsite) | [Apply](<https://shipenergy.bamboohr.com/careers/294?source=LinkedIn>) |
 | Junior IT Support Technician (Field Role) <!--id:631484590--> | PCTECH Computer Services Inc. | Provide onsite IT support, troubleshoot client PCs | Long-established IT services provider for SMBs | Full-time · $20-22/hr | Lower Mainland, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-it-support-technician-field-role-4afb54efcba52bd8>) |
@@ -138,6 +142,7 @@ _No roles currently_
 ## Solutions / Customer Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Application Engineer - Electrical <!--id:636212244--> | MegaResistors | Learn product portfolio, advise customers, prepare proposals | Electrical engineering firm specializing in power systems | Full-time · $60,000-$80,000 per year | Mississauga, ON L5T 1Z4 (Remote) | [Apply](<http://ca.indeed.com/job/junior-application-engineer-electrical-8774045957a65abc>) |
 | Application Engineer (Junior) <!--id:635421137--> | Dionamix Scientific Inc. | Demonstrate tech, support customers, train users | Richmond BC life sciences instrumentation company. | Full-time · CA$45,000-CA$55,000 per year | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/application-engineer-junior-at-dionamix-scientific-inc-4379134339>) |
 | Junior Applications & Inside Sales Engineer / Technologist <!--id:633806953--> | KGO Group Ltd. | Size pumps and tanks; prepare system proposals | Industrial engineering solutions provider with growth potential | Full-time · $65k-$75k/yr | Oakville, ON L6L 6R1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-applications-inside-sales-engineer-technologist-3afae7789e9f2018>) |
 
