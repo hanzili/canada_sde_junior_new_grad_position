@@ -32,6 +32,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Software Engineering
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Software Developer, Information Technology <!--id:637135360--> | University of Ottawa | Develop features, test, and deploy software | Bilingual Canadian university with strong IT initiatives | Full-time · 24mo · $66,072 - $82,151/yr | Ottawa, ON K1N 6N8 (Hybrid) | [Apply](<https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Junior-Software-Developer--Information-Technology_JR31963-1>) |
 | Junior Web Application Developer (LAMP) <!--id:636028494--> | Registry Connection Inc. | Develop PHP web apps, fix bugs, implement features | Alberta-based registry software company. | Full-time · $50k-$70k/yr | Calgary, AB (Onsite) | [Apply](<http://ca.indeed.com/job/junior-web-application-developer-lamp-bb9d9f73610303e7>) |
 | Junior Software Developer <!--id:635966960--> | CIVIL SERVICE SUPERANNUATION BOARD | Develop, test, and maintain software applications | Manitoba public sector pension administrator | Full-time · $60,000-$70,000/yr | Winnipeg, MB R3C 3T1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-software-developer-948583c6d393613e>) |
 | Junior Software Engineer <!--id:634741790--> | MM Global Solutions Consulting | Develop features, fix bugs, maintain software systems. | FinTech/ATM industry consulting, servicing FI clients. | Full-time · $45,000-$50,000/yr | Kitchener, ON N2G 1H6 (Remote) | [Apply](<http://ca.indeed.com/job/junior-software-engineer-0a71fcf2bb88be23>) |
@@ -66,6 +67,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 🔥 Junior AI Engineer <!--id:636779537--> | Hotspex Media | Build production AI services, ship robust Rust code. | Hybrid AI-powered marketing agency with awards. | Full-time · CA$95K-CA$120K/yr | Toronto, ON (Hybrid) | [Apply](<https://jobs.ashbyhq.com/hotspexmedia/a04c3be4-8e8a-43de-a163-8068887b3fbc?utm_source=7M858g9q89>) |
 | Junior Data Scientist (Remote) <!--id:634922978--> | Why Hiring | Collect data, build models, visualize insights | Canada-based, mentorship-focused data science team | Full-time | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-scientist-remote-at-why-hiring-4376696794>) |
 | Junior Data Analyst <!--id:635348594--> | Mastoner Peru | Analyze data, build dashboards, derive insights | Niche data analytics firm, growth potential | Full-time · $85K-$90K/yr | Victoria, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-data-analyst-4a5916fc5142ddf2>) |
 | 🔥 Junior Data Scientist <!--id:633171514--> | ATB Financial | Design, build, and deploy ML models for finance. | Canadian bank focused on risk analytics. | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://careers.atb.com/careers/job/1125899907694233?src=LinkedIn>) |
@@ -85,6 +87,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Jr. DevOps Engineer <!--id:636112192--> | SPECTRAFORCE | Maintain CI system, build features, fix bugs | Staffing firm providing tech talent placements | Full-time | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/jr-devops-engineer-at-spectraforce-4380705647>) |
+| 🆕 Junior DevOps Engineer <!--id:636634135--> | Dawn InfoTek Inc. | Build CI/CD pipelines, automate cloud infrastructure | IT consulting firm serving financial sector clients. | Full-time · $65K-$80K | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-devops-engineer-at-dawn-infotek-inc-4379696034>) |
 | Junior DevOps Engineer <!--id:628901588--> | Ciena | Design, implement, and maintain CI/CD pipelines | Global networking leader; strong engineering culture. | Full-time · $71,100–$114,900 CAD/yr | Ottawa, Ontario (Onsite) | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Junior-DevOps-Engineer_R029494-1?source=LinkedIn+Job+Advertisement>) |
 
 ## Security
@@ -138,6 +141,7 @@ _No roles currently_
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior Application Engineer - Electrical <!--id:636212244--> | MegaResistors | Learn product portfolio, advise customers, prepare proposals | Electrical engineering firm specializing in power systems | Full-time · $60,000-$80,000 per year | Mississauga, ON L5T 1Z4 (Remote) | [Apply](<http://ca.indeed.com/job/junior-application-engineer-electrical-8774045957a65abc>) |
+| 🆕 Junior Sales Engineer <!--id:636686780--> | Orion RepTech Inc | Assist customers, deliver demos, grow accounts | Canadian electronics components rep with broad supplier network | Full-time | Montreal, Quebec (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/junior-sales-engineer-at-orion-reptech-inc-4379689682>) |
 | Application Engineer (Junior) <!--id:635421137--> | Dionamix Scientific Inc. | Demonstrate tech, support customers, train users | Richmond BC life sciences instrumentation company. | Full-time · CA$45,000-CA$55,000 per year | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/application-engineer-junior-at-dionamix-scientific-inc-4379134339>) |
 | Junior Applications & Inside Sales Engineer / Technologist <!--id:633806953--> | KGO Group Ltd. | Size pumps and tanks; prepare system proposals | Industrial engineering solutions provider with growth potential | Full-time · $65k-$75k/yr | Oakville, ON L6L 6R1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-applications-inside-sales-engineer-technologist-3afae7789e9f2018>) |
 
