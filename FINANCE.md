@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -128,9 +128,6 @@ _No roles currently_
 | Technicien comptable <!--id:622717614--> | Proforce Personnel | Assist accounting operations: month-end, entries, budgets, cash | Longstanding multi-site firm with steady growth | Full-time | Beloeil, Quebec (Onsite) | [Apply](<https://apply.jobadder.com/us1/2774/426599/rfxwzxnsnrouxcextbp4f27ywi>) |
 | Associate, Financial Analyst <!--id:621681117--> | Capital One | Analyze financials, forecasts, and reporting | Canadian arm of data-driven credit card bank | Full-time | Toronto, ON (Hybrid) | [Apply](<https://www.capitalonecareers.ca/job/-/-/1733/91558563328>) |
 | Junior Accountant <!--id:617998403--> | Great Little Box Company | Process invoices, support month-end close, manage assets | Family-owned packaging leader with growth opportunities | Full-time · Permanent · $50k-$58k/year · Ongoing | Richmond, British Columbia (Onsite) | [Apply](<https://recruiting.ultipro.ca/GRE5002GLTB/JobBoard/161a5068-e6ac-413e-bbb7-026100cfb0ce/OpportunityDetail?opportunityId=5d4319d1-bf1a-4266-8b0a-5cc4ca157a85>) |
-| Junior Accountant & Administrative Assistant <!--id:617884251--> | Northern Roads Auto Group | Process AP, reconcile balances, handle month-end tasks daily | Auto dealership group, long-standing regional presence | Full-time · Permanent · $20-25 per hour · N/A | Belleville, ON (Onsite) | [Apply](<https://northernroadsautogroup.bamboohr.com/careers/130?postedDate=2026-02-04&source=indeed&src=indeed>) |
-| Junior Accountant <!--id:617735150--> | Great Little Box Co. | Process vendor invoices; support month-end close | Packaging manufacturer; CPA support and growth opportunities | Full-time · Permanent · $50k-$58k | Richmond, BC V6V 3C1 (Onsite) | [Apply](<https://recruiting.ultipro.ca/GRE5002GLTB/JobBoard/161a5068-e6ac-413e-bbb7-026100cfb0ce/OpportunityDetail?opportunityId=5d4319d1-bf1a-4266-8b0a-5cc4ca157a85&postingId=dc35c68c-e573-4505-85e2-c19f95dcf9ec>) |
-| Junior Accountant <!--id:617279451--> | Aurinia Pharmaceuticals Inc. | Process AP/AR, reconcile accounts, assist monthly close | Pharma company with strong regulatory and compliance focus | Full-time · Permanent · Not disclosed · Permanent | Edmonton, Alberta (Onsite) | [Apply](<https://auriniacareers.ttcportals.com/jobs/17298350-junior-accountant?bid=56&tm_company=47657&tm_event=view&tm_job=AR1512>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
