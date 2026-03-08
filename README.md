@@ -127,7 +127,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Embedded & IoT Edge Developer <!--id:630833463--> | DV8 Energy | Develop firmware for embedded devices and IoT edges | Calgary-based energy tech, embedded hardware and software | Full-time | Calgary, AB (Onsite) | [Apply](<https://www.dv8energy.com/careers/d8ec65a7-02ee-44c1-8dcd-cce57e5c2431?position=Junior+Embedded+%26+IoT+Edge+Developer>) |
 | Jr Hardware Engineer <!--id:629329707--> | Aversan Inc. | Design hardware circuits, analyze, draft schematics | Aerospace defense electronics, safety-critical systems | Full-time | Mississauga, Ontario (Onsite) | [Apply](<https://aversan.catsone.com/careers/53979-General/jobs/16697333-Jr-Hardware-Engineer>) |
 | Junior Hardware Engineer <!--id:629248430--> | Aversan Inc. | Design hardware schematics and analyze circuits | Aerospace/defense electronics systems company | Full-time | Mississauga, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-hardware-engineer-at-aversan-inc-4374626513>) |
-| Junior Hardware Designer (Embedded) – Onsite Position <!--id:626816553--> | Curtiss-Wright Corporation | Design, test, and debug embedded hardware | Defense-focused manufacturer of rugged embedded systems | Full-time · $67,900-$90,500/yr | Ottawa, Ontario (Onsite) | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Junior-Hardware-Designer--Embedded----Onsite-Position_JR11213?source=LinkedIn>) |
 
 ## Product / TPM
 _No roles currently_
