@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -119,7 +119,6 @@ _No roles currently_
 | COMPTABLE JUNIOR <!--id:623713983--> | CANSEW | Assist month-end close, bank reconciliations, reporting | Montreal-based company with growing accounting team | Permanent · 40 h/semaine · N/A · N/A | Montréal, QC H2N 1A3 (Onsite) | [Apply](<https://emplois.csmotextile.qc.ca/emploi/comptable-junior/>) |
 | Technicien comptable <!--id:622717614--> | Proforce Personnel | Assist accounting operations: month-end, entries, budgets, cash | Longstanding multi-site firm with steady growth | Full-time | Beloeil, Quebec (Onsite) | [Apply](<https://apply.jobadder.com/us1/2774/426599/rfxwzxnsnrouxcextbp4f27ywi>) |
 | Associate, Financial Analyst <!--id:621681117--> | Capital One | Analyze financials, forecasts, and reporting | Canadian arm of data-driven credit card bank | Full-time | Toronto, ON (Hybrid) | [Apply](<https://www.capitalonecareers.ca/job/-/-/1733/91558563328>) |
-| Junior Accountant <!--id:617998403--> | Great Little Box Company | Process invoices, support month-end close, manage assets | Family-owned packaging leader with growth opportunities | Full-time · Permanent · $50k-$58k/year · Ongoing | Richmond, British Columbia (Onsite) | [Apply](<https://recruiting.ultipro.ca/GRE5002GLTB/JobBoard/161a5068-e6ac-413e-bbb7-026100cfb0ce/OpportunityDetail?opportunityId=5d4319d1-bf1a-4266-8b0a-5cc4ca157a85>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
