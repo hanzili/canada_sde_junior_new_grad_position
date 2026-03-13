@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -176,6 +176,7 @@ _No roles currently_
 ## Banking / Insurance
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 🔥 Personal Banking Associate Trainee <!--id:641494457--> | TD Securities | Assist customers with banking, refer to specialists | Top Canadian bank with strong training programs | Full-time · 37.5h/week · CAD 45,700-61,000 · Permanent | Calgary, Alberta (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banking-Associate-Trainee_R_1477715-1?source=LinkedIn>) |
 | 🔥 Personal Banking Associate Trainee <!--id:640235313--> | TD Securities | Assist customers; open accounts; promote banking solutions | Top Canadian bank; strong training program | Full-time · Permanent · CAD 45,700–61,000 · N/A | Calgary, Alberta (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banking-Associate-Trainee_R_1476948?source=LinkedIn>) |
 | 🔥 Personal Banking Associate Trainee (Current and future opportunities) <!--id:640031012--> | TD | Assist customers, process transactions, cross-sell | Top Canadian bank; strong career development | Full-time · Trainee program · CAD 45,700-61,000 · Permanent after training | Toronto, Ontario (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee--Current-and-future-opportunities-_R_1477692-1>) |
 | 🔥 Personal Banking Associate Trainee - Cantonese language skills considered an asset <!--id:640653621--> | TD Securities | Assist customers; process transactions; cross-sell | TD Securities; major Canadian bank with training | Full-time · Permanent · CAD 45,700 - 61,000 · Ongoing | Vancouver, British Columbia (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Vancouver-British-Columbia/Personal-Banking-Associate-Trainee---Cantonese-language-skills-considered-an-asset_R_1477864?source=LinkedIn>) |
