@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -31,6 +31,8 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Bookkeeper <!--id:657292725--> | Bookkeepingkelowna.com | Manage bookkeeping tasks, reconciliations, and reports | Local bookkeeping practice with growth potential | Full-time · Permanent · $18.50-$20.00/hour · On-site | Kelowna, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-af3dce6b19e7fc69>) |
+| 🆕 Junior Bookkeeper <!--id:657180034--> | Stern Cohen Accountants | Full-cycle bookkeeping, payroll, reconciliations, client comms | Local accounting firm with client focus | Full-time · Permanent · $45k-$50k | Toronto, ON M4V 1L3 (Hybrid) | [Apply](<https://sterncohen.bamboohr.com/careers/176?postedDate=2026-04-04&source=indeed&src=indeed>) |
 | QuickBooks Desktop Bookkeeper / Junior Accountant <!--id:656425608--> | Able Group | Perform full-cycle bookkeeping and monthly financial statements accurately | Regional distributor with stable, long-standing operations | Full-time · Permanent · $22-30/h ·  | Surrey, BC V3W 0H7 (Onsite) | [Apply](<http://ca.indeed.com/job/quickbooks-desktop-bookkeeper-junior-accountant-f9facc30ca22e0be>) |
 | Junior Accountant <!--id:656281393--> | Atira Women's Resource Society | Process transactions, reconcile accounts, support reporting | Non-profit focused on housing and community services | Full-Time · Indeterminate · $25.95/hr · N/A | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-atira-women-s-resource-society-4396051626>) |
 | Junior Accountant <!--id:656690509--> | Beedie | Manage full-cycle accounting; AP/AR, reconciliations | Family Office; diversified investments and tax services | Full-Time · Permanent · $50k-$60k · N/A | Burnaby, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-beedie-4359612036>) |
@@ -167,9 +169,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Scanner/Jr. Strata Accounts Payable Clerk <!--id:639861862--> | Rancho Management Services (B.C.) Ltd. | Input invoices, process AP, maintain vendor relationships | Large Western Canada property management leader | Full-time · Permanent · $45,000/year ·  | Vancouver, BC V6Z 2K8 (Onsite) | [Apply](<http://ca.indeed.com/job/scannerjr-strata-accounts-payable-clerk-6ca1b5027268f49c>) |
 | Accountant-Entry Level-Peterborough <!--id:639273798--> | Allied Associates LLP, Chartered Professional Accountants | Assist in tax returns and financial statements | Public accounting firm; tax and advisory services | Full-time · Permanent · $45,000-$50,000 · N/A | Peterborough, ON K9H 7E7 (Hybrid) | [Apply](<http://ca.indeed.com/job/accountant-entry-level-peterborough-a6881966c3d854be>) |
 | Junior Bookkeeper <!--id:638543658--> | Langley Senior Resources Society | Process AP/AR, payroll, and GL reconciliations | Non-profit seniors services charity in Langley, BC | Part-time · 30 hours/week · $21-$24/hour · Permanent | Langley, BC V3A 9H1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-95e0a95935c469a5>) |
-| Junior Accountant <!--id:637558831--> | Bunch Projects Ltd. | Reconcile GL, assist AP, maintain records. | Calgary-based firm with solid accounting practice. | Full-time · Permanent · Up to $25/hour · Downtown Calgary | Calgary, AB T2P 2R9 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-26c3c9f74f440b37>) |
-| Jr. Bookkeeper <!--id:637478922--> | Gill & Co. Chartered Accountants | Maintain GL, reconcile accounts, assist audits | Mid-sized local CA firm in Mississauga | Full-time · Permanent · CAD 35,000 · N/A | Mississauga, ON L4T 1G5 (Onsite) | [Apply](<http://ca.indeed.com/job/jr-bookkeeper-65e105444aab43bb>) |
-| Junior Accountant <!--id:637449941--> | Tolplanet Tax Services | Assist accounting tasks; prepare tax returns; reconcile data | Local tax/accounting firm with CPA study support | Full-time · Permanent · Up to $59,459.10 per year · N/A | Vancouver, BC V5N 4A5 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-56ba416db047ca65>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -190,7 +189,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Accountant, Assurance - Greater Vancouver Offices - September 2026 <!--id:644481269--> | BDO Canada | Assist audit engagements; prep working papers | Canada's leading mid-tier accounting firm | Full-time · Permanent · $55,000-$63,000 · September 2026 start | Vancouver, British Columbia (Hybrid) | [Apply](<https://bdo.wd3.myworkdayjobs.com/fr-CA/BDO/job/Vancouver/Junior-Accountant--Assurance---Greater-Vancouver-Offices---September-2026-2026_JR4786?source=LinkedIn>) |
 | Junior Accountant <!--id:640489422--> | Resnick Partnership LLP Chartered Professional Accountants | Assist audits, reviews, compilations; learn public accounting | CPA training firm; accredited by CPA Ontario | Full-time · Pay: From $45,000 per year | Concord, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-f64f96c960fa6471>) |
 | Accountant-Entry Level-London <!--id:639273799--> | Allied Associates LLP, Chartered Professional Accountants | Assist tax returns, financial statements, and bookkeeping | Public accounting firm serving farms and small businesses | Full-time  Permanent  $45,000-$50,000  N/A | London, ON N5X 4E9 (Hybrid) | [Apply](<http://ca.indeed.com/job/accountant-entry-level-london-74c1031487c88140>) |
-| Junior Auditor (Maniwaki) <!--id:637692812--> | Forvis Mazars | Participate in audits; support tax filings | Global audit & assurance leader; robust training | Full-time · Permanent · Competitive | Maniwaki, QC J9E 2L3 (Onsite) | [Apply](<https://atlas.workland.com/work/76347/junior-auditor-maniwaki?lang=en&source=Indeed>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
