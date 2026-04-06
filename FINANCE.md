@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -162,7 +162,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Property Accountant <!--id:639866603--> | Devon Properties | Prepare monthly reporting and perform journal entries | Real estate property accounting focus; growth opportunities | Full-time · Permanent · $50,000-$55,000/year · Permanent | Victoria, BC V8V 3K2 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-property-accountant-247d4ee732fefebc>) |
 | Scanner/Jr. Strata Accounts Payable Clerk <!--id:639861862--> | Rancho Management Services (B.C.) Ltd. | Input invoices, process AP, maintain vendor relationships | Large Western Canada property management leader | Full-time · Permanent · $45,000/year ·  | Vancouver, BC V6Z 2K8 (Onsite) | [Apply](<http://ca.indeed.com/job/scannerjr-strata-accounts-payable-clerk-6ca1b5027268f49c>) |
 | Accountant-Entry Level-Peterborough <!--id:639273798--> | Allied Associates LLP, Chartered Professional Accountants | Assist in tax returns and financial statements | Public accounting firm; tax and advisory services | Full-time · Permanent · $45,000-$50,000 · N/A | Peterborough, ON K9H 7E7 (Hybrid) | [Apply](<http://ca.indeed.com/job/accountant-entry-level-peterborough-a6881966c3d854be>) |
-| Junior Bookkeeper <!--id:638543658--> | Langley Senior Resources Society | Process AP/AR, payroll, and GL reconciliations | Non-profit seniors services charity in Langley, BC | Part-time · 30 hours/week · $21-$24/hour · Permanent | Langley, BC V3A 9H1 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-95e0a95935c469a5>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
