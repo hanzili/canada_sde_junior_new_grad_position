@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -160,7 +160,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Replacement Position - Junior Accountant <!--id:639899378--> | Deacon Investments Ltd. | Process AR/AP, month-end close, journal entries | Local investment & property management firm | Full-time · 12-14 months · $40,000-$50,000 · Replacement | St. John's, NL A1E 1H3 (Onsite) | [Apply](<http://ca.indeed.com/job/replacement-position-junior-accountant-209b8402834c183d>) |
 | Junior Property Accountant <!--id:639866603--> | Devon Properties | Prepare monthly reporting and perform journal entries | Real estate property accounting focus; growth opportunities | Full-time · Permanent · $50,000-$55,000/year · Permanent | Victoria, BC V8V 3K2 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-property-accountant-247d4ee732fefebc>) |
 | Scanner/Jr. Strata Accounts Payable Clerk <!--id:639861862--> | Rancho Management Services (B.C.) Ltd. | Input invoices, process AP, maintain vendor relationships | Large Western Canada property management leader | Full-time · Permanent · $45,000/year ·  | Vancouver, BC V6Z 2K8 (Onsite) | [Apply](<http://ca.indeed.com/job/scannerjr-strata-accounts-payable-clerk-6ca1b5027268f49c>) |
-| Accountant-Entry Level-Peterborough <!--id:639273798--> | Allied Associates LLP, Chartered Professional Accountants | Assist in tax returns and financial statements | Public accounting firm; tax and advisory services | Full-time · Permanent · $45,000-$50,000 · N/A | Peterborough, ON K9H 7E7 (Hybrid) | [Apply](<http://ca.indeed.com/job/accountant-entry-level-peterborough-a6881966c3d854be>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -179,7 +178,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | 🔥 New Grad: Junior Accountant, Assurance (Greater Toronto Area Offices) - Fall 2027 <!--id:650154843--> | BDO Canada | Prepare working papers, financial statements, audits | Big4 CPA-focused firm with growth opportunities | Full-time · Fall 2027 start (October 2027) · $59,000-$67,000 · Permanent | Oakville, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/new-grad-junior-accountant-assurance-greater-toronto-area-offices-fall-2027-at-bdo-canada-4389982607>) |
 | Junior Accountant, Assurance - Greater Vancouver Offices - Winter 2027 <!--id:644481835--> | BDO Canada | Prepare working papers, financial statements, evidence gathering | Big 4-style assurance with CPA support | Full-time · Winter 2027 start · $55,000-$63,000 · Permanent | Vancouver, British Columbia (Hybrid) | [Apply](<https://bdo.wd3.myworkdayjobs.com/fr-CA/BDO/job/Vancouver/Junior-Accountant--Assurance---Greater-Vancouver-Offices---Winter-2027_JR6000?source=LinkedIn>) |
 | Junior Accountant <!--id:640489422--> | Resnick Partnership LLP Chartered Professional Accountants | Assist audits, reviews, compilations; learn public accounting | CPA training firm; accredited by CPA Ontario | Full-time · Pay: From $45,000 per year | Concord, ON (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-f64f96c960fa6471>) |
-| Accountant-Entry Level-London <!--id:639273799--> | Allied Associates LLP, Chartered Professional Accountants | Assist tax returns, financial statements, and bookkeeping | Public accounting firm serving farms and small businesses | Full-time  Permanent  $45,000-$50,000  N/A | London, ON N5X 4E9 (Hybrid) | [Apply](<http://ca.indeed.com/job/accountant-entry-level-london-74c1031487c88140>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
