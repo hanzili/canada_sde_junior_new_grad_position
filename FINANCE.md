@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -31,6 +31,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 junior financial analyst <!--id:662052118--> | SATT ASSOCIATES INC | Collect investment data, prepare outlooks and budgets | Small firm offering investment-focused financial analysis | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-financial-analyst-at-satt-associates-inc-4400975202>) |
 | VIE - Analyste Financier FP&A Junior  (F/H) <!--id:660787636--> | Lallemand France | Prepare monthly closings, analyze budgets, support reporting | Global multi-entity FP&A role in manufacturing | Full-time | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/vie-analyste-financier-fp-a-junior-f-h-at-lallemand-france-4397696705>) |
 | Accounting Assistant <!--id:660669041--> | NPAworldwide | Process payroll, manage AP/AR, assist project costing | Local staffing firm; payroll-focused accounting role | Part-time · On-site · CA$25-27/hr | Edmonton, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-assistant-at-npaworldwide-4397692018>) |
 | Junior Accountant <!--id:661357774--> | Pacific Powertech | Record AP/AR, reconcile accounts, assist payroll | BC-based independent electrical testing/commissioning services firm. | Full-time · Permanent · $50,000-$60,000 per year | Port Coquitlam, BC V3C 6N2 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-8095f88cac4d0e53>) |
@@ -158,9 +159,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Trainee Accountant <!--id:643155482--> | Tonalnor Consultant Immigration | Process AP/AR, reconciliations, and monthly closings | Hybrid CPA-support firm serving immigration clients | Full-time · Permanent · CAD 60,418.71-76,338.61/year · Permanent | Surrey, BC V3W 1R1 (Hybrid) | [Apply](<http://ca.indeed.com/job/trainee-accountant-af936017690bc070>) |
 | Junior Bookkeeper <!--id:643085045--> | FTS Business Solutions Inc | Assist bookkeeping, reconciliations, and financial reporting | Growing local accounting firm offering hands-on exposure | Part-time · 15 hours/week · $20-23/hour · Ongoing | Saskatoon, SK S7K 6M6 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-bookkeeper-cb476097fa36e0f1>) |
 | Junior Accountant <!--id:643009746--> | Computer Talk Technology Inc. | Maintain subledgers, post transactions, prepare monthly reports accurately | Longstanding Canadian tech firm, cloud contact solutions | Full-time · Permanent · $50,000-$65,000 · Permanent | Markham, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-computer-talk-technology-inc-4385387438>) |
-| Staff Accountant/CPA Articling Student <!--id:642920353--> | Berger Cavan Group LLP | Prepare tax returns, audit workpapers, client files | Accounting firm in Saskatchewan, supportive learning culture | Full-time · Permanent · From $48,000/year · N/A | Regina, SK S4P 2K5 (Onsite) | [Apply](<http://ca.indeed.com/job/staff-accountantcpa-articling-student-fe5105c04849e9e7>) |
-| Junior Project Accountant <!--id:642404176--> | CEDA | Prepare project billing, margins, and journal entries | Edmonton-based contractor with diverse industrial services | Type · Duration · Pay · Term | Edmonton, AB (Hybrid) | [Apply](<https://jobs.smartrecruiters.com/CEDA1/744000114466794-junior-project-accountant>) |
-| Junior Accountant / Bookeeper <!--id:642402106--> | Dunlevy Food Equipment Ltd. | Process AP/AR, reconcile accounts, payroll, reports | Small business with stable Canadian operations | Full-time · Permanent · $27-28/hr | Vancouver, BC V5Y 1L6 (Onsite) | [Apply](<http://ca.indeed.com/job/junior-accountant-bookeeper-f9b1ab2b32a3b637>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
