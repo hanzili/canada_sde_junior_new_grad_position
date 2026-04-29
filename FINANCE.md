@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -31,6 +31,8 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Financial Analyst <!--id:673096511--> | SP Apparel | Assist accounting, analyze costs, support ERP rollout | Canadian manufacturer; strong benefits; ERP implementation | Full-time · Permanent | Saint-Hyacinthe, QC (Remote) | [Apply](<https://www.spapparel.com/about/careers/junior-financial-analyst>) |
+| 🆕 Junior Accountant <!--id:673037459--> | CaraCo Group of Companies | Prepare journal entries; close month-end; support reports | Kingston-based property management firm with growth | Full-time · Permanent · $50,000-$53,000 per year · In-person | Kingston, ON K7K 6W6 (Hybrid) | [Apply](<http://ca.indeed.com/job/junior-accountant-e97bf1a096d7c9e3>) |
 | Junior Cost Controller <!--id:672100214--> | AtkinsRéalis | Track budgets, analyze costs, support forecasts | Global engineering firm with strong project controls. | Project controls · Full-time | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-cost-controller-at-atkinsr%C3%A9alis-4402980457>) |
 | Junior Project Controller <!--id:672016844--> | Turner & Townsend | Support cost tracking, forecasting, and project controls | Global project controls in real estate and infrastructure | Hybrid · Full-time · Not disclosed · Permanent | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-project-controller-at-turner-townsend-4405959288>) |
 | Junior Project Controller <!--id:672012906--> | Turner & Townsend Pty Limited | Support project cost tracking, forecasting, and reporting | Global professional services leader in project controls | Full-time · Permanent · Not disclosed · N/A | Calgary, AB (Hybrid) | [Apply](<https://jobs.smartrecruiters.com/TurnerTownsend/744000123098729-junior-project-controller>) |
@@ -166,6 +168,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Risk & Compliance Officer <!--id:672937166--> | Cuso International | Support audits, review financials, strengthen compliance | Global development NGO with compliance focus | Full-time | Ottawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-risk-compliance-officer-at-cuso-international-4405545368>) |
 | Bilingual Underwriting Trainee <!--id:672440255--> | Empire Life | Review applications, assess risk, support underwriting decisions | Insurance company offering underwriting trainee program | Full-time · Permanent · $47,700 - $84,800 · N/A | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/bilingual-underwriting-trainee-at-empire-life-4407481586>) |
 | Junior Underwriter <!--id:672268147--> | MSH Americas -  Diot-Siaci Group | Price, analyze, and renew insurance accounts | Insurance underwriter at domestic broker group | Contract · 12 months · 45-50k CAD annually · 12 months | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-underwriter-at-msh-americas-diot-siaci-group-4405999231>) |
 | Bilingual Underwriting Trainee <!--id:670057126--> | Empire Life | Review life insurance apps; assess basic underwriting risk | Canadian life insurer with strong underwriting program | Full-time · Training program · $47,700-$84,800 TTC · Permanent | Remote | [Apply](<https://ca.linkedin.com/jobs/view/bilingual-underwriting-trainee-at-empire-life-4405041201>) |
@@ -175,7 +178,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Group Underwriter – Group Underwriting <!--id:659004455--> | Alberta Blue Cross | Assess risks and determine premium rates | Provincial health coverage provider with strong regional presence | Full-time · Permanent · Competitive pay · N/A | Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-group-underwriter-%E2%80%93-group-underwriting-at-alberta-blue-cross-4374540779>) |
 | Junior Trucking Insurance Underwriter <!--id:658509139--> | Mango Insurance | Verify data, rate checks, issue policies, support underwriting | Lloyd's coverholder; tech-forward trucking insurance program | Full-time | Greater Calgary Metropolitan Area (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-trucking-insurance-underwriter-at-mango-insurance-4330704341>) |
 | Junior Commercial Mortgage Underwriter / Analyst <!--id:653884116--> | Harbour Mortgage | Underwrite CRE loans; analyze cash flows and collateral | Private CRE lender with extensive real estate focus | Full-time · Permanent · $60k-$75k · NA | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-commercial-mortgage-underwriter-analyst-at-harbour-mortgage-4391779485>) |
-| Junior KYC Analyst <!--id:653304197--> | Crédit Agricole CIB | Perform KYC due diligence, screening, and data entry | Global investment bank, CA-CIB Canada branch | Full-time · Permanent · Competitive pay · N/A | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-kyc-analyst-at-cr%C3%A9dit-agricole-cib-4365583379>) |
 
 ## Banking / Insurance
 | Title | Company | Role | Company Info | Details | Location | Apply |
