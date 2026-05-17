@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -26,6 +26,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Investment Banking / Capital Markets
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Associé(e) en Fusions & Acquisitions - M&A Associate <!--id:686755466--> | Manos Software Group | Source, analyze, and close software M&A opportunities | Private, long-term software acquisitions with Valsoft backing | Full-time · TBD · Competitive pay · Permanent | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associ%C3%A9-e-en-fusions-acquisitions-m-a-associate-at-manos-software-group-4375068798>) |
 | M&A Associate <!--id:685803330--> | PartnerOne | Source deals, perform due diligence, support execution | M&A software acquisitions and growth focus | Full-time · Permanent | Remote | [Apply](<https://ca.linkedin.com/jobs/view/m-a-associate-at-partnerone-4415370958>) |
 | M&A Analyst / Associate <!--id:685004420--> | Harris Computer | Model financials and valuations; support deal execution | Constellation Software operating group; growth through acquisitions | Full-time · Permanent · $60,000-$80,000 · Annual | Ontario (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/m-a-analyst-associate-at-harris-computer-4414671901>) |
 | Investment Banking Associate <!--id:682830870--> | EQ Capital Partners | Lead financial models, valuations, due diligence, deal execution | AI-driven M&A advisor focused on lower-middle market | Full-time · Permanent · Competitive pay · N/A | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/investment-banking-associate-at-eq-capital-partners-4413448396>) |
@@ -42,6 +43,9 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Derivative Analyst - Capital Markets (Entry Level) <!--id:686861779--> | Fund Accounting Edge | Process derivatives accounting, MTM, reconciliations, reporting | Specializes in fund accounting and derivatives | Full-time · Permanent · $50,000-$60,000 | Toronto, ON M5J 2W4 (Hybrid) | [Apply](<http://ca.indeed.com/job/derivative-analyst-capital-markets-entry-level-0132919ff248baba>) |
+| 🆕 Junior Staff Accountant <!--id:686826348--> | Madazli & Co. | Handle bookkeeping and full-cycle accounting tasks daily | Public practice accounting firm with local clients | Full-time · N/A · $59,000-$62,000 per year · N/A | White Rock, BC (Onsite) | [Apply](<http://ca.indeed.com/job/junior-staff-accountant-a5169e2f9c7f7438>) |
+| 🆕 Accounting Associate, Financial Accounting & Reporting <!--id:686705534--> | Zurich Canada | Prepare journal entries, reconciliations, and financial reporting | Global insurer with strong training and culture | Full-time · Permanent · $53,000-$71,000 CAD · Permanent | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-associate-financial-accounting-reporting-at-zurich-canada-4415198164>) |
 | Junior Financial Analyst <!--id:686366210--> | CLV Group Inc. | Build financial models for real estate projects | Real estate platform with development and acquisition focus | Full-time · Permanent · $60k-$65k · Ongoing | Ottawa, ON (Onsite) | [Apply](<https://clvgroup.bamboohr.com/careers/191?postedDate=2026-05-15&source=indeed&src=indeed>) |
 | Junior Property Accountant <!--id:686365534--> | Taggart Group of Companies | Prepare monthly close, reconciliations, and reports | Real estate management firm with diverse portfolio | Full-time · Permanent · $54,000-$64,000 per year · Annual | Ottawa, ON K2P 1P9 (Hybrid) | [Apply](<https://taggartgroup.bamboohr.com/careers/644?postedDate=2026-05-15&source=indeed&src=indeed>) |
 | Junior Accountant <!--id:686241392--> | Ardene | Process month-end close, reconciliations, and journal entries | North America’s leading fashion retailer | Temporary · 18 months · pay not disclosed · N/A | Laval, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-ardene-4415129566>) |
