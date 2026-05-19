@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -43,6 +43,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Junior Accountant <!--id:687673118--> | GB Capital Ltd | Post journal entries, reconcile ledgers, support month-end close | Vancouver-based finance firm with US GAAP exposure | Contract · 37.5h/wk · $50k-$70k/year · On-site during probation | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-gb-capital-ltd-4415691147>) |
 | Junior Staff Accountant <!--id:687140157--> | Bouris Wilson LLP | Prepare reconciliations, journal entries, and financial statements | Small CPA firm with CPA path and mentorship | Full-time | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-staff-accountant-at-bouris-wilson-llp-4416030923>) |
 | 🆕 Accounting Associate, Financial Accounting & Reporting <!--id:686705534--> | Zurich Canada | Prepare journal entries, reconciliations, and financial reporting | Global insurer with strong training and culture | Full-time · Permanent · $53,000-$71,000 CAD · Permanent | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-associate-financial-accounting-reporting-at-zurich-canada-4415198164>) |
 | Accounting Associate, Financial Accounting & Reporting <!--id:686126266--> | Zurich Canada | Prepare journal entries, reconciliations, and financial reporting | Global insurer with robust accounting operations | Full-time · Permanent · CA$53,000-$71,000 | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-associate-financial-accounting-reporting-at-zurich-canada-4415118614>) |
@@ -160,7 +161,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Bookkeeper <!--id:667632455--> | Just Quality International Inc. | Enter transactions, reconcile accounts, support month-end close | Recognized Canadian top 500 growing company | Full-time · Permanent · $50k-$60k · Permanent | North York, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-bookkeeper-at-just-quality-international-inc-4404363461>) |
 | Jr Accountant <!--id:667419102--> | Jetson Home Inc. | Process AP/AR, reconcile books, support month-end close | Canadian startup focusing on sustainable home electrification | Full-time · Permanent · CAD 70k-80k · N/A | North Vancouver, BC (Onsite) | [Apply](<https://ats.rippling.com/jetson/jobs/879111ad-61a6-4628-a298-5890c4e5ecdc?jobSite=Indeed>) |
 | Jr. Accountant <!--id:666986820--> | Aecon Group Inc. | Support cost control, journal entries, and reporting | Canadian infrastructure leader with training programs | Full-time · Permanent · $57,000 - $70,000 per year · Toronto, ON | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/jr-accountant-at-aecon-group-inc-4381064823>) |
-| CPA Trainee <!--id:666221090--> | Ontario Power Generation | Assist external reporting, accounting policy, audits | Public Canadian energy utility with CPA trainee program | Regular Full Time · N/A · $1,664.34 - $2,583.30 per week · N/A | Oshawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/cpa-trainee-at-ontario-power-generation-4400875625>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
