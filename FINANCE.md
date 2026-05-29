@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -162,7 +162,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Accountant <!--id:674437270--> | BMW Toronto | Process reconciliations, AP/AR, and assist month-end close | Global automaker with strong dealership network | Full-time · Permanent · $42,000-$46,000 per year · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-bmw-toronto-4408753095>) |
 | Certified Professional Accountant (CPA) Trainee <!--id:674395989--> | Ontario Power Generation | Support external reporting and controllership | Ontario power generator; large public sector employer | Regular Full Time | Oshawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/certified-professional-accountant-cpa-trainee-at-ontario-power-generation-4400875625>) |
 | Accounting & Payroll Officer <!--id:674221591--> | GoodWork Environmental Jobs | Process payroll, journal entries, reconciliations, and month-end close. | Not-for-profit charity focused on land conservation. | Part-Time · 16-24 hours/week · $25-32/hr · June 2026 start | Greater Toronto Area (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-payroll-officer-at-goodwork-environmental-jobs-4407316234>) |
-| Junior Financial Analyst <!--id:673096511--> | SP Apparel | Assist accounting, analyze costs, support ERP rollout | Canadian manufacturer; strong benefits; ERP implementation | Full-time · Permanent | Saint-Hyacinthe, QC (Remote) | [Apply](<https://www.spapparel.com/about/careers/junior-financial-analyst>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
