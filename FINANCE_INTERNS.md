@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internships (Updated Daily)
+# 2026 Canadian Finance Internship Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -145,8 +145,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Finance Intern (12 Months) <!--id:673281450--> | Trench Group | Assist month-end close, journals, and reporting | Energy equipment maker focused on reliability. | On-site · 12 months · CAD 24-26/hour · Internship | Pickering, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-12-months-at-trench-group-4408068419>) |
 | Finance Intern <!--id:674279738--> | McAsphalt Industries | Support accounting operations, reconciliations, and reporting | Canadian asphalt leader with strong safety culture | Contract · Internship · Not disclosed · N/A | Calgary, AB (Onsite) | [Apply](<https://colas.jobs.hr.cloud.sap/job/CALGARY-Finance-Intern-AB-T2X-4B8/1359454557/?feedId=416957&utm_campaign=Colas_Indeed&utm_source=Indeed>) |
 | Accounting - Summer Student <!--id:674236888--> | Jori International | Maintain ledgers, reconciliations, GST filings, monthly reporting | Private Calgary firm offering CPA/PEP support | Internship · 4 months · Pay not disclosed · May–Aug 2026 | Calgary, AB T2E 7Y4 (Onsite) | [Apply](<https://jori.bamboohr.com/careers/96?postedDate=2026-04-29&source=indeed&src=indeed>) |
-| Analyst, Corporate Finance (Co-op) <!--id:673848874--> | MNP | Assist in M&A, financing, and financial modeling | Canadian national accounting firm with advisory focus | Co-op · January 2027 start · $50,000–$70,000 · Internship | Toronto, ON M5C 2V9 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=cd624cd6-ac74-43b9-9f2b-30f7313a45c8&postingId=ad25ce36-36e8-42de-b9bb-d132b3289004>) |
-| Accounts Payable Student <!--id:673746446--> | Hammond Power Solutions | Process AP invoices; code and file documents | Canadian transformer manufacturer; internship-friendly program | Co-op · 4 months · $20/hour · May 2026 | Guelph, ON (Onsite) | [Apply](<https://recruiting.ultipro.ca/HAM5000HAMM/JobBoard/d886e470-2a21-498f-9532-54d7b09cb302/OpportunityDetail?opportunityId=a7add219-cf7e-4114-bc3f-250ec2802f38&postingId=ea000c61-012c-4778-9996-f2c44851c94b>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
