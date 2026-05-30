@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -142,9 +142,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Student, Accounting (Fall 2026, 4 or 8 Months) <!--id:674317903--> | Oxford Properties Group | Support full cycle accounting and month-end close | Global real estate investor; pension-focused platforms worldwide | Co-op/Internship · 4/8 months · $44,850-$56,550/year prorated · Fall 2026 | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/student-accounting-fall-2026-4-or-8-months-at-oxford-properties-group-4406447524>) |
 | Finance Intern <!--id:674253635--> | McAsphalt Industries Limited | Assist accounting tasks, reconciliations, and reporting | Canadian asphalt leader; 500+ employees | Contract · TBD · Not disclosed · TBD | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-at-mcasphalt-industries-limited-4406429823>) |
 | M&A Financial Analyst Co-op <!--id:674187915--> | Andromeda Software Inc. | Build financial models, support M&A due diligence | Software group within Constellation Software Inc. | Co-op · Fall 2026 (Sept-Dec) · $25/hour · Remote/hybrid | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/m-a-financial-analyst-co-op-at-andromeda-software-inc-4406416939>) |
-| Finance Intern (12 Months) <!--id:673281450--> | Trench Group | Assist month-end close, journals, and reporting | Energy equipment maker focused on reliability. | On-site · 12 months · CAD 24-26/hour · Internship | Pickering, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-12-months-at-trench-group-4408068419>) |
-| Finance Intern <!--id:674279738--> | McAsphalt Industries | Support accounting operations, reconciliations, and reporting | Canadian asphalt leader with strong safety culture | Contract · Internship · Not disclosed · N/A | Calgary, AB (Onsite) | [Apply](<https://colas.jobs.hr.cloud.sap/job/CALGARY-Finance-Intern-AB-T2X-4B8/1359454557/?feedId=416957&utm_campaign=Colas_Indeed&utm_source=Indeed>) |
-| Accounting - Summer Student <!--id:674236888--> | Jori International | Maintain ledgers, reconciliations, GST filings, monthly reporting | Private Calgary firm offering CPA/PEP support | Internship · 4 months · Pay not disclosed · May–Aug 2026 | Calgary, AB T2E 7Y4 (Onsite) | [Apply](<https://jori.bamboohr.com/careers/96?postedDate=2026-04-29&source=indeed&src=indeed>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |

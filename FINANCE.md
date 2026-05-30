@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -200,7 +200,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Bilingual Associate Underwriter, SLS Program <!--id:680762529--> | Sovereign Insurance | Assist underwriting, risk reviews, pricing analyses | Insurance leader with bilingual underwriting capabilities | Regular Full-Time · Permanent · $50,280-$83,800 · Full-time | Toronto, ON (Hybrid) | [Apply](<https://recruiting.ultipro.com/COO5000COOP/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=af2055e2-1856-41d3-b238-5802e1361dc7&postingId=31d42458-b166-45b8-9e47-e1e624084f93>) |
 | 🔥 Credit Solutions Associate, Canadian Commercial Banking (Various locations in Ontario) <!--id:677921682--> | Scotiabank | Underwrite loans, analyze financials, support credit decisions | Top Canadian bank with extensive credit operations |  | Mississauga, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/credit-solutions-associate-canadian-commercial-banking-various-locations-in-ontario-at-scotiabank-4409714015>) |
 | junior underwriter - insurance <!--id:675759789--> | Lions Gate Underwriting Agency | Review applications, assess risks, prepare underwriting reports | Canadian insurance underwriter focusing on risk assessment | Permanent · Full-time | Ottawa, ON K1S 5K5 (Onsite) | [Apply](<https://www.jobbank.gc.ca/jobsearch/jobposting/49429043>) |
-| Junior Underwriter <!--id:674145715--> | MSH International Canada | Assist pricing, renewals, and underwriting analyses | Global insurer/broker with Canada focus | Contract · 12 months · CAD 45-50k annually · Hybrid | Calgary, AB T2P 3H5 (Hybrid) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=0b9e788d-7bbe-45af-8710-a64fec09837f&jobId=566543&lang=en_CA&source=IN>) |
 
 ## Banking / Insurance
 | Title | Company | Role | Company Info | Details | Location | Apply |
