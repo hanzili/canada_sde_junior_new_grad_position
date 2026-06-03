@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -38,7 +38,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Investment Banking Analyst Intern (Diversified) - Fall 2026 <!--id:678290522--> | Stifel | Build financial models, support transaction execution | Stifel Canada, mid-market IB with global reach | Internship · Sep 2026–Dec 2026 · $75k–$90k annually · Fall 2026 | Toronto, ON M5J 2S1 (Onsite) | [Apply](<https://cancareers-stifel.icims.com/jobs/9216/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
 | Investment Banking Analyst Intern (Diversified) - Fall 2026 <!--id:677917346--> | Stifel Financial Corp. | Build financial models, prepare pitch materials, assist deals | Diversified investment bank with Canadian footprint | Internship · Sep 2026–Dec 2026 · 75,000–90,000 annually · Fall 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/investment-banking-analyst-intern-diversified-fall-2026-at-stifel-financial-corp-4410766783>) |
 | 🔥 Global Markets Equity Research, Fall 2026 Associate <!--id:677885064--> | CIBC | Support equity research, analyze sectors, draft reports | Top Canadian bank with strong markets franchise | Temporary (Fixed Term) · 4 months · $125,000 annualized · Fall 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/global-markets-equity-research-fall-2026-associate-at-cibc-4410748790>) |
-| Investment Banking & Venture Capital Analyst - Internship (Summer 2026) <!--id:676478562--> | Bayval | Support deal sourcing, valuation, and execution | Private markets platform focusing on SME deals | Internship · Summer 2026 · Stipend-based · N/A | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/investment-banking-venture-capital-analyst-internship-summer-2026-at-bayval-4409840189>) |
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -148,7 +147,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Co-op Student - Audit & Accounting - January 2027 (4 Months) <!--id:682997376--> | Baker Tilly Canada | Analyze accounting records; assist audit fieldwork and reports | Mid-tier firm offering CPA path and mentorship | Temporary/Full-time · Jan 2027–Apr 2027 · $46,000-$48,000 per annum · 4 months | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-student-audit-accounting-january-2027-4-months-at-baker-tilly-canada-4392976904>) |
 | CPA Articling Student (September 2026) <!--id:678128623--> | Gauer Olsen Inc. | Prepare compilations, financial statements; file taxes; support clients | Local CPA firm with CPA-track training | Articling · Sep 2026 start · Competitive salary · Full-time | Victoria, BC V8T 2C1 (Onsite) | [Apply](<https://gocpa.bamboohr.com/careers/42?postedDate=2023-06-15&source=indeed&src=indeed>) |
 | Internal Auditor Co-Op <!--id:677675972--> | IKO North America | Support internal audits; document processes; analyze risks | Canadian manufacturing firm; strong audit program | Co-op · 8-16 months · CAD 22-27/hour · Summer 2026 | Mississauga, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/internal-auditor-co-op-at-iko-north-america-4387543975>) |
-| Comptable, Certification et comptabilité (stage) <!--id:676659005--> | MNP | Perform compilations, audits, and financial statements | Canada-based CPA-focused firm with training opportunities | Stage · variable · variable · variable | Québec, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/comptable-certification-et-comptabilit%C3%A9-stage-at-mnp-3729404428>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
