@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -145,7 +145,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Underwriting Co-Op Student, Cyber & Tech (September - December 2026) <!--id:702839943--> | Liberty Mutual Canada | Assist underwriting risk analysis, broker interactions, pricing decisions | Liberty Mutual Canada: trusted global insurer | Co-Op · Sep-Dec 2026 · CAD $24/hour · Internship | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/underwriting-co-op-student-cyber-tech-september-december-2026-at-liberty-mutual-canada-4423961818>) |
 | Underwriting Co-Op Student, Cyber & Tech <!--id:702804481--> | Liberty Mutual Canada | Underwrite cyber renewals; analyze risk factors | Global insurer; cyber underwriting focus | Co-op · Duration TBD · CAD $24/hr · Term TBD | Toronto (Onsite) | [Apply](<https://jobs.workable.com/view/5vWGi7sdgnTqLTSp3S7V4h/hybrid-underwriting-co-op-student,-cyber-&-tech-in-toronto-at-liberty-mutual-canada>) |
 | Insurance Linked Securities Analyst, Student Intern (Fall 2026 - 4 Months) <!--id:700209245--> | Hoopp | Develop ILS analytics, support portfolio management | Large pension plan focused on analytics | Internship · Fall 2026 (4 months) · $26-40/hr · Fall 2026 | Toronto, Ontario, Canada (Onsite) | [Apply](<https://hoopp.wd10.myworkdayjobs.com/HOOPPStudent/job/Toronto-Ontario-Canada/Insurance-Linked-Securities-Analyst--Student-Intern--Fall-2026---4-Months-_JR102427>) |
-| Corporate Credit Analyst – Intern (May – August 2026) <!--id:687107587--> | BNP Paribas | Assist credit monitoring, analysis, and memos for clients | Major international bank with strong credit risk teams | Internship · 4 months · N/A · May–Aug 2026 | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/corporate-credit-analyst-%E2%80%93-intern-may-%E2%80%93-august-2026-at-bnp-paribas-4356832484>) |
 
 ## Banking / Insurance
 | Title | Company | Role | Company Info | Details | Location | Apply |
