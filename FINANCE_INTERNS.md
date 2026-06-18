@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -39,6 +39,8 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Accounting Intern <!--id:733942674--> | Native Shoes | Assist day-to-day accounting: cash, AR/AP, audits | Canadian footwear brand; creative, playful culture | Temporary Full-Time · June - August 2026 | Vancouver, BC V6A 1A4 (Hybrid) | [Apply](<https://nativeshoes.bamboohr.com/careers/271?postedDate=2026-06-18&source=indeed&src=indeed>) |
+| 🆕 Staff Accountant - Summer Intern Role <!--id:733084849--> | Mrs. Dunster's (1996) Inc. | Assist AP/AR, data entry, ad-hoc reporting | Local family-owned bakery with 50-year history | Internship · 8 weeks · Pay TBD · Summer | Sussex, New Brunswick (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/staff-accountant-summer-intern-role-at-mrs-dunster-s-1996-inc-4428753158>) |
 | Accounting Assistant - Fall Student <!--id:725342446--> | TRIO - Translational Research in Oncology | Process AP invoices, post entries, reconcile accounts | Academic clinical research org supporting translational oncology | Temporary Fall term · Sep–Dec 2026 · $18/hour · Grant-funded | Edmonton, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-assistant-fall-student-at-trio-translational-research-in-oncology-4428178576>) |
 | Accounting Assistant - Fall Student <!--id:725254632--> | Translational Research in Oncology | Process AP invoices, reconcile accounts, assist journal entries | Academic clinical research org; grant-funded program | Part-time to full-time · Sept–Dec 2026 · $18.00 per hour · Grant-funded temporary | Edmonton, AB, Canada (Onsite) | [Apply](<https://triotranslationalresearchinoncology.applytojob.com/apply/NmFfUiC3If/Accounting-Assistant-Fall-Student>) |
 | Student Accounting Assistant <!--id:724865583--> | Bird | Process AR/AP, assist month-end budgeting | Construction firm with long-standing Canadian presence | Co-op · 4/8 months · Paid · Sept 2026 start | Winnipeg, MB (Onsite) | [Apply](<https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Winnipeg-MB/Student-Accounting-Assistant_JR-8826>) |
