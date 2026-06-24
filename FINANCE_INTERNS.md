@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -156,6 +156,4 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | 🔥 Private Banking Associate Co-op - Bilingual <!--id:731145938--> | Cibc | Support private banking clients; process transactions; analyze data | Top Canadian bank; strong private banking program | Co-op · Fall 2026 (Sept-Dec 2026) · Temporary (Fixed Term) | Montréal, QC (Onsite) | [Apply](<https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Private-Banking-Associate-Co-op---Bilingual_2612504-1>) |
 | 🔥 Private Banking Associate Fall 2026 Co-op, Calgary, AB <!--id:710975041--> | CIBC | Assist clients, process banking requests, support advisors daily | Big Canadian bank with strong private banking | Temporary (Fixed Term) · Fall 2026 term (Sept 2026 – Dec 2026) | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/private-banking-associate-fall-2026-co-op-calgary-ab-at-cibc-4424797274>) |
 | 🔥 Commercial Banking Advisor Intern <!--id:693682493--> | RBC | Onboard clients; assess needs; advise solutions | Big Canadian bank; comprehensive training program | Internship | Richmond, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/commercial-banking-advisor-intern-at-rbc-4419804205>) |
-| 🔥 Agricultural Relationship Manager Intern, Commercial Banking <!--id:692058950--> | RBC | Assist lending clients; build relationships; grow revenue | Top Canadian bank; strong commercial lending programs | Internship · 9 months · Salary not disclosed · 9 months | Winnipeg, Manitoba (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/agricultural-relationship-manager-intern-commercial-banking-at-rbc-4418643160>) |
-| P&L Controller – Intern <!--id:692266422--> | BNP Paribas | Support daily P&L, reconcile with traders | Top European bank with strong internship program | Internship · 4 months · N/A · Internship | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/p-l-controller-%E2%80%93-intern-at-bnp-paribas-4399306157>) |
 
