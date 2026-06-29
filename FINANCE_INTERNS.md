@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internships (Updated Daily)
+# 2026 Canadian Finance Internship Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -41,6 +41,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Accounting Co-op Student - Financial Reporting <!--id:741438448--> | Kinectrics | Post journal entries; assist monthly reporting | Nuclear energy firm; active co-op development programs | Co-op · 8 months · CAD 20.78-25.67/hour · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-financial-reporting-at-kinectrics-4433545409>) |
 | Student, Financial Analyst (Fall 2026 & Winter 2027) <!--id:742267238--> | Sun Life | Support financial reporting; analyze data; drive improvements | Global financial services leader; CPA-focused program | Co-op · 8 months · Not disclosed · Sep 2026–Apr 2027 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/student-financial-analyst-fall-2026-winter-2027-at-sun-life-4433889834>) |
+| 🆕 FP&A Analyst, Co-op <!--id:742202391--> | ATS Corporation | Support FP&A forecasting, reporting, and variance analysis | Global packaging and food tech leader | Co-op · 4/8 months · N/A · co-op | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/fp-a-analyst-co-op-at-ats-corporation-4433243787>) |
 | Accounting Intern - September 2026 (4-Month Term) <!--id:741268766--> | Parkland Corporation | Support month-end close, reporting, and accounting tasks | Canadian energy company with integrated downstream assets | Internship · 4-month term · Not disclosed · Sep 2026 | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-intern-september-2026-4-month-term-at-parkland-corporation-4430282495>) |
 | Accounting Co-op Student - Accounts Payable (FIN) <!--id:741109349--> | Kinectrics | Process AP invoices, reconcile accounts, support finance daily | Notable energy firm; strong co-op program | Co-op · 8 months · $20.78-$25.67/hr · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-accounts-payable-fin-at-kinectrics-4433382017>) |
 | Finance Intern <!--id:740608654--> | Ferrero | Assist A&P, P&L analysis, and month-end reporting | Global confectionery leader with strong early career program | Internship · 8 months · $23/hr · Sept 2026–Apr 2027 | North York, ON M2N 6N5 (Hybrid) | [Apply](<https://www.ferrerocareers.com/int/en/jobs/finance-intern>) |
