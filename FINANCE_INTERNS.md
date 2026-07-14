@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internships (Updated Daily)
+# 2026 Canadian Finance Internship Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -42,7 +42,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | 🆕 Accounting Student <!--id:763042653--> | PCL Construction | Process AP and journal entries; assist reconciliations | Reputable construction firm with structured internship program | Co-op/Internship · 4 months · Pay not disclosed · Sep 8, 2026 start | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-student-at-pcl-construction-4440315543>) |
-| 🆕 Accounting Co-op Student <!--id:763023321--> | NEW VISTA SOCIETY | Assist AP/AR, monthly financials, ASNPO reporting | Public sector accounting co-op with Fraser Health exposure | Co-op · Oct 2026 start · $18.25-$22.00/hr · Co-op term | Burnaby, BC V5E 3Z3 (Onsite) | [Apply](<http://ca.indeed.com/job/accounting-co-op-student-c05a7aab4167ce2f>) |
 | 🆕 Accounting Co-op Student <!--id:762907742--> | Financeit | Post journals, reconcile accounts, support month-end close | Fintech consumer lending; strong culture; CPA support | Co-op · 4/8 months · $22/hr · Fall 2026 | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-at-financeit-4440095798>) |
 | Accounting Co-op Student - AR and AP <!--id:759063456--> | Kinectrics | Process AR/AP, journal entries, reconciliations, bank support | Kinectrics: reputable co-op employer; finance exposure | Co-op · 8 months · $20.78-$25.67/hr · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-ar-and-ap-at-kinectrics-4439398028>) |
 | Finance & Accounting Co-Op <!--id:758941367--> | Experior Financial | Record transactions, process invoices, reconcile accounts | Co-op role at growing accounting-focused firm | Co-op · 4 months · $18.40-$24.00/hr · 4-month term | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/178>) |
