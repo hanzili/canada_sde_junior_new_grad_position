@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internships (Updated Daily)
+# 2026 Canadian Finance Internship Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -108,7 +108,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accountant Co-op Student <!--id:739649505--> | Municipal Group of Companies | Assist accounting records, reconciliations, audits | Municipal construction group, diversified operations | Co-op · Sep 2026–Dec 2026 | Bedford, NS (Onsite) | [Apply](<https://careers.municipalgroup.com/career/39654-accountant-co-op-student/>) |
 | Intern, Accounting/Finance - Defense (Fall 2026) <!--id:739484520--> | Bombardier | Record contracts, analyze costs, prepare financial statements | Global aerospace leader; defense unit | Internship · 8 months · Not specified · Fall 2026 | Dorval, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/intern-accounting-finance-defense-fall-2026-at-bombardier-4421884272>) |
 | Intern, Corporate Accounting <!--id:735288345--> | Dream | Assist budgets, financial statements, and daily accounting tasks | Canadian real estate leader with diverse assets | Internship · 8 months · $21-$25/hr · Sep 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/intern-corporate-accounting-at-dream-4420665475>) |
-| Student, Financial Analyst (Fall 2026) <!--id:735081016--> | Sun Life | Account and report loan assets; support SAP GL | Global asset manager; Sun Life subsidiary | Temporary Employee · 4 months · N/A · Fall 2026 | Waterloo, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/student-financial-analyst-fall-2026-at-sun-life-4430906251>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
