@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -47,6 +47,11 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
+| 🆕 Accounting Intern (Fall 2026) <!--id:771949935--> | L'Occitane | Prepare journals, reconcile GL, assist monthly closes | Global beauty brand with strong retail presence | Internship · Fall 2026 · Competitive pay · Part-time | Toronto, ON M2N 6L9 (Onsite) | [Apply](<https://loccitaneenprovence.applytojob.com/apply/LBbbqPbnIj/Accounting-Intern-Fall-2026?source=INDE&~=>) |
+| 🆕 Commercial Finance Intern (4 or 8 Month Term) <!--id:771878153--> | Specsavers | Gather data, analyze, report, support budgeting decisions | Global eyewear retailer with strong growth | Co-op · 4- or 8-month · $23-27/hr · Sept 2026 start | Burnaby, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/commercial-finance-intern-4-or-8-month-term-at-specsavers-4440180997>) |
+| 🆕 Commercial Finance Intern (4 or 8 Month Term) <!--id:771812214--> | Specsavers | Support data analysis, generate reports, drive strategic insights | Specsavers: global retailer, award-winning workplace | Co-op/WIL · 4 or 8 months · $23-$27/hr · Sep 2026 start | Burnaby, BC (Remote) | [Apply](<https://join.specsavers.com/ca/job/commercial-finance-intern-4-or-8-month-term-in-burnaby-british-columbia-canada-jid-13709>) |
+| 🆕 Accounting Intern (Fall 2026) <!--id:771767019--> | L'Occitane En Provence | Prepare journal entries, reconcile GL accounts | Global cosmetics retailer; SAP-driven accounting exposure | Internship · Fall 2026 · Competitive pay · Fall term | Toronto, ON, Canada (Onsite) | [Apply](<https://loccitaneenprovence.applytojob.com/apply/LBbbqPbnIj/Accounting-Intern-Fall-2026>) |
+| 🆕 Accounting Intern (Fall 2026) <!--id:771543130--> | L'OCCITANE Group (B Corp) | Assist journal entries, closings, reconciliations, audits | Global beauty brand, B Corp certified | Internship · Fall 2026 · Competitive compensation · Part-time (up to 28 hours/week) | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-intern-fall-2026-at-l-occitane-group-b-corp-4442085655>) |
 | Accounts Payable Administrator Intern <!--id:768740382--> | Telesat | Process supplier invoices and reconcile accounts payable | Global satellite operator with NASDAQ/TSX listings | Internship | Ottawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounts-payable-administrator-intern-at-telesat-4442166691>) |
 | Accounts Payable Administrator Intern <!--id:768683409--> | Telesat | Process invoices and payments; reconcile vendor accounts | Nasdaq/TSX listed; leading satellite operator | Internship · Not disclosed · Not disclosed · Non-Coop | Ottawa, ON (Onsite) | [Apply](<https://www.telesat.com/careers/jobs/95fd49cd-d87b-47be-9c1f-254d9a3145a5>) |
 | Intern, Development Accounting <!--id:766180404--> | Dream | Assist monthly reporting and journal entries | Canadian real estate developer with large assets | Internship · 8 months · $21-25/hour · Sep 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/intern-development-accounting-at-dream-4441413331>) |
