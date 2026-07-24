@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -109,8 +109,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accounting Intern <!--id:748628633--> | Maple Leaf Sports & Entertainment | Record journal entries, reconcile accounts, assist reporting | Leading Canadian sports and entertainment company | Internship · Sep 8, 2026–Dec 18, 2026 · $38,760 · 4 months | Toronto, ON M5J 3A5 (Onsite) | [Apply](<https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Accounting-Intern_JR0000539-2>) |
 | FP&A Analyst Intern - September 2026 (4-Month Term) <!--id:740936899--> | Parkland Corporation | Support monthly reporting, forecasting, and financial analysis | Canadian energy company with FP&A exposure | Internship · 4 months | Calgary, AB T2P 4H4 (Onsite) | [Apply](<https://parkland-careers.ttcportals.com/fr-CA/jobs/17917863-fp-and-a-analyst-intern-september-2026-4-month-term?tm_company=89837&tm_event=view&tm_job=2026-850>) |
 | Accounting Co-op <!--id:740354844--> | Kabam | Process AP, reconcile accounts, assist month-end close | Gaming company; established studio network | Co-op · 4 months · CAD $24-26/hr · On-site Vancouver | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-at-kabam-4432887307>) |
-| Accountant Co-op Student <!--id:739649505--> | Municipal Group of Companies | Assist accounting records, reconciliations, audits | Municipal construction group, diversified operations | Co-op · Sep 2026–Dec 2026 | Bedford, NS (Onsite) | [Apply](<https://careers.municipalgroup.com/career/39654-accountant-co-op-student/>) |
-| Intern, Accounting/Finance - Defense (Fall 2026) <!--id:739484520--> | Bombardier | Record contracts, analyze costs, prepare financial statements | Global aerospace leader; defense unit | Internship · 8 months · Not specified · Fall 2026 | Dorval, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/intern-accounting-finance-defense-fall-2026-at-bombardier-4421884272>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
