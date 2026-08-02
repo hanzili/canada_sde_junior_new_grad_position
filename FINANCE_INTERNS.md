@@ -115,10 +115,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | 🔥 Market Risk Analyst, Fall 2026 (Co-op/Internship) - 4 Months <!--id:777136071--> | BMO | Develop risk reporting, data analysis, insights | Top Canadian bank with robust risk analytics | Co-op/Internship · 4 Months · Salary · Fall 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/market-risk-analyst-fall-2026-co-op-internship-4-months-at-bmo-4445246413>) |
 | 💤 Junior Credit Analyst, Mortgage Valuations (Term: September 2026 to December 2026) <!--id:762564478--> | Nesto Cloud | Conduct risk analysis, support mortgage valuations | Canadian mortgage tech firm; risk analytics | Contract · Sep 2026 to Dec 2026 · 3,250 CAD/month · Sep-Dec 2026 | Toronto, ON (Hybrid) | [Apply](<https://ats.rippling.com/nestocloud/jobs/12a81eb9-6925-435f-bb80-f49fe25157c1?jobSite=Indeed>) |
 | Junior Credit Analyst, Mortgage Valuations (Term: September 2026 to December 2026) <!--id:766906634--> | Rippling | Perform risk analysis, data handling, reporting support | Fintech mortgage platform, data-driven lending | Term · Sep 2026–Dec 2026 · CAD 3,250/mo · Vancouver, BC | Vancouver, BC (Hybrid) | [Apply](<https://ats.rippling.com/nestocloud/jobs/e5b776ad-71b3-4870-ab57-c59a2bbb21c8?jobSite=Indeed>) |
-<<<<<<< Updated upstream
-=======
-| Specialized Accounting Internship (St. Thomas) <!--id:754154194--> | Popular | Review loan data; assess risk; prepare reports | Puerto Rico bank with strong regional footprint | Internship · several weeks | St Thomas, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/specialized-accounting-internship-st-thomas-at-popular-4436877169>) |
->>>>>>> Stashed changes
 
 ## Banking / Insurance
 | Title | Company | Role | Company Info | Details | Location | Apply |
