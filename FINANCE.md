@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -33,7 +33,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | 🔥 Equity Research Associate - Industrial (Engineering and Construction) <!--id:755066098--> | TD Securities | Build financial models, publish sector research, support analysts | TD Securities: Top Canadian bank equity research | Full-time · Permanent · $110,000-$135,000 CAD · N/A | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/equity-research-associate-industrial-engineering-and-construction-at-td-securities-4436416559>) |
 | Associate, Private Equity Portfolio Strategy <!--id:753550044--> | CPPIB Credit Investments Inc. UK | Conduct financial analysis to optimize private equity portfolio | CPP Investments: leading global long-term investor | Full-time | Toronto (Onsite) | [Apply](<https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Portfolio-Strategy--Private-Equity_JR00612>) |
 | Equity Research Associate <!--id:752342894--> | QV Investors Inc. | Construct financial models and conduct equity research | Employee-owned investment firm focusing on rigorous research | Full-time · Permanent · Market · Negotiable | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/equity-research-associate-at-qv-investors-inc-4436224160>) |
-| Investment Banking Analyst/Associate (Future Opportunities) <!--id:750546475--> | Raymond James Ltd. | Build models, analyze deals, prepare pitch materials | Canadian independent investment bank with advisory focus | Full-time | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/investment-banking-analyst-associate-future-opportunities-at-raymond-james-ltd-4223914861>) |
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -134,8 +133,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accounts Payable Associate <!--id:752507866--> | Tk’emlúps te Secwepemc | Process AP, reconcile ledgers, support audits | Indigenous community organization supporting band members | Full-time · Permanent · Starting at $22.59-$24.95/hr · Permanent | Kamloops, BC (Onsite) | [Apply](<https://scouterecruit.net/jobs/TTES394-accounts-payable-associate?source=Indeed>) |
 | Accounts Receivable Associate (12 Month Contract) <!--id:752434333--> | White Cap Canada | Process AR, cash receipts, reconciliations, data entry | Canadian industrial distributor with diverse client base | Contract · 12 months · $48,400 · 12 months | Vaughan, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounts-receivable-associate-12-month-contract-at-white-cap-canada-4436438179>) |
 | Accountant <!--id:751429703--> | Enterprise Mobility | Prepare financial statements, close books, analyze budgeting | Mobility solutions leader; internal promotion focus | Full-time · Permanent · $62,400/year · N/A | Scarborough, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accountant-at-enterprise-mobility-4418178897>) |
-| Junior Accounts Payable Clerk <!--id:750545893--> | R.J. Burnside & Associates Limited | Process vendor invoices; manage AP workflow and compliance | Canadian-owned engineering firm with long-standing reputation | Full-time · Permanent · $50,000–$55,000 CAD · Permanent | Orangeville, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accounts-payable-clerk-at-r-j-burnside-associates-limited-4417511890>) |
-| Finance Associate <!--id:750532595--> | Brex | Own FP&A processes; build models; drive insights. | High-growth fintech with AI-powered finance platform | Full-time · N/A · CAD 104k-117k CAD · Vancouver, BC | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/finance-associate-at-brex-4407583738>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
