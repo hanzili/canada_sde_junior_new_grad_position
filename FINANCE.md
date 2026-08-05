@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -131,7 +131,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Accountant - Student <!--id:752557782--> | Ledcor | Record journal entries, reconcile accounts, assist month-end close | Diversified Canadian construction leader with multiple projects | Full-Time · Permanent · $18.15-$27.04/hr · Vancouver, BC | Vancouver, BC (Onsite) | [Apply](<https://jobs.ledcor.com/jobs/17961582-junior-accountant-student>) |
 | Accounts Payable Associate <!--id:752507866--> | Tk’emlúps te Secwepemc | Process AP, reconcile ledgers, support audits | Indigenous community organization supporting band members | Full-time · Permanent · Starting at $22.59-$24.95/hr · Permanent | Kamloops, BC (Onsite) | [Apply](<https://scouterecruit.net/jobs/TTES394-accounts-payable-associate?source=Indeed>) |
 | Accounts Receivable Associate (12 Month Contract) <!--id:752434333--> | White Cap Canada | Process AR, cash receipts, reconciliations, data entry | Canadian industrial distributor with diverse client base | Contract · 12 months · $48,400 · 12 months | Vaughan, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounts-receivable-associate-12-month-contract-at-white-cap-canada-4436438179>) |
-| Accountant <!--id:751429703--> | Enterprise Mobility | Prepare financial statements, close books, analyze budgeting | Mobility solutions leader; internal promotion focus | Full-time · Permanent · $62,400/year · N/A | Scarborough, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accountant-at-enterprise-mobility-4418178897>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
