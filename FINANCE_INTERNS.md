@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internships (Updated Daily)
+# 2026 Canadian Finance Internship Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -40,7 +40,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| Reinsurance Accounting Operations Co-op (Fall 2026 - Toronto, 4 months) <!--id:778095260--> | Munich Re | Assist reconciliations, close support, reporting tasks | Leading reinsurance firm with strong analytics focus | Co-op · Fall 2026 · $850-$1,100/week · 4 months | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/reinsurance-accounting-operations-co-op-fall-2026-toronto-4-months-at-munich-re-4445355116>) |
 | Reinsurance Accounting Operations Co-op (Fall 2026 - Toronto, 4 months) <!--id:778025300--> | Münchener Rückversicherungs-Gesellschaft | Assist accounting close, reconciliations, and reporting | Leading reinsurance firm with strong development focus | Co-op · Fall 2026 · $850-$1,100/week · 4 months | Toronto, ON (Hybrid) | [Apply](<https://careers.munichre.com/de/stellenbeschreibung/toronto/reinsurance-accounting-operations-co-op-fall-2026-toronto-4-months/3342/41781721280>) |
 | Accounting Intern (12 Months) <!--id:777975713--> | BMW Group | Prepare journal entries, close books, reconcile accounts | Global automotive leader with strong internal finance program | Limited · 12 months · $47,000-$49,000 · Canada | Richmond Hill, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-intern-12-months-at-bmw-group-4427614745>) |
 | Finance Intern <!--id:777189781--> | Volvo Financial Services | Assist cash reconciliations and month-end close. | Volvo Financial Services: global automotive finance unit. | Internship/Co-op · Sep-Dec 2026 · $21-23/hr · Fall 2026 | Aurora, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-at-volvo-financial-services-4445251473>) |
