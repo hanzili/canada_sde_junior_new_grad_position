@@ -122,7 +122,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 ## Product / TPM
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| Associate Product Manager <!--id:755392176--> | SEG Products | Assist product development, line reviews, vendor coordination | Montreal CPG company licensing consumer brands | Full-time | Greater Montreal Metropolitan Area (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-product-manager-at-seg-products-4438296707>) |
 | Jr. Product Manager <!--id:755283774--> | Aecon Group Inc. | Own tools backlog, requirements; deliver product features | Canada-based infrastructure leader; major projects | Full-time · $90K-$110K/yr | Toronto, ON (Onsite) | [Apply](<https://jobs.aecon.com/job/Toronto-Jr_-Product-Manager-ON/604152817/>) |
 
 ## IT / Support / Systems
