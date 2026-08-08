@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -35,7 +35,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | 🔥 GBM - Investment Banking (Mining) Internship/Co-op - Winter 2027 <!--id:762911373--> | Scotiabank | Develop financial models; support client pitches and deals | Big Canadian bank with Global Banking and Markets | Internship/Co-op · Jan–Apr 2027 · Pay not disclosed · Winter 2027 | Toronto, ON (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-GBM-Investment-Banking-(Mining)-InternshipCo-op-Winter-2027-ON/604279917/>) |
 | Private Equity Intern - Summer 2027 <!--id:764704528--> | Maverix Private Equity | Assist with financial modelling and investment analysis | Toronto-based private equity firm focused on growth tech | Internship · May 2027–Aug 2027 · N/A · Summer 2027 | Toronto, Ontario, Canada (Hybrid) | [Apply](<https://maverixpe.bamboohr.com/careers/45>) |
 | 🔥 GBM - Investment Banking Internship/Co-op - Winter 2027 <!--id:761862682--> | The Bank of Nova Scotia P | Develop financial models, valuations, and deal presentations | Top Canadian bank, strong IB/co-op program | Internship · Winter 2027 · Paid · Co-op | Toronto, ON, CA (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-GBM-Investment-Banking-InternshipCo-op-Winter-2027-ON/604197617/>) |
-| Private Equity Student Analyst <!--id:755432336--> | Azimuth Capital Management | Build models, analyze investments, support portfolio operations | PE firm focused on energy sector investments | Student Analyst · 8 months · Not disclosed · Sep 2026 term | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/private-equity-student-analyst-at-azimuth-capital-management-4437305534>) |
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -76,8 +75,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Finance & Accounting Co-Op <!--id:758941367--> | Experior Financial | Record transactions, process invoices, reconcile accounts | Co-op role at growing accounting-focused firm | Co-op · 4 months · $18.40-$24.00/hr · 4-month term | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/178>) |
 | Co-op, Accounting (12 Months Term) <!--id:758714014--> | Calgary Airports | Assist AR/AP, reconciliations, and month-end closings | Airport operator with supportive accounting team | Full-Time · 12 months · $23.50/hr · Co-op | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-accounting-12-months-term-at-calgary-airports-4439355057>) |
 | Finance & Accounting Co-Op <!--id:758678637--> | Experior Financial Group | Record transactions, process AP/AR, assist reconciliations | Great Place to Work; strong co-op program | Co-op · 4 months · $18.40-$24.00/hr · Co-op term | Onsite | [Apply](<https://ca.linkedin.com/jobs/view/finance-accounting-co-op-at-experior-financial-group-4439355115>) |
-| Finance Intern <!--id:755495078--> | Wawanesa Insurance | Process journal entries, reconciliations, reporting | Canadian mutual insurer with strong financial growth | Student term · Sep 8 2026 – Dec 18 2026 · $22.67-$24.91/hr · Fall term | Winnipeg, MB R3C 3P1 (Onsite) | [Apply](<https://jobs.wawanesa.com/job/Winnipeg,-MB-(Onsite)-Finance-Intern-MB/604162217/>) |
-| Stagiaire comptable <!--id:755372367--> | DoubleTree By Hilton Pointe-Claire Montreal Airport West | Learn hotel accounting basics; assist audits and deposits | Global hospitality brand; entry-level accounting internship | Internship · 3 months · N/A · N/A | Pointe-Claire, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/stagiaire-comptable-at-doubletree-by-hilton-pointe-claire-montreal-airport-west-4252556597>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -86,7 +83,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | SFU Accounting Co-Op Student 2026-09 <!--id:767726069--> | McLaren Trefanenko Inc. | Prepare tax returns; assist with client filings | Public accounting firm; tax services and support | Co-op · Sep 2026–Apr 2027 | New Westminster, British Columbia, Canada (Onsite) | [Apply](<https://mti.bamboohr.com/careers/60>) |
 | Summer Student, Assurance & Accounting (May 2027) <!--id:756831905--> | MNP | Assist audits, bookkeeping, and financial reporting | Canadian mid-market accounting firm with strong CPA support | Internship · Summer 2027 · $45,000-$55,000 · May 2027 | Vancouver, BC V7Y 1E7 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=8f4e32e6-d13b-467c-a825-86a504601ebf&postingId=e0ced955-bc78-402b-a66f-a44b8e5d6f64>) |
 | 🔥 Intern or Co-op Student, Assurance and Accounting - Audit (January 2027) <!--id:756831904--> | MNP | Assist audits, prepare work papers, financial statements | Big 4 accounting firm; CPA path supported | Internship · Not specified · $45,000-$55,000 · January 2027 start | Vancouver, BC V7Y 1E7 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=e990dc02-2f8a-4c57-8344-1b68d1ee172f&postingId=53030ef1-b2de-4940-9a6d-61339d18231d>) |
-| Co-op Accountant, Assurance and Accounting (January 2027) <!--id:755154007--> | MNP | Assist audits, compilations, reviews, client-facing tasks | Canadian mid-market accounting firm with CPA support | Co-op · January 2027 start · $45,000-$50,000 | Orangeville, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-accountant-assurance-and-accounting-january-2027-at-mnp-4418203947>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -98,7 +94,5 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Junior Credit Analyst, Mortgage Valuations (Term: September 2026 to December 2026) <!--id:766906634--> | Rippling | Perform risk analysis, data handling, reporting support | Fintech mortgage platform, data-driven lending | Term · Sep 2026–Dec 2026 · CAD 3,250/mo · Vancouver, BC | Vancouver, BC (Hybrid) | [Apply](<https://ats.rippling.com/nestocloud/jobs/e5b776ad-71b3-4870-ab57-c59a2bbb21c8?jobSite=Indeed>) |
 
 ## Banking / Insurance
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| 🔥 Commercial Banking Advisor Intern <!--id:754559042--> | RBC | Assist relationship managers; deliver client banking solutions | Major Canadian bank; strong training program for interns | Regular | Prince George, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/commercial-banking-advisor-intern-at-rbc-4438163473>) |
+_No roles currently_
 

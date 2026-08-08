@@ -49,8 +49,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Associate Software Engineer <!--id:755814613--> | TD | Build features, fix bugs, review code, collaborate. | Major Canadian bank embracing tech modernization | Full-time · $59,500 - $84,000 CAD | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-software-engineer-at-td-4438564599>) |
 | 🔥 Junior Software Engineer-Global Payments Engineering <!--id:756486372--> | Scotiabank | Develop software, fix bugs, deploy features, and test | Canada's major bank investing in payments tech | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-global-payments-engineering-at-scotiabank-4437568012>) |
 | 🔥 Junior Software Engineer-Global Payments Engineering <!--id:756388960--> | The Bank of Nova Scotia P | Develop payment software, fix defects, deploy updates | Top Canadian bank with modern payments platform | Full-time | Toronto, ON, CA, M1L4S2 (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/>) |
-| Junior Full-Stack Software Developer <!--id:755700662--> | Effortless Admin Inc. | Develop full-stack features with React and C# | Edmonton-based, growth-stage software company. | Full-time | Edmonton, Alberta, Canada (Onsite) | [Apply](<https://effortlessadmin.bamboohr.com/careers/111>) |
-| Associate Systems Developer <!--id:755101561--> | Co-operators | Develop code, APIs, and test features | Canadian financial services co-op | Full-time | Guelph, ON (Hybrid) | [Apply](<https://recruiting.ultipro.com/COO5000COOP/JobBoard/163383cc-cbae-4201-956e-c5e437bbfeb3/OpportunityDetail?opportunityId=a786228b-e2ba-420a-8655-0769d58bb229&postingId=51e9d8c4-6495-473d-95f4-cea8d2a24520>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -72,8 +70,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior FP&A & Data Analyst <!--id:768904223--> | ConeTec Group | Analyze financial data, build BI dashboards, forecast | Geotechnical leader, global projects & analytics | Full-time | Burnaby, BC (Onsite) | [Apply](<https://conetec.bamboohr.com/careers/705>) |
 | Junior Analyst, Segment & Product Analytics (12-month contract) - EN 552 <!--id:763020104--> | Export Development Canada | Support data analytics, dashboards, and insights. | Canadian federal Crown corporation supporting global trade. | Contract · 12mo · $58k-$86k/yr | Ottawa, ON (Hybrid) | [Apply](<https://apply.workable.com/j/70F44B9C12>) |
 | Junior Analyst, Segment & Product Analytics (12-month contract) - EN 552 <!--id:762985348--> | Export Development Canada \| Exportation et développement Canada | Analyze data, build dashboards, deliver insights | Canadian federal Crown corporation supporting global trade. | Contract · 12mo · $58K-$86K/yr | Ottawa (Onsite) | [Apply](<https://jobs.workable.com/view/wLJ8ciSJgM57RrjsHzSwLj/hybrid-junior-analyst,-segment-&-product-analytics-(12-month-contract)---en-552-in-ottawa-at-export-development-canada-|-exportation-et-d%C3%A9veloppement-canada>) |
-| Junior Data Engineer — Web Scraping & Pipelines <!--id:755105612--> | Master Art Index | Build web scrapers, clean data, maintain pipelines | Art market data platform, AI-driven insights | Full-time · $65K-$75K CAD/yr | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-%E2%80%94-web-scraping-pipelines-at-master-art-index-4437060799>) |
-| Junior Software Engineer, AI Agent Platform <!--id:755100311--> | Motorola Solutions | Build real-time AI features and backend services | Global technology leader in safety platforms | Full-time | Ontario (Remote) | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146>) |
 
 ## DevOps / SRE / Platform
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -103,7 +99,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Quality Assurance Inspector <!--id:767316318--> | GHD | Perform tests, inspections, and data collection | Global engineering consultancy | Full-time · $30/hr | Markham, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-quality-assurance-inspector-at-ghd-4441111095>) |
 | Junior QA Engineer <!--id:767092911--> | Computer Modelling Group | Design, build, and execute QA tests | Reservoir simulation software for energy industry | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-engineer-at-computer-modelling-group-4441629010>) |
 | Junior Automation QA Engineer <!--id:759947631--> | VerteX Tech | Develop and automate tests; verify software quality. | Tech firm focused on QA automation. | Full-time | Engineer, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-automation-qa-engineer-at-vertex-tech-4439580004>) |
-| Junior Test Engineer, Test Station Validation <!--id:757578272--> | ERM Certification and Verification Services Limited | Design and run hardware tests; automate validation processes | Global optical networking hardware leader | Full-time · CAD 62,600 - 100,000 | Ottawa (Onsite) | [Apply](<https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-Test-Engineer--Test-Station-Validation_R031283>) |
 
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -117,12 +112,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Embedded System Developer (Junior or Intermediate) <!--id:767329867--> | Innov2Learn | Develop embedded software for medical training devices | Montreal-based medical training hardware company | Full-time | Greater Montreal Metropolitan Area (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/embedded-system-developer-junior-or-intermediate-at-innov2learn-4441104493>) |
 | Junior Flight Test Engineer (Hybrid: Mirabel, Quebec) <!--id:757347485--> | Capgemini | Lead flight test methodologies; standardize processes | Capgemini: global engineering and tech services | Full-time · $54,300–$118,350 CAD | Montréal, QC (Onsite) | [Apply](<https://www.capgemini.com/jobs/457656-en_US+sap_btp>) |
 | Junior Embedded Software Developer / Développeur Logiciel Embarqué Junior <!--id:757247320--> | Hewlett Packard Enterprise \| HPE | Design, implement, and debug embedded Linux software | Global edge-to-cloud leader with strong culture | Full-time · $62,400-$104,600 CAD/yr | Saint-Laurent, QC (Hybrid) | [Apply](<https://careers.hpe.com/us/en/job/HPE1US1209839EXTERNALENUS/Junior-Embedded-Software-Developer-D%C3%A9veloppeur-Logiciel-Embarqu%C3%A9-Junior?utm_medium=phenom-feeds&utm_source=indeed>) |
-| Junior Test Engineer, Test Station Validation <!--id:755155874--> | Ciena | Design test plans, automate verification, debug hardware | Global networking hardware leader in optical comms | Full-time · $62,600-$100,000/yr | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-test-engineer-test-station-validation-at-ciena-4437065958>) |
 
 ## Product / TPM
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Jr. Product Manager <!--id:755283774--> | Aecon Group Inc. | Own tools backlog, requirements; deliver product features | Canada-based infrastructure leader; major projects | Full-time · $90K-$110K/yr | Toronto, ON (Onsite) | [Apply](<https://jobs.aecon.com/job/Toronto-Jr_-Product-Manager-ON/604152817/>) |
+_No roles currently_
 
 ## IT / Support / Systems
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -131,14 +123,9 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Global Service Desk/Client Services <!--id:774219957--> | Smiths Group | Provide Windows desktop support and incident resolution | FTSE 100 global engineering solutions leader. | Full-time | Hamilton, ON (Onsite) | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000139111718-junior-global-service-desk-client-services>) |
 | Junior IT Support Technician <!--id:756859716--> | Canadian Institute for Health Information | Provide end-user IT support and incident resolution | Not-for-profit health data organization | Full-time | Ottawa, ON (Onsite) | [Apply](<https://indeed.njoyn.com/cl3/xweb/XWeb.asp?BRID=356961&JobID=J0626-1081&clid=53103&page=jobdetails&sbdid=936>) |
 | Associate Analyst, Service Desk <!--id:757815670--> | K2 Services | Provide technical support, diagnose hardware/software issues | IT services firm delivering client tech support | Full-time · CAD $20/hr-$24/hr | CAN-Toronto-ON (Remote) | [Apply](<https://k2services.wd503.myworkdayjobs.com/Opensity/job/CAN-Toronto-ON/Associate-Analyst--Service-Desk_R-01185-1>) |
-| Systems Engineer, Associate <!--id:755242666--> | Company3 | Support desktops and servers; troubleshoot, document, and deploy. | Global media and visual effects services provider. | Full-time · $26.00-$33.65 CAD hourly | Toronto, ON (Onsite) | [Apply](<https://company3.applytojob.com/apply/eOQLf4m0N6/Systems-Engineer-Associate?source=INDE&~=>) |
-| Associate, Desktop Support <!--id:755065043--> | SMBC Group | Provide desktop and system support, resolve issues | Global bank with 400-year history | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-desktop-support-at-smbc-group-4438251493>) |
-| Systems Engineer, Associate <!--id:755039392--> | SDFX Studios | Support Windows/Linux/Mac desktops; maintain IT infrastructure | Global VFX studio with film and TV work | Full-time · $26-33.65 CAD/hr | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/systems-engineer-associate-at-sdfx-studios-4437055848>) |
 
 ## Solutions / Customer Engineering
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| 🔥 Associate Solution Architect <!--id:755406391--> | Vena Solutions | Assist architecture design, reviews, and cloud solutions. | Canada-based SaaS company, strong growth trajectory. | Full-time · $127,500 - $172,500 CAD | Toronto, Ontario (Remote) | [Apply](<https://ca.linkedin.com/jobs/view/associate-solution-architect-at-vena-solutions-4438508625>) |
+_No roles currently_
 
 ## Startup / VC / Ops
 _No roles currently_
