@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
+# 2026 Canadian Finance New Grad Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -145,4 +145,5 @@ _No roles currently_
 | 🔥 Commercial Credit Analyst (New or Recent Graduate), Montreal <!--id:758500006--> | ERM Certification and Verification Services Limited | Perform credit analysis, underwriting, and deal support | Big Canadian bank with structured graduate program | Full-time · 12 months program · $56,000–$103,500 CAD · Convert to permanent | MONTREAL, QC, CAN (Onsite) | [Apply](<https://bmo.wd3.myworkdayjobs.com/Privileged/job/MONTREAL-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Montreal_R260018407-3>) |
 | 🔥 Personal Banking Associate Trainee <!--id:758185341--> | TD Bank, N.A. | Assist customers, handle transactions, advise banking solutions | Top Canadian bank with strong retail banking program | Full-time · Permanent · CAD 45,700-61,000 · N/A | Brampton, Ontario (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Personal-Banking-Associate-Trainee_R_1495253>) |
 | 🔥 Personal Banking Associate - Fixed Term Contract <!--id:757464187--> | TD | Assist customers, process transactions, guide banking solutions | TD Canada Trust; leading Canadian bank | Fixed Term Contract · Ends May 2027 · Pay not disclosed · Full-time | Stettler, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/personal-banking-associate-fixed-term-contract-at-td-4439000605>) |
+| 🆕 🔥 Personal Banking Associate Trainee <!--id:758185967--> | TD Bank, N.A. | Assist customers, resolve issues, cross-sell banking services | Top Canadian bank with broad branch network | Full-time · Permanent · 45,700-61,000 CAD · N/A | Brampton, Ontario (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Personal-Banking-Associate-Trainee_R_1496652>) |
 
