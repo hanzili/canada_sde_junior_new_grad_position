@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -34,7 +34,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Private Equity Intern - Summer 2027 (May-August) <!--id:764967145--> | Walter Group | Assist research, valuation, and deal execution | Private equity firm focused on growth investments | Internship · at least 3 months · Competitive compensation · Summer 2027 | Westmount, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/private-equity-intern-summer-2027-may-august-at-walter-group-4440907815>) |
 | 🔥 GBM - Investment Banking (Mining) Internship/Co-op - Winter 2027 <!--id:762911373--> | Scotiabank | Develop financial models; support client pitches and deals | Big Canadian bank with Global Banking and Markets | Internship/Co-op · Jan–Apr 2027 · Pay not disclosed · Winter 2027 | Toronto, ON (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-GBM-Investment-Banking-(Mining)-InternshipCo-op-Winter-2027-ON/604279917/>) |
 | Private Equity Intern - Summer 2027 <!--id:764704528--> | Maverix Private Equity | Assist with financial modelling and investment analysis | Toronto-based private equity firm focused on growth tech | Internship · May 2027–Aug 2027 · N/A · Summer 2027 | Toronto, Ontario, Canada (Hybrid) | [Apply](<https://maverixpe.bamboohr.com/careers/45>) |
-| 🔥 GBM - Investment Banking Internship/Co-op - Winter 2027 <!--id:761862682--> | The Bank of Nova Scotia P | Develop financial models, valuations, and deal presentations | Top Canadian bank, strong IB/co-op program | Internship · Winter 2027 · Paid · Co-op | Toronto, ON, CA (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Toronto-GBM-Investment-Banking-InternshipCo-op-Winter-2027-ON/604197617/>) |
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -81,8 +80,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Co-op Student, Assurance and Accounting <!--id:772892739--> | MNP | Assist audits, bookkeeping, and client accounting tasks | Leading national accounting and advisory firm | Co-op · Jan 2027 - Aug 2027 · $42,000-$46,000 · 8 months | Kamloops, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-student-assurance-and-accounting-at-mnp-4283840205>) |
 | SFU Accounting Co-Op Student 2026-09 <!--id:767726069--> | McLaren Trefanenko Inc. | Prepare tax returns; assist with client filings | Public accounting firm; tax services and support | Co-op · Sep 2026–Apr 2027 | New Westminster, British Columbia, Canada (Onsite) | [Apply](<https://mti.bamboohr.com/careers/60>) |
-| Summer Student, Assurance & Accounting (May 2027) <!--id:756831905--> | MNP | Assist audits, bookkeeping, and financial reporting | Canadian mid-market accounting firm with strong CPA support | Internship · Summer 2027 · $45,000-$55,000 · May 2027 | Vancouver, BC V7Y 1E7 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=8f4e32e6-d13b-467c-a825-86a504601ebf&postingId=e0ced955-bc78-402b-a66f-a44b8e5d6f64>) |
-| 🔥 Intern or Co-op Student, Assurance and Accounting - Audit (January 2027) <!--id:756831904--> | MNP | Assist audits, prepare work papers, financial statements | Big 4 accounting firm; CPA path supported | Internship · Not specified · $45,000-$55,000 · January 2027 start | Vancouver, BC V7Y 1E7 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=e990dc02-2f8a-4c57-8344-1b68d1ee172f&postingId=53030ef1-b2de-4940-9a6d-61339d18231d>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
