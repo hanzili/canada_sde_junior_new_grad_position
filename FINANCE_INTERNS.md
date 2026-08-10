@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -71,9 +71,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accounting Student <!--id:763042653--> | PCL Construction | Process AP and journal entries; assist reconciliations | Reputable construction firm with structured internship program | Co-op/Internship · 4 months · Pay not disclosed · Sep 8, 2026 start | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-student-at-pcl-construction-4440315543>) |
 | Accounting Co-op Student <!--id:762907742--> | Financeit | Post journals, reconcile accounts, support month-end close | Fintech consumer lending; strong culture; CPA support | Co-op · 4/8 months · $22/hr · Fall 2026 | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-at-financeit-4440095798>) |
 | Accounting Co-op Student - AR and AP <!--id:759063456--> | Kinectrics | Process AR/AP, journal entries, reconciliations, bank support | Kinectrics: reputable co-op employer; finance exposure | Co-op · 8 months · $20.78-$25.67/hr · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-ar-and-ap-at-kinectrics-4439398028>) |
-| Finance & Accounting Co-Op <!--id:758941367--> | Experior Financial | Record transactions, process invoices, reconcile accounts | Co-op role at growing accounting-focused firm | Co-op · 4 months · $18.40-$24.00/hr · 4-month term | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/178>) |
-| Co-op, Accounting (12 Months Term) <!--id:758714014--> | Calgary Airports | Assist AR/AP, reconciliations, and month-end closings | Airport operator with supportive accounting team | Full-Time · 12 months · $23.50/hr · Co-op | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-accounting-12-months-term-at-calgary-airports-4439355057>) |
-| Finance & Accounting Co-Op <!--id:758678637--> | Experior Financial Group | Record transactions, process AP/AR, assist reconciliations | Great Place to Work; strong co-op program | Co-op · 4 months · $18.40-$24.00/hr · Co-op term | Onsite | [Apply](<https://ca.linkedin.com/jobs/view/finance-accounting-co-op-at-experior-financial-group-4439355115>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
