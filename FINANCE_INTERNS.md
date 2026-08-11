@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -70,7 +70,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Co-op Accountant, Assurance & Accounting (January 2027) <!--id:764152261--> | MNP | Assist audits, compilations, and financial reporting tasks. | Canadian national accounting firm with CPA support | Co-op/Internship · TBD duration · $45k-$50k pay · Onsite | Owen Sound, ON N4K 6V4 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=0e10b38b-10a8-48fb-879a-1568d2107ec7&postingId=be86d4a2-85ab-4a9e-bff6-41d00fd1935b>) |
 | Accounting Student <!--id:763042653--> | PCL Construction | Process AP and journal entries; assist reconciliations | Reputable construction firm with structured internship program | Co-op/Internship · 4 months · Pay not disclosed · Sep 8, 2026 start | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-student-at-pcl-construction-4440315543>) |
 | Accounting Co-op Student <!--id:762907742--> | Financeit | Post journals, reconcile accounts, support month-end close | Fintech consumer lending; strong culture; CPA support | Co-op · 4/8 months · $22/hr · Fall 2026 | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-at-financeit-4440095798>) |
-| Accounting Co-op Student - AR and AP <!--id:759063456--> | Kinectrics | Process AR/AP, journal entries, reconciliations, bank support | Kinectrics: reputable co-op employer; finance exposure | Co-op · 8 months · $20.78-$25.67/hr · On-site | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/accounting-co-op-student-ar-and-ap-at-kinectrics-4439398028>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |

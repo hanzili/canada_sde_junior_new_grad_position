@@ -91,7 +91,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Quality Assurance Analyst <!--id:767486425--> | Westland Insurance Group Ltd. | Create and execute tests; automate QA processes. | Canadian insurance group with digital platforms. | Full-time · $52K-$65K/yr | Surrey, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/quality-assurance-analyst-at-westland-insurance-group-ltd-4438752821>) |
 | Junior Quality Assurance Inspector <!--id:767316318--> | GHD | Perform tests, inspections, and data collection | Global engineering consultancy | Full-time · $30/hr | Markham, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-quality-assurance-inspector-at-ghd-4441111095>) |
 | Junior QA Engineer <!--id:767092911--> | Computer Modelling Group | Design, build, and execute QA tests | Reservoir simulation software for energy industry | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-engineer-at-computer-modelling-group-4441629010>) |
-| Junior Automation QA Engineer <!--id:759947631--> | VerteX Tech | Develop and automate tests; verify software quality. | Tech firm focused on QA automation. | Full-time | Engineer, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-automation-qa-engineer-at-vertex-tech-4439580004>) |
 
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |

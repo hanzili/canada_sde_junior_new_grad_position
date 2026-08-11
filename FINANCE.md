@@ -1,4 +1,4 @@
-# 2026 Canadian Finance New Grad Positions (Updated Daily)
+# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -132,5 +132,4 @@ _No roles currently_
 | 🔥 Personal Banking Associate Trainee <!--id:764358785--> | TD International Services Limited | Assist customers, process transactions, promote banking products daily | Top Canadian bank; strong training program | Full-time · Permanent · CAD 43,900-58,600 · N/A | Kingston, Ontario (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Kingston-Ontario/Personal-Banking-Associate-Trainee_R_1496370>) |
 | 🔥 Personal Banking Associate - Trainee <!--id:765016806--> | TD Canada Trust | Assist customers with banking needs and solutions | TD Bank: top Canadian financial institution | Full-time · Permanent · CAD 43,900-58,600 · ongoing | Saskatoon, Saskatchewan (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Saskatoon-Saskatchewan/Personal-Banking-Associate---Trainee_R_1495980>) |
 | 🔥 Personal Banking Associate Trainee - Mandarin or Cantonese Language Skills an Asset <!--id:762897732--> | TORONTO DOMINION (SOUTH EAST ASIA) LIMITED | Assist customers, process transactions, promote TD products | Top Canadian bank with robust training program | Full-time · CAD 45,700-61,000 | Vancouver, British Columbia (Onsite) | [Apply](<https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vancouver-British-Columbia/Personal-Banking-Associate-Trainee---Mandarin-or-Cantonese-Language-Skills-an-Asset_R_1498064>) |
-| 🔥 Personal Banking Associate Trainee - Mandarin or Vietnamese Language Skills an Asset <!--id:759243576--> | TD | Assist customers, open accounts, promote banking solutions | Top Canadian bank with strong development programs | Full-time · Permanent · $45,700-$61,000 CAD · Permanent | Surrey, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/personal-banking-associate-trainee-mandarin-or-vietnamese-language-skills-an-asset-at-td-4439518244>) |
 
