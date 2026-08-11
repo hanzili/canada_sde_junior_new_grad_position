@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Jobs for New Grads (Updated Daily)
+# 2026 Canadian Finance New Grad Positions (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance Internships](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE_INTERNS.md)
 
@@ -29,7 +29,6 @@ _No roles currently_
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| Contrôleur·euse financier·ère junior <!--id:777073333--> | Ferreol Skis | Manage accounting, payroll, reporting, and compliance | Growing SME in ski industry, dynamic, fast-paced | Full-time · Permanent · Competitive salary · Not specified | Québec, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/contr%C3%B4leur%C2%B7euse-financier%C2%B7%C3%A8re-junior-at-ferreol-skis-4444399290>) |
 | Junior / Intermediate Accountant - Fixed-Term Contract <!--id:777017671--> | JOEY Restaurant Group | Prepare statements, reconcile accounts, support audits | Restaurant group with multi-unit operations | Fixed-Term Contract · 12 months · $60,000-$75,000/year · In-office Vancouver, BC | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-intermediate-accountant-fixed-term-contract-at-joey-restaurant-group-4441829612>) |
 | Junior / Intermediate Accountant - Fixed-Term Contract <!--id:777002665--> | JOEY Restaurants | Prepare financial statements, reconciliations, and audit support | Hospitality restaurant group; CPA program support | Fixed-term contract · 12 months · $60,000-$75,000 CAD per year · In-office | Vancouver (Onsite) | [Apply](<https://jobs.workable.com/view/8mrEydmvEs3pg7WDkgnwjo/junior-%2F-intermediate-accountant---fixed-term-contract-in-vancouver-at-joey-restaurants>) |
 | Junior Accountant <!--id:776966253--> | Musqueam Capital Corp. | Maintain ledgers, reconcile banks, support month-end close | Indigenous-owned asset manager for Musqueam lands | Full-time | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-accountant-at-musqueam-capital-corp-4444367852>) |
