@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -63,8 +63,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Co-op Student, Corporate Accounting <!--id:765566512--> | Beedie | Record deposits, journal entries; assist month-end close | Top employer provincially and nationally; strong program | Co-op · 8 months | Burnaby, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-student-corporate-accounting-at-beedie-4440243473>) |
 | Finance Intern – Short Term Assignment <!--id:764803069--> | DHL Global Forwarding | Assist reconciliations, data validation, monthly close tasks | Global logistics leader, part of Deutsche Post DHL | Internship · Short-term · CAD $17.60/hr · N/A | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-%E2%80%93-short-term-assignment-at-dhl-global-forwarding-4440892368>) |
 | Intern, Development Accounting <!--id:767242458--> | DREAM | Assist monthly reporting, journal entries, reconciliations | Award-winning Canadian real estate investment firm | Internship · 8 months · $21-25/hour · Sept 2026 | Toronto, ON M5C 2A5 (Onsite) | [Apply](<https://recruiting.ultipro.ca/DRE5000DOMC/JobBoard/641409c4-22a9-4262-b1c5-14ed9a4d73fb/OpportunityDetail?opportunityId=96640252-a34e-4a5a-9470-4fd91636a97d&postingId=0cd18e58-e09d-49b3-a543-de0d973b319b>) |
-| Finance Intern – Short Term Assignment <!--id:764552025--> | DHL | Assist reconciliations, analyze data, support month-end close | Global logistics leader; part of Deutsche Post DHL | Internship · Short Term Assignment · CAD $17.60/hr · Contract | Toronto, ON (Onsite) | [Apply](<https://careers.dhl.com/global/en/job/DPDHGLOBALAV364120ENGLOBALEXTERNAL/Finance-Intern-Short-Term-Assignment?utm_campaign=organic_indeed&utm_medium=phenom-feeds&utm_source=indeed>) |
-| Co-op Accountant, Assurance & Accounting (January 2027) <!--id:764152261--> | MNP | Assist audits, compilations, and financial reporting tasks. | Canadian national accounting firm with CPA support | Co-op/Internship · TBD duration · $45k-$50k pay · Onsite | Owen Sound, ON N4K 6V4 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/OpportunityDetail?opportunityId=0e10b38b-10a8-48fb-879a-1568d2107ec7&postingId=be86d4a2-85ab-4a9e-bff6-41d00fd1935b>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |

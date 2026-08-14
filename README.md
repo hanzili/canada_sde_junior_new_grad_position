@@ -40,7 +40,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Software Developer (Internal Products) <!--id:766060435--> | Slice | Build Django/Python features and maintain web apps | Restaurant tech platform with global engineering team | Full-time | Fully remote - Canada (Onsite) | [Apply](<https://slice.careers/careers-listing?gh_jid=6668653>) |
 | Junior Software Engineer <!--id:767403707--> | Purposely | Build full-stack features, APIs, and UI | B2B SaaS startup empowering employee volunteering | Full-time · $65K CAD/yr | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-at-purposely-4440799861>) |
 | SKYWISE - Junior Software Developer C# / .NET / AWS <!--id:764690625--> | Airbus | Develop features, implement tests, deploy and monitor code. | Airbus-backed Skywise platform for aviation data. | Full-time | Waterloo, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/skywise-junior-software-developer-c%23-net-aws-at-airbus-4438026644>) |
-| SKYWISE - Junior Software Developer C# / .NET / AWS <!--id:764512700--> | NAVBLUE | Build features, fix bugs, deploy software | Airbus subsidiary delivering aviation software solutions | Full-time | Waterloo, ON (Hybrid) | [Apply](<https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Waterloo/SKYWISE---Junior-Software-Developer-C----NET---AWS_JR10428569>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -61,10 +60,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior FP&A & Data Analyst <!--id:768904223--> | ConeTec Group | Analyze financial data, build BI dashboards, forecast | Geotechnical leader, global projects & analytics | Full-time | Burnaby, BC (Onsite) | [Apply](<https://conetec.bamboohr.com/careers/705>) |
 
 ## DevOps / SRE / Platform
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior DevOps Engineer <!--id:763759595--> | Elastic Path | Build and maintain deployment pipelines, automate tooling | Elastic Path, cloud commerce software platform | Full-time | Remote | [Apply](<https://ca.linkedin.com/jobs/view/junior-devops-engineer-at-elastic-path-4421227352>) |
-| 🔥 Junior DevOps Engineer <!--id:764628321--> | RBC | Collaborate on deployments, build CI/CD pipelines, automate infra. | Leading Canadian bank with extensive tech operations | Full-time | TORONTO, Ontario, Canada (Onsite) | [Apply](<https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Junior-DevOps-Engineer_R-0000178777-2>) |
+_No roles currently_
 
 ## Security
 | Title | Company | Role | Company Info | Details | Location | Apply |
