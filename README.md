@@ -39,7 +39,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Software Developer - New Graduate <!--id:766626219--> | D2L | Develop software features, fix bugs, test, deploy | Canadian edtech, cloud-based learning platform | Full-time · $75K-$85K CAD/yr | Kitchener, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/software-developer-new-graduate-at-d2l-4343030654>) |
 | Software Developer (Internal Products) <!--id:766060435--> | Slice | Build Django/Python features and maintain web apps | Restaurant tech platform with global engineering team | Full-time | Fully remote - Canada (Onsite) | [Apply](<https://slice.careers/careers-listing?gh_jid=6668653>) |
 | Junior Software Engineer <!--id:767403707--> | Purposely | Build full-stack features, APIs, and UI | B2B SaaS startup empowering employee volunteering | Full-time · $65K CAD/yr | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-at-purposely-4440799861>) |
-| SKYWISE - Junior Software Developer C# / .NET / AWS <!--id:764690625--> | Airbus | Develop features, implement tests, deploy and monitor code. | Airbus-backed Skywise platform for aviation data. | Full-time | Waterloo, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/skywise-junior-software-developer-c%23-net-aws-at-airbus-4438026644>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
