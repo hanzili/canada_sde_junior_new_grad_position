@@ -36,9 +36,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | New Graduate Software Engineer <!--id:774684119--> | Magical | Build backend and full-stack AI automation features | AI healthcare automation startup in Toronto | Full-time | Toronto, Ontario, Canada (Onsite) | [Apply](<https://jobs.ashbyhq.com/Magical/46f06c31-9b98-4963-aabe-f70538908c62>) |
 | Automation Software Developer (Junior or Senior Level) <!--id:775681521--> | Vidir | Build software features, fix defects, test. | Industrial automation solutions provider in Manitoba. | Full-time | Arborg, Manitoba (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/automation-software-developer-junior-or-senior-level-at-vidir-4443896188>) |
 | Backend Developer <!--id:769667243--> | Curiosity Learning | Build backend APIs, integrate frontend, deploy services | Mission-driven education startup focused on curiosity | Part-time | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/backend-developer-at-curiosity-learning-4442481235>) |
-| Software Developer - New Graduate <!--id:766626219--> | D2L | Develop software features, fix bugs, test, deploy | Canadian edtech, cloud-based learning platform | Full-time · $75K-$85K CAD/yr | Kitchener, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/software-developer-new-graduate-at-d2l-4343030654>) |
-| Software Developer (Internal Products) <!--id:766060435--> | Slice | Build Django/Python features and maintain web apps | Restaurant tech platform with global engineering team | Full-time | Fully remote - Canada (Onsite) | [Apply](<https://slice.careers/careers-listing?gh_jid=6668653>) |
-| Junior Software Engineer <!--id:767403707--> | Purposely | Build full-stack features, APIs, and UI | B2B SaaS startup empowering employee volunteering | Full-time · $65K CAD/yr | Montreal, Quebec (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-software-engineer-at-purposely-4440799861>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -77,9 +74,6 @@ _No roles currently_
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Quality Assurance Inspector Entry Level (Food Industry)- Night Shift <!--id:774459959--> | Belpak | Perform QA inspections and regulatory compliance checks | Confectionery co-packer serving top brands | Full-time · $21-$23/hr | Markham, ON (Onsite) | [Apply](<https://pivotalhr.fitzii.com/job/99712?s=in>) |
 | Jr. QA Engineer <!--id:772867846--> | Veriforce | Design and execute tests; automate QA processes | Global safety and compliance software company | Full-time | Greater Montreal Metropolitan Area (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/jr-qa-engineer-at-veriforce-4442668413>) |
-| Quality Assurance Analyst <!--id:767486425--> | Westland Insurance Group Ltd. | Create and execute tests; automate QA processes. | Canadian insurance group with digital platforms. | Full-time · $52K-$65K/yr | Surrey, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/quality-assurance-analyst-at-westland-insurance-group-ltd-4438752821>) |
-| Junior Quality Assurance Inspector <!--id:767316318--> | GHD | Perform tests, inspections, and data collection | Global engineering consultancy | Full-time · $30/hr | Markham, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-quality-assurance-inspector-at-ghd-4441111095>) |
-| Junior QA Engineer <!--id:767092911--> | Computer Modelling Group | Design, build, and execute QA tests | Reservoir simulation software for energy industry | Full-time | Calgary, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-qa-engineer-at-computer-modelling-group-4441629010>) |
 
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -89,7 +83,6 @@ _No roles currently_
 | Junior Hardware Engineering Developer <!--id:773472569--> | General Dynamics Missions System International | Design, test, and support circuit cards | Defense systems leader, Canada-focused engineering excellence | Full-time · $75K-$80K/yr | Ottawa, ON, Canada (Onsite) | [Apply](<https://jobs.smartrecruiters.com/GDMSI/744000138931627-junior-hardware-engineering-developer->) |
 | Junior Hardware Engineering Developer <!--id:772970018--> | General Dynamics Mission Systems | Support hardware design, bring-up, and testing | Global defense contractor, Canada-based operations. | Full-time · $75K-$80K/yr | Ottawa, ON K2H 5B7 (Onsite) | [Apply](<https://jobs.smartrecruiters.com/GDMSI/744000138931678-junior-hardware-engineering-developer->) |
 | Junior Hardware Engineering Developer <!--id:772946062--> | General Dynamics Mission Systems–Canada | Support bring-up, test, and characterize circuits | Global defense contractor; mission-critical hardware | Full-time · $75K-80K/yr | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-hardware-engineering-developer-at-general-dynamics-mission-systems%E2%80%93canada-4443527590>) |
-| Embedded System Developer (Junior or Intermediate) <!--id:767329867--> | Innov2Learn | Develop embedded software for medical training devices | Montreal-based medical training hardware company | Full-time | Greater Montreal Metropolitan Area (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/embedded-system-developer-junior-or-intermediate-at-innov2learn-4441104493>) |
 
 ## Product / TPM
 _No roles currently_

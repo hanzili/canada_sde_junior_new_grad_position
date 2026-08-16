@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -27,9 +27,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Private Equity Intern - Summer 2027 <!--id:775566375--> | Alfar Capital | Support PE transactions with modeling and memos | Montreal private equity firm with hands-on investments | Internship · Summer 2027 | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/private-equity-intern-summer-2027-at-alfar-capital-4443169910>) |
-| 🔥 GBM - Investment Banking Internship/Co-op - Montreal - Fall 2026 <!--id:767574134--> | Scotiabank | Develop financial models, assist valuations, prepare pitches | Top Canadian bank, strong IB internship program | Co-op · 4 months · Paid · Sep-Dec 2026 | Montréal, QC (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Montreal-GBM-Investment-Banking-InternshipCo-op-Montreal-Fall-2026-QC/604412717/>) |
-| 🔥 GBM - Investment Banking Internship/Co-op - Montreal - Winter 2027 <!--id:767333260--> | Scotiabank | Build financial models, support client valuations | Top Canadian bank with global markets program | Internship/Co-op · 4 months · N/A · Winter 2027 | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/gbm-investment-banking-internship-co-op-montreal-winter-2027-at-scotiabank-4441103237>) |
-| 🔥 GBM - Investment Banking Internship/Co-op - Montreal - Winter 2027 <!--id:770216074--> | The Bank of Nova Scotia P | Build financial models, valuations, and presentations | Top Canadian bank; IB co-op program | Co-op internship · 4 months · Paid · Jan–Apr 2027 | Montreal, QC, CA (Onsite) | [Apply](<https://jobs.scotiabank.com/job/Montreal-GBM-Investment-Banking-InternshipCo-op-Montreal-Winter-2027-QC/604412517/>) |
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -51,16 +48,11 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accounts Payable Administrator Intern <!--id:768740382--> | Telesat | Process supplier invoices and reconcile accounts payable | Global satellite operator with NASDAQ/TSX listings | Internship | Ottawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounts-payable-administrator-intern-at-telesat-4442166691>) |
 | Accounts Payable Administrator Intern <!--id:768683409--> | Telesat | Process invoices and payments; reconcile vendor accounts | Nasdaq/TSX listed; leading satellite operator | Internship · Not disclosed · Not disclosed · Non-Coop | Ottawa, ON (Onsite) | [Apply](<https://www.telesat.com/careers/jobs/95fd49cd-d87b-47be-9c1f-254d9a3145a5>) |
 | Finance Intern – Short Term Assignment <!--id:767773769--> | DHL Global Forwarding | Assist reconciliations, prepare reports, support month-end close | Global logistics leader, part of Deutsche Post DHL | Internship · Short-term contract · CAD $17.60/hr · contract | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-%E2%80%93-short-term-assignment-at-dhl-global-forwarding-4440892368>) |
-| Intern, Development Accounting <!--id:766180404--> | Dream | Assist monthly reporting and journal entries | Canadian real estate developer with large assets | Internship · 8 months · $21-25/hour · Sep 2026 | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/intern-development-accounting-at-dream-4441413331>) |
-| Sales and Commercial Finance Intern (12 Months) <!--id:766175139--> | BMW Group | Assist in data-driven finance reporting and analytics | BMW Group: premium automotive financial services | Internship · 12 Months · $47,000-$49,000 · 09/01/2026 | Richmond Hill, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/sales-and-commercial-finance-intern-12-months-at-bmw-group-4441418187>) |
-| Analyste Comptable <!--id:766077049--> | Linkor Business Intelligence | Saisie comptable, réconciliations, reporting Sage | Montreal investment fund; Sage-focused internship | Stage · 4-6 months · Pay negotiable · Visa support | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/analyste-comptable-at-linkor-business-intelligence-4440615250>) |
-| Accounts Payable Intern <!--id:766947850--> | Trojan Technologies | Process invoices, reconcile vendor statements, support payments | Canadian manufacturer; strong AP exposure and growth | Internship | London, Ontario, Canada (Onsite) | [Apply](<https://veralto.wd1.myworkdayjobs.com/TrojanJobs/job/London-Ontario-Canada/Accounts-Payable-Intern_R10267092>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Co-op Student, Assurance and Accounting <!--id:772892739--> | MNP | Assist audits, bookkeeping, and client accounting tasks | Leading national accounting and advisory firm | Co-op · Jan 2027 - Aug 2027 · $42,000-$46,000 · 8 months | Kamloops, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-student-assurance-and-accounting-at-mnp-4283840205>) |
-| SFU Accounting Co-Op Student 2026-09 <!--id:767726069--> | McLaren Trefanenko Inc. | Prepare tax returns; assist with client filings | Public accounting firm; tax services and support | Co-op · Sep 2026–Apr 2027 | New Westminster, British Columbia, Canada (Onsite) | [Apply](<https://mti.bamboohr.com/careers/60>) |
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |
