@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -45,9 +45,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Commercial Finance Intern (4 or 8 Month Term) <!--id:771878153--> | Specsavers | Gather data, analyze, report, support budgeting decisions | Global eyewear retailer with strong growth | Co-op · 4- or 8-month · $23-27/hr · Sept 2026 start | Burnaby, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/commercial-finance-intern-4-or-8-month-term-at-specsavers-4440180997>) |
 | Commercial Finance Intern (4 or 8 Month Term) <!--id:771812214--> | Specsavers | Support data analysis, generate reports, drive strategic insights | Specsavers: global retailer, award-winning workplace | Co-op/WIL · 4 or 8 months · $23-$27/hr · Sep 2026 start | Burnaby, BC (Remote) | [Apply](<https://join.specsavers.com/ca/job/commercial-finance-intern-4-or-8-month-term-in-burnaby-british-columbia-canada-jid-13709>) |
 | Accounting Intern (Fall 2026) <!--id:771767019--> | L'Occitane En Provence | Prepare journal entries, reconcile GL accounts | Global cosmetics retailer; SAP-driven accounting exposure | Internship · Fall 2026 · Competitive pay · Fall term | Toronto, ON, Canada (Onsite) | [Apply](<https://loccitaneenprovence.applytojob.com/apply/LBbbqPbnIj/Accounting-Intern-Fall-2026>) |
-| Accounts Payable Administrator Intern <!--id:768740382--> | Telesat | Process supplier invoices and reconcile accounts payable | Global satellite operator with NASDAQ/TSX listings | Internship | Ottawa, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/accounts-payable-administrator-intern-at-telesat-4442166691>) |
-| Accounts Payable Administrator Intern <!--id:768683409--> | Telesat | Process invoices and payments; reconcile vendor accounts | Nasdaq/TSX listed; leading satellite operator | Internship · Not disclosed · Not disclosed · Non-Coop | Ottawa, ON (Onsite) | [Apply](<https://www.telesat.com/careers/jobs/95fd49cd-d87b-47be-9c1f-254d9a3145a5>) |
-| Finance Intern – Short Term Assignment <!--id:767773769--> | DHL Global Forwarding | Assist reconciliations, prepare reports, support month-end close | Global logistics leader, part of Deutsche Post DHL | Internship · Short-term contract · CAD $17.60/hr · contract | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/finance-intern-%E2%80%93-short-term-assignment-at-dhl-global-forwarding-4440892368>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |

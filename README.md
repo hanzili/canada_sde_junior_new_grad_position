@@ -52,7 +52,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior AI/Automation Developer (Local AI Systems) <!--id:773533418--> | Precision Record Pressing | Develop and deploy AI/vision systems for manufacturing | Vinyl pressing company with multiple GTA locations | Full-time | Oakville, ON (Onsite) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=c232ab1c-2bd1-4b69-b6dd-23a6e086646b&jobId=568295&lang=en_CA&source=IN>) |
 | Junior Data Engineer - Blenddata <!--id:773223091--> | Dimension Study Association | Build data pipelines, process data, optimize flows | Dutch data consultancy with diverse client projects | Full-time · €3,150-€4,500/mo | Engineer, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-blenddata-at-dimension-study-association-4443583342>) |
 | Junior to Intermediate Data Engineer <!--id:772907308--> | LGS, an IBM Company | Develop data pipelines, ETL/ELT processes | IBM-backed data engineering arm in Canada | Full-time | Montréal, QC H3B 3M4 (Onsite) | [Apply](<https://jobs.dayforcehcm.com/en-US/lgs/CANDIDATEPORTAL/jobs/3293>) |
-| Junior FP&A & Data Analyst <!--id:768904223--> | ConeTec Group | Analyze financial data, build BI dashboards, forecast | Geotechnical leader, global projects & analytics | Full-time | Burnaby, BC (Onsite) | [Apply](<https://conetec.bamboohr.com/careers/705>) |
 
 ## DevOps / SRE / Platform
 _No roles currently_
