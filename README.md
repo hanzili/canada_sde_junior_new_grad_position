@@ -35,7 +35,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Software Developer (Junior to Intermediate) <!--id:777114019--> | MAD Elevator Inc | Develop web and desktop apps; fix bugs | Mississauga-based software firm with ERP integrations | Full-time · $72,000-$95,000/yr | Mississauga, ON L5T 1K6 (Onsite) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=4aaeb051-a2b2-45d4-8d95-18f9a98abb4e&jobId=547768&lang=en_CA&source=IN>) |
 | New Graduate Software Engineer <!--id:774684119--> | Magical | Build backend and full-stack AI automation features | AI healthcare automation startup in Toronto | Full-time | Toronto, Ontario, Canada (Onsite) | [Apply](<https://jobs.ashbyhq.com/Magical/46f06c31-9b98-4963-aabe-f70538908c62>) |
 | Automation Software Developer (Junior or Senior Level) <!--id:775681521--> | Vidir | Build software features, fix defects, test. | Industrial automation solutions provider in Manitoba. | Full-time | Arborg, Manitoba (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/automation-software-developer-junior-or-senior-level-at-vidir-4443896188>) |
-| Backend Developer <!--id:769667243--> | Curiosity Learning | Build backend APIs, integrate frontend, deploy services | Mission-driven education startup focused on curiosity | Part-time | Ottawa, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/backend-developer-at-curiosity-learning-4442481235>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
