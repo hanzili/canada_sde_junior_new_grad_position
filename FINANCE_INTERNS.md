@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -41,10 +41,6 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Stagiaire Responsable Administratif Comptable - Montreal <!--id:774509415--> | Linkor Business Intelligence corp. | Support accounting operations, invoicing, inventories, and monthly close | Local Canadian agro-food firm with growth opportunities | Stage · start Aug (duration TBD) · N/A · N/A | Montreal, QC, Canada (Onsite) | [Apply](<https://ats.welcometothejungle.com/board/linkor-business-intelligence-corp-aPnXpu/job/8d87b0ea-22a8-4c5f-9b55-63a0587ed265/apply?referrer=wttj>) |
 | Finance Intern <!--id:773169416--> | Scj | Month-end close, reporting, profitability analysis | Global consumer goods leader, private family firm | Internship · CAD 42,900 | CAN - Ontario - Brantford (Onsite) | [Apply](<https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/CAN---Ontario---Brantford/Finance-Intern_33607>) |
 | Finance Intern <!--id:774921069--> | SC Johnson | Execute month-end close, journal entries, reconciliations | Global consumer goods firm with CPA support | Internship · duration not specified · 42,900 CAD · not specified | Brantford, ON N3T 5R1 (Onsite) | [Apply](<https://jobs.scjohnson.com/job/-/-/5362/98102586304>) |
-| Accounting Intern (Fall 2026) <!--id:771949935--> | L'Occitane | Prepare journals, reconcile GL, assist monthly closes | Global beauty brand with strong retail presence | Internship · Fall 2026 · Competitive pay · Part-time | Toronto, ON M2N 6L9 (Onsite) | [Apply](<https://loccitaneenprovence.applytojob.com/apply/LBbbqPbnIj/Accounting-Intern-Fall-2026?source=INDE&~=>) |
-| Commercial Finance Intern (4 or 8 Month Term) <!--id:771878153--> | Specsavers | Gather data, analyze, report, support budgeting decisions | Global eyewear retailer with strong growth | Co-op · 4- or 8-month · $23-27/hr · Sept 2026 start | Burnaby, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/commercial-finance-intern-4-or-8-month-term-at-specsavers-4440180997>) |
-| Commercial Finance Intern (4 or 8 Month Term) <!--id:771812214--> | Specsavers | Support data analysis, generate reports, drive strategic insights | Specsavers: global retailer, award-winning workplace | Co-op/WIL · 4 or 8 months · $23-$27/hr · Sep 2026 start | Burnaby, BC (Remote) | [Apply](<https://join.specsavers.com/ca/job/commercial-finance-intern-4-or-8-month-term-in-burnaby-british-columbia-canada-jid-13709>) |
-| Accounting Intern (Fall 2026) <!--id:771767019--> | L'Occitane En Provence | Prepare journal entries, reconcile GL accounts | Global cosmetics retailer; SAP-driven accounting exposure | Internship · Fall 2026 · Competitive pay · Fall term | Toronto, ON, Canada (Onsite) | [Apply](<https://loccitaneenprovence.applytojob.com/apply/LBbbqPbnIj/Accounting-Intern-Fall-2026>) |
 
 ## Audit / Tax
 | Title | Company | Role | Company Info | Details | Location | Apply |
