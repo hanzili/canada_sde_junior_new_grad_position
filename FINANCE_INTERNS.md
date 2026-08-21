@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -39,13 +39,9 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 | Accounts Payable Co-op <!--id:774746013--> | Nova Scotia Power | Process AP invoices, reconcile, support payments | Atlantic Canada utility with large finance team | Temporary · Sep-Dec 2026 · Fall term | Halifax, NS B3J 3S8 (Onsite) | [Apply](<http://careers.emera.com/jobs/5661/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&utm_source=indeed_integration>) |
 | Stagiaire Responsable Administratif Comptable - Montreal <!--id:774532726--> | Linkor Business Intelligence | Support accounting operations, reconciliations, monthly closing | Québec agro-food firm; internship in accounting | Stage · Août (démarrage) · Salaire à discuter · Internship | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/stagiaire-responsable-administratif-comptable-montreal-at-linkor-business-intelligence-4443429152>) |
 | Stagiaire Responsable Administratif Comptable - Montreal <!--id:774509415--> | Linkor Business Intelligence corp. | Support accounting operations, invoicing, inventories, and monthly close | Local Canadian agro-food firm with growth opportunities | Stage · start Aug (duration TBD) · N/A · N/A | Montreal, QC, Canada (Onsite) | [Apply](<https://ats.welcometothejungle.com/board/linkor-business-intelligence-corp-aPnXpu/job/8d87b0ea-22a8-4c5f-9b55-63a0587ed265/apply?referrer=wttj>) |
-| Finance Intern <!--id:773169416--> | Scj | Month-end close, reporting, profitability analysis | Global consumer goods leader, private family firm | Internship · CAD 42,900 | CAN - Ontario - Brantford (Onsite) | [Apply](<https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/CAN---Ontario---Brantford/Finance-Intern_33607>) |
-| Finance Intern <!--id:774921069--> | SC Johnson | Execute month-end close, journal entries, reconciliations | Global consumer goods firm with CPA support | Internship · duration not specified · 42,900 CAD · not specified | Brantford, ON N3T 5R1 (Onsite) | [Apply](<https://jobs.scjohnson.com/job/-/-/5362/98102586304>) |
 
 ## Audit / Tax
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Co-op Student, Assurance and Accounting <!--id:772892739--> | MNP | Assist audits, bookkeeping, and client accounting tasks | Leading national accounting and advisory firm | Co-op · Jan 2027 - Aug 2027 · $42,000-$46,000 · 8 months | Kamloops, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/co-op-student-assurance-and-accounting-at-mnp-4283840205>) |
+_No roles currently_
 
 ## Risk / Compliance
 | Title | Company | Role | Company Info | Details | Location | Apply |

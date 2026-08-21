@@ -47,9 +47,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Data Analyst <!--id:776333412--> | DeVry Greenhouses Ltd. | Design dashboards, analyze data, automate reports | BC greenhouse supplier, data-driven decision support | Full-time · $26/hr | Chilliwack, BC (Onsite) | [Apply](<https://careers.devrygreenhouses.com/jobs/667919-junior-data-analyst>) |
 | Junior AI Developer <!--id:775974849--> | Experior Financial | Develop AI features, train models, deploy | Canada-based AI-driven financial firm | Full-time | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/184>) |
 | Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) <!--id:774370552--> | Agoda | Analyze marketing data, build models, dashboards | Global travel platform, part of Booking Holdings | Full-time | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-at-agoda-4299761898>) |
-| Junior AI/Automation Developer (Local AI Systems) <!--id:773533418--> | Precision Record Pressing | Develop and deploy AI/vision systems for manufacturing | Vinyl pressing company with multiple GTA locations | Full-time | Oakville, ON (Onsite) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=c232ab1c-2bd1-4b69-b6dd-23a6e086646b&jobId=568295&lang=en_CA&source=IN>) |
-| Junior Data Engineer - Blenddata <!--id:773223091--> | Dimension Study Association | Build data pipelines, process data, optimize flows | Dutch data consultancy with diverse client projects | Full-time · €3,150-€4,500/mo | Engineer, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-engineer-blenddata-at-dimension-study-association-4443583342>) |
-| Junior to Intermediate Data Engineer <!--id:772907308--> | LGS, an IBM Company | Develop data pipelines, ETL/ELT processes | IBM-backed data engineering arm in Canada | Full-time | Montréal, QC H3B 3M4 (Onsite) | [Apply](<https://jobs.dayforcehcm.com/en-US/lgs/CANDIDATEPORTAL/jobs/3293>) |
 
 ## DevOps / SRE / Platform
 _No roles currently_
@@ -70,15 +67,11 @@ _No roles currently_
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Quality Assurance Inspector Entry Level (Food Industry)- Night Shift <!--id:774459959--> | Belpak | Perform QA inspections and regulatory compliance checks | Confectionery co-packer serving top brands | Full-time · $21-$23/hr | Markham, ON (Onsite) | [Apply](<https://pivotalhr.fitzii.com/job/99712?s=in>) |
-| Jr. QA Engineer <!--id:772867846--> | Veriforce | Design and execute tests; automate QA processes | Global safety and compliance software company | Full-time | Greater Montreal Metropolitan Area (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/jr-qa-engineer-at-veriforce-4442668413>) |
 
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior Test Engineer - Thermal <!--id:773574769--> | MDA Space | Develop automated RF test stations and procedures | Space tech leader, 55-year history | Full-time | Sainte-Anne-de-Bellevue, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-test-engineer-thermal-at-mda-space-4443736346>) |
-| Junior Test Engineer - Thermal <!--id:773513287--> | MDA | Develop test stations and automate RF tests | Space defense and satellite systems pioneer | Full-time | Sainte-Anne-de-Bellevue, QC H9X 3R2 (Onsite) | [Apply](<https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=a21da34a-e3b3-43cc-9bf8-71283553e0c5>) |
-| Junior Hardware Engineering Developer <!--id:773472569--> | General Dynamics Missions System International | Design, test, and support circuit cards | Defense systems leader, Canada-focused engineering excellence | Full-time · $75K-$80K/yr | Ottawa, ON, Canada (Onsite) | [Apply](<https://jobs.smartrecruiters.com/GDMSI/744000138931627-junior-hardware-engineering-developer->) |
-| Junior Hardware Engineering Developer <!--id:772970018--> | General Dynamics Mission Systems | Support hardware design, bring-up, and testing | Global defense contractor, Canada-based operations. | Full-time · $75K-$80K/yr | Ottawa, ON K2H 5B7 (Onsite) | [Apply](<https://jobs.smartrecruiters.com/GDMSI/744000138931678-junior-hardware-engineering-developer->) |
 
 ## Product / TPM
 _No roles currently_
