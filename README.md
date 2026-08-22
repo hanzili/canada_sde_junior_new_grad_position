@@ -46,7 +46,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Jr. Data Analyst - ACX Corporate Support Edmonton <!--id:774842836--> | AutoCanada | Maintain dashboards, validate data, build BI reports | Largest Canadian-owned automotive dealer group | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/jr-data-analyst-acx-corporate-support-edmonton-at-autocanada-4443444506>) |
 | Junior Data Analyst <!--id:776333412--> | DeVry Greenhouses Ltd. | Design dashboards, analyze data, automate reports | BC greenhouse supplier, data-driven decision support | Full-time · $26/hr | Chilliwack, BC (Onsite) | [Apply](<https://careers.devrygreenhouses.com/jobs/667919-junior-data-analyst>) |
 | Junior AI Developer <!--id:775974849--> | Experior Financial | Develop AI features, train models, deploy | Canada-based AI-driven financial firm | Full-time | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/184>) |
-| Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) <!--id:774370552--> | Agoda | Analyze marketing data, build models, dashboards | Global travel platform, part of Booking Holdings | Full-time | Vancouver, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-at-agoda-4299761898>) |
 
 ## DevOps / SRE / Platform
 _No roles currently_
@@ -64,14 +63,10 @@ _No roles currently_
 | Junior Game System Designer (Mobile Game) <!--id:774802932--> | IGG.com Canada | Design gameplay features, document systems, test builds | Global mobile game studio, IGG network | Full-time · $50K-$55K CAD/yr | Vancouver, British Columbia, Canada (Onsite) | [Apply](<https://igg.bamboohr.com/careers/287>) |
 
 ## QA / Test / Automation
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Quality Assurance Inspector Entry Level (Food Industry)- Night Shift <!--id:774459959--> | Belpak | Perform QA inspections and regulatory compliance checks | Confectionery co-packer serving top brands | Full-time · $21-$23/hr | Markham, ON (Onsite) | [Apply](<https://pivotalhr.fitzii.com/job/99712?s=in>) |
+_No roles currently_
 
 ## Hardware / Firmware
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Test Engineer - Thermal <!--id:773574769--> | MDA Space | Develop automated RF test stations and procedures | Space tech leader, 55-year history | Full-time | Sainte-Anne-de-Bellevue, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-test-engineer-thermal-at-mda-space-4443736346>) |
+_No roles currently_
 
 ## Product / TPM
 _No roles currently_
@@ -80,7 +75,6 @@ _No roles currently_
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior IT Support <!--id:775680248--> | Bevo Farms Ltd | Provide end-user IT support and system administration | Greenhouse technology company enabling modern agriculture | Full-time · CAD$57,000-CAD$58,000/yr | Langley, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-it-support-at-bevo-farms-ltd-4444007442>) |
-| Junior Global Service Desk/Client Services <!--id:774219957--> | Smiths Group | Provide Windows desktop support and incident resolution | FTSE 100 global engineering solutions leader. | Full-time | Hamilton, ON (Onsite) | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000139111718-junior-global-service-desk-client-services>) |
 
 ## Solutions / Customer Engineering
 _No roles currently_
