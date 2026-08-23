@@ -33,7 +33,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Software Developer (Junior to Intermediate) <!--id:777114019--> | MAD Elevator Inc | Develop web and desktop apps; fix bugs | Mississauga-based software firm with ERP integrations | Full-time · $72,000-$95,000/yr | Mississauga, ON L5T 1K6 (Onsite) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=4aaeb051-a2b2-45d4-8d95-18f9a98abb4e&jobId=547768&lang=en_CA&source=IN>) |
-| New Graduate Software Engineer <!--id:774684119--> | Magical | Build backend and full-stack AI automation features | AI healthcare automation startup in Toronto | Full-time | Toronto, Ontario, Canada (Onsite) | [Apply](<https://jobs.ashbyhq.com/Magical/46f06c31-9b98-4963-aabe-f70538908c62>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
@@ -43,9 +42,6 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Data Analyst (Research & Statistical Officer 1) <!--id:777031836--> | Government of Nova Scotia | Develop dashboards, analyze data, present insights | Nova Scotia government analytics division, public sector | Full-time · $1,946.91-$2,698.22 Bi-weekly | Halifax, Nova Scotia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-research-statistical-officer-1-at-government-of-nova-scotia-4445210951>) |
 | Associate Product Ownership - Jr. Data Engineer (12-months contract) <!--id:776939305--> | Nestlé | Prepare, clean, and integrate data for analytics | Global consumer goods leader investing in data | Contract · 12mo · CAD 65k-70k/yr | North York, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/associate-product-ownership-jr-data-engineer-12-months-contract-at-nestl%C3%A9-4445201599>) |
 | Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) <!--id:777036840--> | Agoda | Analyze campaigns, run experiments, build dashboards | Global travel platform; part of Booking Holdings. | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-at-agoda-4299774350>) |
-| Jr. Data Analyst - ACX Corporate Support Edmonton <!--id:774842836--> | AutoCanada | Maintain dashboards, validate data, build BI reports | Largest Canadian-owned automotive dealer group | Full-time | Edmonton, Alberta (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/jr-data-analyst-acx-corporate-support-edmonton-at-autocanada-4443444506>) |
-| Junior Data Analyst <!--id:776333412--> | DeVry Greenhouses Ltd. | Design dashboards, analyze data, automate reports | BC greenhouse supplier, data-driven decision support | Full-time · $26/hr | Chilliwack, BC (Onsite) | [Apply](<https://careers.devrygreenhouses.com/jobs/667919-junior-data-analyst>) |
-| Junior AI Developer <!--id:775974849--> | Experior Financial | Develop AI features, train models, deploy | Canada-based AI-driven financial firm | Full-time | Canada (Remote) | [Apply](<https://experiorfinancial.bamboohr.com/careers/184>) |
 
 ## DevOps / SRE / Platform
 _No roles currently_
@@ -58,9 +54,7 @@ _No roles currently_
 | Junior Cloud Security Engineer <!--id:776476992--> | Peoples Group | Build security tooling, maintain CI/CD pipelines | Canadian financial services firm with security focus | Full-time · $90K-$100K/yr | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-cloud-security-engineer-at-peoples-group-4426689877>) |
 
 ## Mobile
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Game System Designer (Mobile Game) <!--id:774802932--> | IGG.com Canada | Design gameplay features, document systems, test builds | Global mobile game studio, IGG network | Full-time · $50K-$55K CAD/yr | Vancouver, British Columbia, Canada (Onsite) | [Apply](<https://igg.bamboohr.com/careers/287>) |
+_No roles currently_
 
 ## QA / Test / Automation
 _No roles currently_
@@ -72,9 +66,7 @@ _No roles currently_
 _No roles currently_
 
 ## IT / Support / Systems
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior IT Support <!--id:775680248--> | Bevo Farms Ltd | Provide end-user IT support and system administration | Greenhouse technology company enabling modern agriculture | Full-time · CAD$57,000-CAD$58,000/yr | Langley, British Columbia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-it-support-at-bevo-farms-ltd-4444007442>) |
+_No roles currently_
 
 ## Solutions / Customer Engineering
 _No roles currently_

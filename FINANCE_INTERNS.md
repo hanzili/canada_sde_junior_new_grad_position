@@ -1,4 +1,4 @@
-# 2026 Canadian Finance Internship Positions (Updated Daily)
+# 2026 Canadian Finance Internships (Updated Daily)
 
 See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_position) | [Finance New Grad](https://github.com/hanzili/canada_sde_junior_new_grad_position/blob/main/FINANCE.md)
 
@@ -24,9 +24,7 @@ See also: [Tech Jobs](https://github.com/hanzili/canada_sde_junior_new_grad_posi
 - [Banking / Insurance](#banking-insurance)
 
 ## Investment Banking / Capital Markets
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Private Equity Intern - Summer 2027 <!--id:775566375--> | Alfar Capital | Support PE transactions with modeling and memos | Montreal private equity firm with hands-on investments | Internship · Summer 2027 | Montreal, Quebec (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/private-equity-intern-summer-2027-at-alfar-capital-4443169910>) |
+_No roles currently_
 
 ## Accounting / FP&A
 | Title | Company | Role | Company Info | Details | Location | Apply |
