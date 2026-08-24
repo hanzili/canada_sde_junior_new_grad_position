@@ -30,28 +30,16 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 - [Startup / VC / Ops](#startup-vc-ops)
 
 ## Software Engineering
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Software Developer (Junior to Intermediate) <!--id:777114019--> | MAD Elevator Inc | Develop web and desktop apps; fix bugs | Mississauga-based software firm with ERP integrations | Full-time · $72,000-$95,000/yr | Mississauga, ON L5T 1K6 (Onsite) | [Apply](<https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=4aaeb051-a2b2-45d4-8d95-18f9a98abb4e&jobId=547768&lang=en_CA&source=IN>) |
+_No roles currently_
 
 ## Data / ML
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Data Analyst (Research & Statistical Officer 1) <!--id:777179090--> | Province of Nova Scotia | Develop Power BI dashboards, analyze data, deliver reports | Nova Scotia government, public sector analytics | Full-time · $50K-$70K/yr | Halifax, NS (Onsite) | [Apply](<https://jobs.novascotia.ca/job/HALIFAX-Junior-Data-Analyst-(Research-&-Statistical-Officer-1)-NS-B3J-0G1/604669217/>) |
-| AI Engineer — Junior (BC) <!--id:777074450--> | Canada Quant Labs | Build eval harnesses, data pipelines, benchmarks for models | Canadian ML research lab on open-weight models | Full-time · CAD $85K–$115K + equity | Victoria, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/ai-engineer-%E2%80%94-junior-bc-at-canada-quant-labs-4443177831>) |
-| Junior Data Analyst (Research & Statistical Officer 1) <!--id:777031836--> | Government of Nova Scotia | Develop dashboards, analyze data, present insights | Nova Scotia government analytics division, public sector | Full-time · $1,946.91-$2,698.22 Bi-weekly | Halifax, Nova Scotia (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/junior-data-analyst-research-statistical-officer-1-at-government-of-nova-scotia-4445210951>) |
-| Associate Product Ownership - Jr. Data Engineer (12-months contract) <!--id:776939305--> | Nestlé | Prepare, clean, and integrate data for analytics | Global consumer goods leader investing in data | Contract · 12mo · CAD 65k-70k/yr | North York, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/associate-product-ownership-jr-data-engineer-12-months-contract-at-nestl%C3%A9-4445201599>) |
-| Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based) <!--id:777036840--> | Agoda | Analyze campaigns, run experiments, build dashboards | Global travel platform; part of Booking Holdings. | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://ca.linkedin.com/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-at-agoda-4299774350>) |
+_No roles currently_
 
 ## DevOps / SRE / Platform
 _No roles currently_
 
 ## Security
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Cloud Security Engineer <!--id:776476994--> | Peoples Group | Build security tooling, maintain pipelines, automate tasks | Canadian financial services firm | Full-time · $90K-$100K CAD/yr | Calgary, Alberta (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-cloud-security-engineer-at-peoples-group-4426908213>) |
-| Junior Cloud Security Engineer <!--id:776476993--> | Peoples Group | Build security tooling, maintain pipelines, investigate alerts | Canadian financial services firm with fintech clients | Full-time · $90K-$100K CAD/yr | Vancouver, British Columbia (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-cloud-security-engineer-at-peoples-group-4426690878>) |
-| Junior Cloud Security Engineer <!--id:776476992--> | Peoples Group | Build security tooling, maintain CI/CD pipelines | Canadian financial services firm with security focus | Full-time · $90K-$100K/yr | Toronto, Ontario (Hybrid) | [Apply](<https://ca.linkedin.com/jobs/view/junior-cloud-security-engineer-at-peoples-group-4426689877>) |
+_No roles currently_
 
 ## Mobile
 _No roles currently_
