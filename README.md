@@ -49,9 +49,7 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Jr. Software Engineer, AI Agent Platform <!--id:868646379--> | Motorola Solutions | Build real-time AI features and pipelines | Global safety tech leader in communications | Full-time | Ontario (Remote) | [Apply](<https://www.linkedin.com/jobs/view/4475855695/>) |
 
 ## DevOps / SRE / Platform
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Data Cloud DevOps Engineer <!--id:875924447--> | Rockland Tech Hub | Build and maintain cloud infra, CI/CD pipelines | Canada-based tech firm specializing in cloud platforms | Full-time | Greater Vancouver, British Columbia (Remote) | [Apply](<https://www.linkedin.com/jobs/view/4475228728/>) |
+_No roles currently_
 
 ## Security
 _No roles currently_
