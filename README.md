@@ -63,7 +63,6 @@ _No roles currently_
 ## Hardware / Firmware
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
-| Jr. Embedded BSP SW Engineer <!--id:871066816--> | Nokia | Design and implement BSP drivers | Global telecom equipment provider with embedded focus | Full-time | Canada (Onsite) | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40110>) |
 | Jr. Embedded BSP SW Engineer <!--id:870501136--> | Nokia | Design and develop board support, device drivers. | Global telecom hardware leader, strong embedded teams. | Full-time | Kanata, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474412190/>) |
 
 ## Product / TPM
