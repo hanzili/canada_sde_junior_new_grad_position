@@ -38,15 +38,12 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 | Junior Software Developer - System Integration Labs (North Shore)-EN <!--id:874858636--> | CAE | Develop real-time simulation software in C++ for avionics | Global aerospace and defense simulation leader. | Full-time | Greater Montreal Metropolitan Area (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4474453706/>) |
 | Junior Software Developer - System Integration Labs (North Shore) <!--id:872039741--> | CAE | Develop real-time simulation software and avionics interfaces | Global defense and simulation technology leader | Full-time | Mirabel, QC (Hybrid) | [Apply](<https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1>) |
 | Jr. Full Stack Developer - Invitation Project <!--id:871402163--> | Christian Career | Build full-stack features, APIs, and UI. | Faith-based organization building evangelism platforms. | Full-time | Langley, BC (Onsite) | [Apply](<https://recruiterflow.com/christiancareer/jobs/3266?location=697&source=indeed&utm_channel=recruiterflow-posting>) |
-| Junior Full Stack Developer <!--id:869193827--> | Government of Alberta | Develop AI-enabled full-stack features and services | Public sector tech hub serving Albertans | Full-time · $66,130 - $99,178/yr | Edmonton, Alberta (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474668020/>) |
-| Jr. Software Engineer, AI Agent Platform <!--id:868833464--> | Motorolasolutions | Build features, fix bugs, deploy AI platform | Global security tech leader; AI-enabled. | Full-time | Ontario Remote Work (Onsite) | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300>) |
 
 ## Data / ML
 | Title | Company | Role | Company Info | Details | Location | Apply |
 |-------|---------|------|--------------|---------|----------|:-----:|
 | Junior Analyst, Investment Analytics <!--id:874698181--> | Vincent Associates Inc. | Collect, process, and QA mutual fund data | Canadian financial data analytics firm. | Contract · 12mo | Toronto, Ontario, Canada (Hybrid) | [Apply](<https://vincentinc.bamboohr.com/careers/57>) |
 | Junior Analyst, Investment Analytics <!--id:874440011--> | Vincent Associates | Analyze, clean, and maintain mutual fund data daily. | Finance-focused analytics firm, mutual fund data specialists | Contract · 12mo · Nov 2026 | Toronto, ON M3B 2T5 (Hybrid) | [Apply](<https://vincentinc.bamboohr.com/careers/57?postedDate=2026-10-08&source=indeed&src=indeed>) |
-| Jr. Software Engineer, AI Agent Platform <!--id:868646379--> | Motorola Solutions | Build real-time AI features and pipelines | Global safety tech leader in communications | Full-time | Ontario (Remote) | [Apply](<https://www.linkedin.com/jobs/view/4475855695/>) |
 
 ## DevOps / SRE / Platform
 _No roles currently_
