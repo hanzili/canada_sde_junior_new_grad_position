@@ -30,20 +30,10 @@ See also: [Internships](https://github.com/hanzili/canada_sde_intern_position) |
 - [Startup / VC / Ops](#startup-vc-ops)
 
 ## Software Engineering
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| 💤 Fresh Graduate – Java Full Stack Developer <!--id:875727899--> | KTek Resourcing | Develop Java full stack features and APIs | IT staffing firm serving enterprise clients | Full-time | Toronto, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4477680626/>) |
-| Junior AI-Accelerated Developer <!--id:874697286--> | Spare | Iterate AI-assisted code, review, and push merges | AI-first startup accelerating urban mobility software | Full-time · $70K-$101K CAD | Vancouver, British Columbia (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4476237412/>) |
-| Junior Software Developer <!--id:874610920--> | KEV Group | Build React/TypeScript features; write tests; fix bugs | K-12 education fintech, scalable cloud software | Full-time · $80-90K/yr | Toronto, Ontario (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4476220855/>) |
-| Junior Software Developer - System Integration Labs (North Shore)-EN <!--id:874858636--> | CAE | Develop real-time simulation software in C++ for avionics | Global aerospace and defense simulation leader. | Full-time | Greater Montreal Metropolitan Area (Hybrid) | [Apply](<https://www.linkedin.com/jobs/view/4474453706/>) |
-| Junior Software Developer - System Integration Labs (North Shore) <!--id:872039741--> | CAE | Develop real-time simulation software and avionics interfaces | Global defense and simulation technology leader | Full-time | Mirabel, QC (Hybrid) | [Apply](<https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1>) |
-| Jr. Full Stack Developer - Invitation Project <!--id:871402163--> | Christian Career | Build full-stack features, APIs, and UI. | Faith-based organization building evangelism platforms. | Full-time | Langley, BC (Onsite) | [Apply](<https://recruiterflow.com/christiancareer/jobs/3266?location=697&source=indeed&utm_channel=recruiterflow-posting>) |
+_No roles currently_
 
 ## Data / ML
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Junior Analyst, Investment Analytics <!--id:874698181--> | Vincent Associates Inc. | Collect, process, and QA mutual fund data | Canadian financial data analytics firm. | Contract · 12mo | Toronto, Ontario, Canada (Hybrid) | [Apply](<https://vincentinc.bamboohr.com/careers/57>) |
-| Junior Analyst, Investment Analytics <!--id:874440011--> | Vincent Associates | Analyze, clean, and maintain mutual fund data daily. | Finance-focused analytics firm, mutual fund data specialists | Contract · 12mo · Nov 2026 | Toronto, ON M3B 2T5 (Hybrid) | [Apply](<https://vincentinc.bamboohr.com/careers/57?postedDate=2026-10-08&source=indeed&src=indeed>) |
+_No roles currently_
 
 ## DevOps / SRE / Platform
 _No roles currently_
@@ -58,9 +48,7 @@ _No roles currently_
 _No roles currently_
 
 ## Hardware / Firmware
-| Title | Company | Role | Company Info | Details | Location | Apply |
-|-------|---------|------|--------------|---------|----------|:-----:|
-| Jr. Embedded BSP SW Engineer <!--id:870501136--> | Nokia | Design and develop board support, device drivers. | Global telecom hardware leader, strong embedded teams. | Full-time | Kanata, Ontario (Onsite) | [Apply](<https://www.linkedin.com/jobs/view/4474412190/>) |
+_No roles currently_
 
 ## Product / TPM
 _No roles currently_
